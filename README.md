@@ -3,7 +3,7 @@
 This project analyzes stock prices based on sentiment analysis of news headlines. It uses OpenAI's GPT for sentiment analysis and evaluates investment strategies.
 
 ## Directory Structure
-```
+```sh
 stock_analysis_project/
 │
 ├── data/

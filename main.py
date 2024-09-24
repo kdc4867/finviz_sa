@@ -7,7 +7,7 @@ from src.scraper import scrape_finviz_news
 from src.strategy_evaluation import evaluate_strategy
 from src.analysis import load_and_prepare_data, analyze_correlation, simple_trading_strategy
 import pandas as pd
-
+api_key = os.getenv('OPENAI_API_KEY')
 if __name__ == "__main__":
     output_file = 'data/finviz_sentiment_analysis_results_updated.csv'
     

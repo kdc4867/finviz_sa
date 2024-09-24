@@ -1,0 +1,31 @@
+name: Run News Scraper
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # UTC 기준 매일 오후 11시 (미국 동부 시간 오후 7시, 한국 시간 오전 8시)
+  workflow_dispatch:  # 수동으로 워크플로우를 실행할 수 있는 옵션
+
+jobs:
+  scrape-and-analyze:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run main script
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: python main.py
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions@example.com"
+        git config --global user.name "GitHub Actions"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update sentiment analysis results"
+        git push

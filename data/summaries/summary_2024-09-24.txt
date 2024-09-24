@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 22
+- 중립적 헤드라인: 12
+- 부정적 헤드라인: 23
+
+### 2. 주요 뉴스 요약
+
+#### [금융 및 중앙은행 정책]
+**헤드라인**: *"Fed holds rates steady, Powell sets stage for September cut"*,  
+**헤드라인**: *"Fed’s Powell puts September rate cut on the table, but doesn’t say much about what comes next"*
+
+미국 연방준비제도(Fed)의 금리 정책에 대한 헤드라인이 두드러진 하루였습니다. 파월 의장은 금리를 동결하였고, 향후 금리 인하 가능성을 언급하며 시장의 관심을 끌었습니다. 이 결정은 투자자들로 하여금 안정성을 느끼게 하는 동시에 앞으로의 금리 환경에 대한 기대감을 증대시킵니다.
+
+#### [기술 및 기업 실적]
+**헤드라인**: *"Earnings results bruised Microsoft while AMD cruised, but AI will boost them both"*,  
+**헤드라인**: *"Meta Sales Beat Estimates on Advertising Growth; Shares Jump"*
+
+기술주 실적과 관련한 뉴스가 강세를 보였습니다. 마이크로소프트는 실적 부진을 겪었지만, AMD와 메타는 광고 성장으로 긍정적인 평가를 받았습니다. 이러한 결과들은 인공지능(AI)의 발전이 기술 업계에 미치는 영향력을 재확인시키며, 투자자들은 이 분야의 확장이 계속될 것이라는 인식을 강화하고 있습니다.
+
+#### [중동 및 국제 정세]
+**헤드라인**: *"Oil Extends Jump on Report Iran Orders Retaliatory Strike"*,  
+**헤드라인**: *"Israeli Shekel Tumbles After Hamas Leader Haniyeh Killed in Iran"*
+
+중동에서의 긴장 상황이 금융 시장에 미치는 영향이 두드러졌습니다. 이란의 보복 공격 명령과 하마스 지도자의 사망 소식이 이스라엘 셰켈을 끌어내리며, 유가 상승을 유발했습니다. 이러한 국제 정세의 불안정성은 투자자들에게 리스크를 증가시키는 요소로 작용하고 있음을 알 수 있습니다.
+
+### 3. 결론
+오늘의 시장 정서는 전반적으로 부정적인 측면이 두드러졌습니다. 금리 동결에도 불구하고 향후 금리 인하에 대한 기대감이 시장에 미치는 영향은 긍정적입니다. 그러나 기술주 실적 부진 및 중동의 불안정성은 여전히 투자자들에게 우려를 안기고 있습니다. 따라서 투자자들은 긴축된 금융 환경 속에서 기술주와 국제 경제 뉴스에 더욱 주의를 기울여야 할 것으로 보입니다.

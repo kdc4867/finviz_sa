@@ -2,7 +2,7 @@ name: Run News Scraper
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # UTC 기준 매일 오후 11시
+    - cron: '0 1 * * *'  # UTC 기준 매일 오전 1시
   workflow_dispatch:
 
 jobs:

@@ -6,3 +6,4 @@ numpy
 statsmodels
 scikit-learn
 joblib
+python-dotenv

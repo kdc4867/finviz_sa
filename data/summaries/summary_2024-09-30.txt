@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적: 20
+- 중립적: 25
+- 부정적: 30
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 중국 경제 및 부동산 정책
+- **헤드라인**: *"Chinese Stocks Surge on Property Aid, Japan Slumps: Markets Wrap"*
+- **헤드라인**: *"China Moves to Cut Mortgage Rates to Revive Housing Market"*
+  
+중국 시장은 부동산 지원 조치와 관련하여 급상승했으며, 정부가 주택 시장을 이끌기 위해 모기지 금리를 인하할 계획을 발표했습니다. 이는 중국 경제의 회복을 위한 중요한 발판이 될 수 있으며, 자산 시장에 대한 투자자들의 긍정적인 반응을 이끌고 있습니다.
+
+#### 주제 2: 일본 정치 및 주식 시장
+- **헤드라인**: *"Japan Stocks Drop After Ishiba’s Win Catches Investors Off Guard"*
+- **헤드라인**: *"Japan Stocks Set to Fall on Rate Hike Fears After Ishiba’s Win"*
+
+일본의 이시바 전 총리의 승리가 투자자들에게 놀라움을 안기며 주식 시장이 하락세를 보이고 있습니다. 이로 인해 금리 인상에 대한 우려가 커지고 있으며, 일본 경제에 부정적인 영향을 미칠 수 있는 요소로 작용할 가능성이 큽니다.
+
+#### 주제 3: 글로벌 시장 및 이머징 시장 동향
+- **헤드라인**: *"Stock-market rally built on hopes for more big Fed rate cuts faces crucial test"*
+- **헤드라인**: *"Stocks Are In and Bonds Are Out: Top Trades for the Rest of the Year"*
+
+미국 연준의 금리 인하 기대감 속에 주식 시장이 상승세를 보이고 있지만, 이러한 상황이 지속될 수 있을지는 불확실합니다. 많은 투자자들이 주식 선호를 이어가는 가운데, 국채의 매력이 감소하면서 글로벌 투자 트렌드가 변화하고 있음이 시사됩니다.
+
+### 3. 결론
+전반적으로 오늘의 시장 감정은 부정적인 요소가 두드러지고 있으며, 특히 일본의 정치 및 금리 인상이 투자 심리에 부정적 영향을 미치고 있습니다. 반면 중국의 경제 회복 노력은 긍정적인 신호를 보내고 있지만, 여전히 글로벌 경제의 불확실성을 감안할 때 신중한 접근이 필요합니다. 투자자들은 이러한 다양한 요인들을 고려하여 전략을 조정해야 할 때입니다.

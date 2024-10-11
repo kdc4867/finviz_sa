@@ -1,0 +1,29 @@
+## 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 31개
+- 중립적 헤드라인: 42개
+- 부정적 헤드라인: 48개
+
+## 2. 주요 뉴스 요약
+
+### 1. 인플레이션과 통화정책
+**헤드라인**: *"Inflation rises 2.4% in September, above expectations,"*  
+**헤드라인**: *"CPI Increased 0.2% in September; Core CPI increased 0.3%,"*  
+이번 인플레이션 데이터는 시장에 상당한 영향을 미쳤으며, 예상보다 높은 상승률이 통화 정책에 대한 우려를 부채질하고 있다. 연준의 금리 인하 기대가 커지고 있지만, 인플레이션이 지속적으로 높은 수준을 유지하는 이상 긴축적 통화 정책을 유지할 가능성이 있다.
+
+### 2. 노동시장과 실업 수치
+**헤드라인**: *"Jobless claims surge to highest level since August 2023,"*  
+**헤드라인**: *"Weekly Initial Unemployment Claims Increase to 258,000,"*  
+실업 청구 수치의 급증은 노동 시장의 불확실성을 반영하며, 경기 둔화 신호로 해석될 수 있다. 이러한 데이터는 고용 지표에 대한 우려를 증대시켜 경제 성장을 염려하게 만든다.
+
+### 3. 글로벌 경제와 정치 불안
+**헤드라인**: *"Global Trade Grows but Remains Vulnerable to War and Geopolitics,"*  
+**헤드라인**: *"UN Accuses Israel Of Firing On Its Peacekeeping Force In Lebanon, Wounding Two,"*  
+전 세계적으로 무역은 증가하고 있으나, 지정학적 긴장과 전쟁의 위험이 커지고 있어 불안정성이 남아 있다. 이와 같은 정치적 불확실성은 투자자들에게 큰 걱정거리로 작용할 수 있으며, 특히 방산주 등 특정 섹터에 긍정적인 영향을 미칠 수 있다.
+
+### 4. 기업 실적 및 전망
+**헤드라인**: *"Big Banks Prep for Billions More in Bond Issuance After Earnings,"*  
+**헤드라인**: *"Private Credit’s Record Quarter Masks Worry of Downsized Deals,"*  
+대형 은행들이 수익 발표 이후 채권 발행에 나설 준비를 하고 있으며, 향후 경제 전망에 대한 기대가 제기된다. 그러나 일부 기업의 실적 하향 조정 우려는 투자자들에게 추가적인 불안을 증대시킬 수 있다.
+
+## 3. 결론
+전체적으로 오늘 시장의 감정은 부정적인 경향이 강하다. 인플레이션 압박과 실업 수치의 증가가 투자자들에게 경제 성장에 대한 우려를 불러일으키고 있으며, 이러한 요소들이 연준의 통화정책 결정에 중요한 변수로 작용할 것이다. 기술, 방산과 같은 특정 섹터가 유리한 상황에 처할 수 있지만, 전반적으로 글로벌 경제의 불안정성이 중시되고 있는 상황이다.

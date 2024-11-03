@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 10
+- 중립적인 헤드라인: 23
+- 부정적인 헤드라인: 27
+
+### 2. 주요 뉴스 요약
+
+#### 경제 및 고용 관련
+**헤드라인**: *"Awful Jobs Report Aside, the Economy Is Still Strong"*  
+**헤드라인**: *"Fed is cutting rates to ‘get in front’ of future resetting debt"*  
+경제와 관련하여 고용 지표가 부진하다는 보고가 있었음에도 불구하고, 경제는 여전히 강한 상황이라고 전문가들은 강조하고 있습니다. 연준이 미래의 부채 리셋을 고려하여 금리를 인하하는 방안을 모색하고 있다는 점은 경제 안정성에 대한 회복적인 신호로 해석됩니다.
+
+#### 정치 및 선거
+**헤드라인**: *"Trump election odds tumble on betting markets after Iowa poll shows Harris lead"*  
+**헤드라인**: *"Election Back to a Tossup Says Nate Silver Based on Pennsylvania Poll"*  
+미국의 대선이 다가오면서, 선거 관련 뉴스가 주목받고 있습니다. 아이오와주 여론조사에서 카말라 해리스가 우세하다는 결과가 나온 후 트럼프의 당선 가능성이 줄어들고 있으며, 이는 투자자들에게 정치적 불확실성이 큰 영향을 미칠 것임을 시사합니다. 
+
+#### 금융 및 투자 전망
+**헤드라인**: *"Berkshire Hathaway's cash fortress tops $300 billion as Buffett sells more stock"*  
+**헤드라인**: *"How will economic sectors react to election results?"*  
+워렌 버핏의 버크셔 해서웨이가 3000억 달러 이상의 현금을 보유하고 있는 가운데, 주식 매각이 이어지고 있습니다. 이는 시장의 변동성이 심화될 것이라는 투자자들의 우려를 반영하고, 특히 선거 결과에 따라 경제 부문이 어떻게 반응할지에 대한 관심이 높아지고 있음을 나타냅니다.
+
+#### 기타 산업 동향
+**헤드라인**: *"Tech Earnings Fail to Fire Up Traders With Sky-High Expectations"*  
+**헤드라인**: *"TGI Fridays Files for Chapter 11 Bankruptcy"*  
+기술 기업들의 실적 발표가 예상을 하회하면서 투자자들 사이에 실망감이 커졌습니다. 또한 TGI 프라이데이가 파산 신청을 하면서 외식 산업의 어려움이 더욱 부각되었습니다. 이는 소비자 신뢰도와 경제 회복에 대한 우려를 가중시키고 있습니다.
+
+### 3. 결론
+오늘 뉴스는 총체적으로 부정적인 sentiment를 보이며 시장의 불확실성이 커지고 있음을 나타냅니다. 선거 결과에 대한 예측 불확실성과 고용 데이터 부진이 투자 심리에 부정적인 영향을 미치고 있으며, 특히 정치적 요인이 시장에 미치는 영향에 대한 우려가 지속되고 있습니다. 앞으로의 경제 상황과 정치적 환경에 대한 모니터링이 필요하며, 투자 전략에 대한 재검토가 요구될 것입니다.

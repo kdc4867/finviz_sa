@@ -1,0 +1,33 @@
+## 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 42
+- 중립적 헤드라인 수: 42
+- 부정적 헤드라인 수: 34
+
+## 주요 뉴스 요약
+
+### 1. 트럼프의 당선과 주식 시장 반응
+**헤드라인**: *"Stocks soar to record highs as Trump returns to presidency"*  
+**헤드라인**: *"Trump triumph fuels surge in US stocks and dollar, Treasuries slide"*
+
+트럼프 전 대통령의 재선이 주식 시장에 긍정적인 영향을 미치고 있으며, 여러 주요 지수들이 사상 최고치를 경신했습니다. 이러한 반응은 투자자들 사이에서 트럼프 행정부의 경제 정책 기대가 반영된 것으로, 향후 경제 성장에 대한 낙관론이 강하게 작용하고 있음을 보여줍니다.
+
+### 2. 트럼프 승리에 따른 유가 및 통화 시장의 변동성
+**헤드라인**: *"Oil Fluctuates as Traders Gauge Effects of Trump’s Election Win"*  
+**헤드라인**: *"Loonie Tumbles to Two-Year Low as Trump Win Changes US Dollar’s Trajectory"*
+
+트럼프의 승리는 통화 시장과 유가에 큰 영향을 미치고 있습니다. 특히, 캐나다 달러(루니)는 미국 달러의 상승으로 인해 2년 만에 최저치로 하락했으며, 이는 추가적인 변동성과 불확실성을 야기하고 있습니다. 이러한 요소들은 글로벌 경제에 대한 우려를 불러일으킬 수 있습니다.
+
+### 3. 암호화폐 산업의 정치적 투자 성과
+**헤드라인**: *"The Crypto Industry’s Spending on the Election Pays Off"*  
+**헤드라인**: *"Pro-crypto candidates win big as industry’s significant election bet pays off"*
+
+암호화폐 관련 후보자들이 선거에서 큰 승리를 거두면서 암호화폐 산업의 정치적 투자가 결실을 맺었습니다. 이러한 결과는 전문 투자자들 사이에서 암호화폐와 관련된 자산에 대한 신뢰를 강화하며, 향후 해당 산업의 성장이 기대된다는 신호로 해석될 수 있습니다.
+
+### 4. 부동산 및 고용 시장의 불확실성
+**헤드라인**: *"Bank of Canada says changes to mortgage structure will not resolve housing affordability"*  
+**헤드라인**: *"Trump’s Economic Plans Could Worsen Inflation, Economists Say"*
+
+부동산 시장에서의 불확실성이 여전히 지속되고 있으며, 캐나다 중앙은행은 모기지 구조의 변화가 주택의 구입 가능성을 해결하지 못할 것이라고 밝혔습니다. 또한, 트럼프의 경제 정책이 인플레이션을 악화시킬 것이라는 우려가 제기되고 있어, 이로 인한 고용 시장에도 부정적인 영향을 미칠 수 있습니다.
+
+## 결론
+현재 시장은 트럼프의 당선에 대한 전반적인 긍정적인 반응을 보이며, 경제 성장에 대한 기대감이 높아지고 있습니다. 그러나 유가 및 통화 시장의 변동성과 부동산 시장의 지속적인 불확실성은 투자자들에게 경계해야 할 요소로 작용하고 있습니다. 종합적으로 볼 때, 트럼프의 정치적 결정이 향후 시장에 미칠 잠재적 영향에 대한 분석이 필요할 것으로 보입니다.

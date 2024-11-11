@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 18개
+- 중립적인 헤드라인: 25개
+- 부정적인 헤드라인: 30개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 중국 경제의 압박
+**헤드라인**: *"Asian Stocks Fall as China Support Disappoints: Markets Wrap"*  
+**헤드라인**: *"Chinese Stocks Face Pressure as Fiscal Stimulus Underwhelms"*
+
+중국 정부의 재정 자극책에 대한 기대가 실망으로 돌아오면서 아시아 주식 시장이 하락세를 보이고 있습니다. 이러한 압박은 특히 중국 주식에 부정적인 영향을 미치고 있으며, 중국 경제의 회복에 대한 우려가 커지고 있는 상황입니다. 중국의 경제 부진은 글로벌 시장의 불확실성을 증가시킬 수 있는 요인으로 작용하고 있습니다.
+
+#### 테마 2: 트럼프 행정부의 시장 영향
+**헤드라인**: *"Trump presidency likely won't be a problem for Nvidia's stock"*  
+**헤드라인**: *"What Trump's second term could mean for student debt, Inflation, retail sales data greet a market rally: What to know this week"*
+
+트럼프 전 대통령의 재임 가능성에 대해 전문가들은 일부 기업, 특히 테크 주식에 대한 긍정적인 전망을 내놓고 있습니다. 하지만 전반적으로 트럼프가 재임하면서 시장에 미칠 영향에 대한 우려도 존재하며, 특히 인플레이션과 같은 경제적 이슈들이 주목받고 있습니다. 이러한 변화는 투자자들이 주목해야 할 중요한 요인입니다.
+
+#### 테마 3: 비트코인과 암호화폐 시장
+**헤드라인**: *"Bitcoin briefly tops $80,000 for first time, extending its Trump-fueled rally"*  
+**헤드라인**: *"Bitcoin tops record $80,000 as Trump nears sweep of US Congress"*
+
+비트코인이 8만 달러를 초과하는 등 강력한 상승세를 보이며 트럼프의 정책 기대감에 힘입어 암호화폐 시장이 다시 활기를 띠고 있습니다. 이는 암호화폐 투자자들에게 긍정적인 신호로 작용하고 있으며, 향후에도 트럼프 대통령의 정책이 암호화폐 시장에 미치는 영향에 대해 주목할 필요가 있습니다.
+
+### 3. 결론
+오늘 뉴스에서는 부정적인 헤드라인이 가장 많은 비율을 차지하며, 특히 중국 경제의 둔화와 그에 따른 글로벌 시장의 불확실성이 두드러졌습니다. 반면, 비트코인과 같은 암호화폐 시장은 트럼프의 정책 기대감에 힘입어 긍정적인 흐름을 보이고 있습니다. 전반적으로 시장은 혼조세를 보이고 있으며, 향후 경제 예측과 중앙은행의 정책 변화가 주요 변수로 작용할 것으로 예상됩니다.

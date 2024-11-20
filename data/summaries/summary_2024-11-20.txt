@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 41
+- 중립적인 헤드라인: 53
+- 부정적인 헤드라인: 30
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: Nvidia의 실적 발표
+- **헤드라인**: *"Here’s how options traders are playing Nvidia in advance of its earnings release."*
+- **헤드라인**: *"Nvidia stock rises as earnings loom."*
+  
+Nvidia가 곧 발표할 실적에 대한 기대감이 커지고 있으며, 옵션 트레이더들이 이 회사의 주식에 대해 적극적으로 포지션을 취하고 있다는 점이 눈에 띈다. 이와 함께 Nvidia의 주가 상승은 투자자들의 긍정적인 시장 심리를 반영하고 있으며, 향후 실적 발표가 주가에 미칠 영향에 대한 기대가 반영되고 있다.
+
+#### 테마 2: 우크라이나-러시아 전쟁의 영향
+- **헤드लाइन**: *"Russia's war against Ukraine is entering a dangerous new phase."*
+- **헤드라인**: *"Expert on stock market dropping amid escalated Ukraine-Russia tensions: ‘We’re gonna get through this’."*
+
+우크라이나와 러시아의 갈등은 새로운 위기로 접어들고 있으며, 이로 인해 주식 시장의 변동성이 커지고 있다. 전문가들은 이러한 상황에도 불구하고 시장이 회복할 것이라는 긍정적인 전망을 내놓고 있으나, 투자자들은 여전히 우려감을 느끼고 있는 모습이다.
+
+#### 테마 3: 미국 경제 및 재정 동향
+- **헤드라인**: *"State-Level Data Suggest US Payroll Weakness Is Likely Temporary."*
+- **헤드라인**: *"National Debt Tracker: American taxpayers (you) are now on the hook for $35,959,176,987,940.11 as of 11/18/24."*
+
+미국의 경제 지표는 고용 약세가 일시적일 가능성을 시사하고 있다. 그러나 동시에 국가 부채가 증가하면서 세금 납부자들은 막대한 재정 부담을 지고 있으며, 이는 향후 경제 정책에 영향을 미칠 중요한 요소가 될 것이다.
+
+### 3. 결론
+오늘의 시장 심리는 전반적으로 긍정적이지만, 우크라이나-러시아 전쟁과 같은 지정학적 긴장감이 투자자들에게 우려를 주고 있다. Nvidia의 실적 발표를 앞두고 관련 주식의 상승이 나타나며, 테크주에서의 강세가 더욱 부각되고 있다. 그러나 국가 부채와 고용 시장의 불확실성은 앞으로의 경제 전망에 중요한 변수로 작용할 것으로 보인다. 이러한 여러 요인들이 상호 작용하며 시장의 변동성을 더욱 촉진할 가능성이 있다.

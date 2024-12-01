@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 17
+- 중립적인 헤드라인: 8
+- 부정적인 헤드라인: 27
+
+### 2. 주요 뉴스 요약
+
+#### 경제 및 증시 전망
+- **헤드라인**: *"Stocks are rallying hard as the economy refuses to buckle. Will it last in 2025?"*
+- **헤드라인**: *"Trump's plans risk inflating bullish stock market into a bubble."*
+  
+현재 주식시장은 강한 상승세를 보이고 있으며, 많은 애널리스트들은 이러한 현상이 2025년까지 지속될 가능성에 대한 질문을 던지고 있습니다. 그러나 일부 전문가들은 트럼프 전 대통령의 정책이 주식 시장의 과열을 초래할 수 있다고 경고하고 있어 시장의 불안정성이 우려됩니다.
+
+#### 블랙 프라이데이 및 소비자 지출
+- **헤드라인**: *"Black Friday E-Commerce Spend to Reach $10.8 Billion, Adobe Says."*
+- **헤드라인**: *"Majority Will Rely On Financing For Black-Friday/Cyber-Monday Despite Discounts."*
+
+블랙 프라이데이 기간 동안 온라인 소비 지출이 108억 달러에 이를 것으로 예상되며, 소비자들이 할인에도 불구하고 여전히 자금을 조달하여 구매할 것을 선택하고 있다는 사실이 강조되고 있습니다. 이는 소비자 신뢰가 여전히 유지되고 있음을 나타내지만, 동시에 많은 사람들이 재정적인 압박을 느끼고 있다는 점을 보여줍니다.
+
+#### 정치 및 정책 변화
+- **헤드라인**: *"Biden’s plan for Medicare coverage of weight-loss drugs would drive up costs by billions of dollars."*
+- **헤드라인**: *"Trump warns BRICS nations against replacing US dollar."*
+
+정치적 변화는 경제에 중대한 영향을 미칠 수 있으며, 바이든 대통령의 메디케어 정책은 비용 증가를 유발할 것으로 예상됩니다. 동시에 트럼프 전 대통령은 BRICS 국가들이 달러를 대체하지 않도록 경고하고 있어, 글로벌 통화 시스템의 안정성에 대한 우려가 커지고 있습니다.
+
+#### 산업 및 기업 동향
+- **헤드라인**: *"Eli Lilly and Novo Nordisk's Obesity Moat Just Got Stronger."*
+- **헤드라인**: *"Five ways to persuade more people to buy electric cars."*
+
+엘리 릴리와 노보 노르디스크는 비만 관리 분야에서의 우위를 강화하고 있으며, 전기차 구매를 늘리기 위한 다양한 방안이 모색되고 있습니다. 이는 건강 및 환경을 고려한 소비 트렌드의 변화를 반영하고 있으며, 관련 기업들에게는 기회와 도전이 동시에 존재하고 있음을 나타냅니다.
+
+### 3. 결론
+오늘 뉴스 전반적으로 시장 심리는 부정적인 요소가 다수를 차지하고 있으며, 특히 정치적 불안정성과 비용 증가 우려가 두드러집니다. 그러나 블랙 프라이데이와 같은 소비 증가 신호는 긍정적인 경제 지표로 여겨질 수 있습니다. 앞으로의 경제 및 정치적 변화가 시장에 미치는 영향을 면밀히 관찰할 필요가 있으며, 투자자들은 불확실성이 팽배한 가운데 신중한 접근이 요구됩니다.

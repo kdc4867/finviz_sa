@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 40
+- 중립적인 헤드라인 수: 35
+- 부정적인 헤드라인 수: 40
+
+### 주요 뉴스 요약
+
+#### 1. 일본 경제 및 통화 정책
+**헤드라인**: *"JGBs Mixed; Prices Could Firm This Week, BOJ Weighs Case for First Triple Hike Since Japan’s Bubble Burst"*  
+**헤드라인**: *"Yen Carry Trade That Rattled Markets Shows Signs of a Comeback"*  
+일본 정부 채권(JGB) 시장은 혼조세를 보이며, BOJ(일본은행)는 일본의 경제 회복을 반영하여 과거 버블 이후 첫 번째 금리 인상 가능성을 검토하고 있습니다. 일본 엔화의 캐리 트레이드는 다시 활성화될 조짐을 보이며, 이는 투자자들이 금리 상승 기미를 반영하고 있다는 것을 시사합니다.
+
+#### 2. 중국 경제 및 통상 정책
+**헤드라인**: *"China’s Yuan Falls to One-Year Low on Tariff Risk"*  
+**헤드라인**: *"Biden Targets China’s Chip Industry With Wider Trade Bans"*  
+중국의 위안화가 1년 최저치로 떨어진 가운데, 미국의 무역 관세 리스크가 계속되고 있습니다. 바이든 행정부는 중국 반도체 산업에 대한 새로운 무역 금지 조치를 통해 긴장을 고조시키고 있으며, 이로 인해 글로벌 시장이 불안정성을 겪고 있습니다.
+
+#### 3. 미국 주식 시장 및 경제 지표
+**헤드라인**: *"S&P 500 futures are little changed after index closes at a record"*  
+**헤드라인**: *"Stocks Kick Off Final Month of 2024 at Record High: Markets Wrap"*  
+S&P 500 지수는 사상 최고치를 기록하며 안정세를 유지하고 있지만, 향후 발표될 경제 지표들은 주식 시장에 중대한 영향을 미칠 수 있습니다. 특히, 이달의 경제 보고서가 가시화됨에 따라 투자자들은 다음 금리 결정에 대한 시장의 반응을 면밀히 주시할 것입니다.
+
+#### 4. 투자 심리 및 주식 시장 동향
+**헤드라인**: *"Market, crypto, stocks are in 'risk-on mode,' expert signals"*  
+**헤드라인**: *"A record number of CEOs are heading for the exits — here's why"*  
+현재 시장은 위험 감수 모드로 전환되었으며, 투자자들은 긍정적인 신호에 반응하고 있습니다. 하지만 잇따르는 CEO 물러남 현상은 기업 내부의 불안감을 반영하고 있으며, 이는 장기적으로 주가에 부정적 영향을 미칠 수 있습니다.
+
+### 결론
+전반적으로 오늘의 시장 감정은 중립과 부정이 혼재하고 있으며, 특히 일본과 중국의 경제 상황이 주요 화두로 떠오르고 있습니다. 투자자들은 미국의 경제 지표와 함께 일본은행의 금리 정책을 면밀히 관찰하며, 글로벌 무역의 불확실성 속에서 신중하게 접근하고 있습니다. 향후 경제적 불확실성이 지속될 경우, 주식 시장의 변동성은 더욱 확대될 수 있습니다.

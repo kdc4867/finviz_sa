@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 42
+- 중립 헤드라인: 40
+- 부정적 헤드라인: 39
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 인공지능 및 기술 동향
+**헤드라인**: *"HPE sees more than 30% growth in server sales as AI boom rolls on"*  
+**헤드라인**: *"Amazon, AMD emerge as Nvidia chip competitors"*
+
+AI 산업의 성장은 HPE의 서버 판매 증가로 직접 연결되며, 기술 기업들이 Nvidia와의 경쟁에서 두각을 나타내고 있다는 점이 주목할 만합니다. 이는 인공지능의 확산이 데이터 센터 및 반도체 시장에서 기업의 성장 기회를 확대하고 있음을 시사합니다.
+
+#### 테마 2: 경제 및 고용 시장
+**헤드라인**: *"US weekly jobless claims edge up; falling imports compress trade deficit"*  
+**헤드라인**: *"Mortgage rates fall for second straight week, lowest since October"*
+
+고용 시장에 대한 불확실성이 있지만, 주간 실업 수당 청구 건수의 소폭 상승은 경제가 여전히 회복 중임을 나타냅니다. 동시에 주택 담보 대출 금리가 하락함에 따라 주택 시장이 자극을 받을 것으로 보이며, 소비자 활동이 증가할 가능성을 보여줍니다.
+
+#### 테마 3: 국제 정세 및 정치적 불안
+**헤드라인**: *"Israel Preparing For Possibility Of Syrian State Collapse"*  
+**헤드라인**: *"Trump uncertainty could be driving car buyers to act now"*
+
+이스라엘과 시리아의 긴장은 국제 정세에서의 불확실성을 부각시키고 있으며, 이는 전세계적으로 시장의 변동성을 높일 수 있습니다. 트럼프의 정치적 불확실성은 소비자 신뢰에 영향을 미치고 있으며, 이는 자동차 시장에 즉각적인 구매를 부추기는 원인으로 작용하고 있습니다.
+
+### 3. 결론
+전반적으로 오늘의 뉴스는 긍정적인 요소와 부정적인 요소가 혼재되어 있습니다. 인공지능과 기술 혁신의 성장은 미래 성장 가능성을 높이고 있지만, 정치적 불안과 고용 시장의 불확실성은 경계해야 할 위험 요소입니다. 시장 참여자들은 이러한 복합적인 요인들을 면밀히 검토하면서 투자 결정을 내려야 할 시점입니다.

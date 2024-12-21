@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 35개
+- 중립적인 헤드라인: 42개
+- 부정적인 헤드라인: 47개
+
+### 2. 주요 뉴스 요약
+
+#### 1. 경제 및 통화 정책의 불확실성
+**헤드라인**: *"Fed's Goolsbee says policy uncertainty led to his shift on rate-cut path"*  
+**헤드라인**: *"Market expert points out 'all inflationary' indications for Fed rate increases."*
+- 연준의 통화 정책에 대한 불확실성이 투자자들의 불안을 더욱 증대시키고 있습니다. 이러한 불확실성은 금리 인하 계획의 변경으로 이어졌으며, 전문가들은 인플레이션 압박이 지속될 가능성을 경고하고 있습니다. 금리 인상이 불가피하다는 예상이 강화됨에 따라, 시장 참가자들의 신뢰가 저하되고 있습니다.
+
+#### 2. 주식시장과 투자 전략
+**헤드라인**: *"Stocks rebound on fresh inflation data to cap volatile week"*  
+**헤드라인**: *"Stocks rally after inflation data but close lower for the week."*
+- 주식시장은 최근 발표된 인플레이션 데이터에 따라 일시적인 반등을 보였지만, 주간 단위로는 하락세를 이어갔습니다. 투자자들은 변동성이 큰 시장 상황 속에서 회복세를 추구하는 한편, 향후 금리 인상이 주식 시장에 미치는 영향을 염두에 두고 신중한 투자 전략이 필요하다는 데 공감하고 있습니다.
+
+#### 3. 고용 및 소비 지표
+**헤드라인**: *"Personal Income increased 0.3% in November; Spending increased 0.4%."*  
+**헤드라인**: *"Real Spending Rises 0.3 Percent, Real Disposable Income Up 0.2 Percent."*
+- 개인 소득과 소비 지표의 증가에도 불구하고, 경제 전반에 걸친 불확실성이 여전히 투자자들에게 우려를 주고 있습니다. 소비자 지출의 증가가 일시적일 수 있으며, 경제 성장률에 긍정적인 영향을 미칠지 여부가 앞으로의 관건이 될 것입니다.
+
+#### 4. 글로벌 경제와 영향 요인
+**헤드라인**: *"US government shutdown showdown creates another investor worry"*  
+**헤드라인**: *"Germany’s Habeck ‘Concerned’ About UniCredit Move on Commerzbank."*
+- 미국 정부의 셧다운 위기가 다시 투자자들의 주요 우려 사항으로 부각되었습니다. 이러한 정치적 불확실성이 유럽과 글로벌 경제에도 파급효과를 미칠 수 있음을 시사하며, 특히 유럽 금융 기관들의 움직임이 주목받고 있습니다. 
+
+### 3. 결론
+전반적으로 오늘의 뉴스는 통화 정책에 대한 불확실성과 주식 시장의 변동성이 주요 주제임을 보여줍니다. 인플레이션 데이터에 따라 일시적인 반등이 있긴 했으나, 시장의 하향세가 지속되고 있으며, 정치적 불확실성은 투자 심리를 더욱 위축시키고 있습니다. 따라서 투자자들은 앞으로의 경제 상황을 면밀히 관찰하고, 신중한 투자 결정을 내릴 필요성이 큽니다.

@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 18
+- 중립적 헤드라인: 24
+- 부정적 헤드라인: 28
+
+### 2. 주요 뉴스 요약
+
+#### 경제 정책과 시장 반응
+- **헤드라인**: *"Orban Vows Fiscal Discipline to Soothe Market Before 2026 Ballot"*
+- **헤드라인**: *"Biden Signs US Spending Deal That Averts a Government Shutdown"*
+- 분석: 오르반 헝가리 총리는 2026년 선거를 앞두고 시장 안정화를 위한 재정 규율을 보장하겠다고 발표했습니다. 바이든 대통령의 지출 합의는 정부 폐쇄를 방지하여 시장의 불확실성을 줄여줍니다. 이러한 정책들은 투자자들 사이에서 긍정적인 반응을 이끌어내며, 시장의 신뢰를 회복하는 데 기여할 것으로 보입니다.
+
+#### 기술 및 기업 동향
+- **헤드라인**: *"Musk’s Trump Trade Makes Tesla a Winner With $570 Billion Rally"*
+- **헤드라인**: *"Why Companies Like OpenAI and SpaceX Are Staying Private Longer"*
+- 분석: 머스크의 트럼프와의 거래가 테슬라 주가 상승을 이끄는 가운데, 새로운 기업들은 공개 상장보다 사적인 방식으로 성장하는 전략을 채택하고 있습니다. 이는 투자자들에게 새로운 투자 기회를 제시하고, 기술 기업의 성장 가능성에 대한 기대를 높이고 있습니다.
+
+#### 소비자 및 금융 시장 동향
+- **헤드라인**: *"Credit Quality Shows Signs of Having Peaked"*
+- **헤드라인**: *"Dollar stores, a bellwether spending store, starting to see signs of belt-tightening"*
+- 분석: 신용 품질의 정점이 지나갔다는 경고가 제기되며, 달러 스토어와 같은 소매업체에서 지출 절감 조짐이 나타나고 있습니다. 이는 소비자 신뢰도와 경제 전반의 회복세에 문제를 야기할 수 있으며, 투자자들은 신중한 접근이 필요할 것입니다.
+
+### 3. 결론
+전반적으로 오늘의 뉴스는 다소 부정적인 시장 정서를 반영하고 있습니다. 특히 정부 정책과 경제 지표의 불확실성이 커지고 있으며, 기업들의 사적 성장 전략은 투자자들에게 새로운 도전과 기회를 동시에 제공하고 있습니다. 각기 다른 부문에서의 변화는 향후 시장의 흐름과 투자 전략에 영향을 미칠 중요한 요소로 작용할 것으로 예상됩니다.

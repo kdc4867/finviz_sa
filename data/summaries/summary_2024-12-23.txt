@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 17
+- 중립적인 헤드라인: 22
+- 부정적인 헤드라인: 22
+
+### 2. 주요 뉴스 요약
+
+#### a) 일본 채권 시장 및 금리 변화
+**헤드라인**: *"Japan’s Bond Market Is Set to Absorb Biggest Supply in a Decade"*  
+**헤드라인**: *"Wall Street evaluates 'higher for longer' rates: What to know this week"*  
+일본의 채권 시장에서 10년 만에 최대 규모의 공급이 예상되며, 미국의 금리 정책 변화가 투자자들 사이에 우려를 불러일으키고 있습니다. 이러한 금리 변화는 글로벌 자산 배분에 큰 영향을 미칠 수 있으며, 특히 일본의 경우 금리가 안정적이지 않자 외국인 투자자의 관심이 증가할 수 있습니다.
+
+#### b) 도널드 트럼프의 정치적 발언
+**헤드라인**: *"Trump threatens to try and regain control of Panama Canal"*  
+**헤드라인**: *"Trump threatens To Take Back Panama Canal As He Declares 'Golden Age Of America Is Upon Us'"*  
+트럼프 전 대통령이 파나마 운하에 대한 통제권 회복을 위협하는 발언을 통해 정치적 긴장을 조성하고 있음을 알리고 있습니다. 이러한 발언은 국제관계 및 글로벌 금융시장에 영향을 미칠 수 있으며, 투자자들은 정치 불안정성으로 인한 변동성을 경계해야 할 필요가 있습니다.
+
+#### c) 크리스마스 연휴 및 소비자 행동
+**헤드라인**: *"Strong winds disrupt Christmas getaway travel"*  
+**헤드라인**: *"How much money does Mariah Carey make from 'All I Want For Christmas Is You'? 'It's a lot,' music expert says"*  
+크리스마스 연휴 기간 동안의 여행과 관련된 뉴스가 소비자 심리를 반영하고 있습니다. 강한 바람으로 인해 여행에 차질이 빚어지면서 소비 패턴에 영향을 줄 수 있으며, 마리아 캐리가 연휴 시즌에 수익을 크게 올린다는 점은 소비자 지출의 중요성을 보여줍니다.
+
+#### d) 주식 시장 동향과 투자 심리
+**헤드라인**: *"Stocks are struggling — how concerned should you be?"*  
+**헤드라인**: *"The year that Wall Street got its swagger back"*  
+주식 시장에서의 어려움과 함께 월스트리트의 자신감 회복이 상충되고 있습니다. 투자자들은 변동성이 큰 환경 속에서 주식에 대한 신뢰를 유지하고 새로운 투자 기회를 모색해야 할 필요가 있습니다.
+
+### 3. 결론
+전반적으로 시장 분위기는 혼조세를 보이고 있으며, 긍정적인 뉴스와 부정적인 뉴스가 상반된 영향을 미치고 있습니다. 일본의 채권 시장 공급 증대나 크리스마스 소비 심리 증가와 같은 긍정적인 요소가 존재하는 반면, 도널드 트럼프의 정치적 발언과 금리 불확실성이 투자자들에게 부담을 주고 있습니다. 따라서 투자자들은 앞으로의 시장 변동성을 주의 깊게 지켜보아야 할 것입니다.

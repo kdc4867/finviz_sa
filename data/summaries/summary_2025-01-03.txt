@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 36
+- 중립적 헤드라인: 30
+- 부정적 헤드라인: 57
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 주택 시장과 모기지 대출
+**헤드라인**: *"If You Want to Buy a House, First Figure Out All the Hidden Costs"*  
+**헤드라인**: *"US Mortgage Rates Rise to Highest Since Early July"*  
+현재 모기지 대출 금리가 7% 근처로 상승하면서 주택 구입의 숨겨진 비용에 대한 주의가 요구되고 있습니다. 이는 주택 구입 수요에 악영향을 미치며, 투자자들은 시장의 불확실성에 대응할 준비가 필요합니다.
+
+#### 주제 2: 주식 시장의 반등과 우려
+**헤드라인**: *"Nasdaq surge ushers in new year comeback for stocks"*  
+**헤드라인**: *"Stocks rise to set stage for a new year comeback"*  
+주식 시장은 새로운 해의 시작과 함께 반등 조짐을 보이고 있으나, 여전히 불안정한 요소가 존재합니다. 특히, Tesla의 연간 판매 감소와 같은 특정 기업의 실적 저조가 전체 투자 심리에 부정적인 영향을 미치고 있습니다.
+
+#### 주제 3: 외환 및 원자재 시장 동향
+**헤드라인**: *"Euro Falls to Weakest Versus Dollar Since 2022"*  
+**헤드라인**: *"Natural gas prices spike on forecasts of colder than expected winter"*  
+유로화가 달러에 대해 가장 낮은 수준으로 하락하며, 이는 유럽 경제에 대한 우려를 반영합니다. 또한, 예기치 못한 추운 겨울날씨 예보로 인해 천연가스 가격이 급등하며 원자재 시장에 압력을 가하고 있습니다.
+
+#### 주제 4: 정치적 및 사회적 이슈
+**헤드라인**: *"Corporations Clinging To DEI Will Lose Social License To Operate"*  
+**헤드라인**: *"Trump Is Not Wrong - MSNBC Finally Admits Massive Spike In Illegal Immigration Under Biden"*  
+기업들이 다양성, 형평성, 포용성을 중시하지 않을 경우 사회적 면허를 잃을 것이라는 경고가 나왔습니다. 정치적 환경이 변화하는 가운데, 이민 문제와 관련된 대중의 인식과 정치적 입장 변화가 기업에 미치는 영향에 주목해야 합니다.
+
+### 3. 결론
+전반적인 시장 심리는 부정적 요소가 다소 우세합니다. 모기지 금리의 급등, 주요 주식의 실적 저조, 그리고 글로벌 경제의 불확실성이 투자자들에게 경계심을 주고 있습니다. 특히, 부동산 시장과 관련된 위험 요소가 부각되고 있으며 이는 실물 경제에도 영향을 미칠 가능성이 큽니다. 따라서 투자자들은 현재의 시장 상황을 면밀히 관찰하고, 신중한 의사 결정을 할 필요가 있습니다.

@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 20
+- 중립적 헤드라인: 30
+- 부정적 헤드라인: 19
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 중국 경제 및 통화 정책
+**헤드라인**: *"Metals Steady as China Shows Support for Under-Pressure Currency"*  
+**헤드라인**: *"China Maintains Grip on Yuan With Fix Stronger Than 7.2 Level"*  
+중국은 위안화의 안정성을 유지하기 위해 강한 고정환율 정책을 동원하고 있으며, 금속 시장에도 긍정적인 영향을 미치고 있습니다. 이러한 통화 정책은 중국 경제에 대한 신뢰를 구축하고 외환 시장의 변동성을 줄이는데 기여하고 있습니다.
+
+#### 테마 2: 금 및 안전 자산
+**헤드라인**: *"Gold Holds Decline After Fed Officials Express Inflation Concern"*  
+**헤드라인**: *"Gold Edges Higher, Supported by Safe-Haven Demand"*  
+미국 연준의 인플레이션 우려가 금 시장에 영향을 미치면서 금 가격이 안정세를 보이고 있습니다. 안전 자산에 대한 수요 증가는 글로벌 불확실성이 지속되는 가운데 투자자들이 위험 회피에 나설 것을 시사합니다.
+
+#### 테마 3: 기업 인수합병
+**헤드라인**: *"Insignia Financial Gets $1.8 Billion Takeover Proposal From CC Capital Partners"*  
+**헤드라인**: *"Paychex Is Said to Be in Talks to Buy Smaller Rival Paycor"*  
+CC 캐피탈 파트너즈의 인수 제안은 인수합병 시장의 활성화를 나타내며, 이로 인해 기업들의 성장 전략이 더욱 가속화될 것입니다. 이러한 움직임은 전반적인 시장 회복세에 기여하며, 기업 가치를 높일 수 있는 기회로 작용할 수 있습니다.
+
+#### 테마 4: 미국 및 글로벌 경제 전망
+**헤드라인**: *"Stock market manages strong start to 2025. But watch for these potential pitfalls."*  
+**헤드라인**: *"UK Business Confidence Sinks to Lowest Since Truss Mini-Budget, Survey Shows"*  
+2025년 주식시장이 긍정적인 출발을 보였지만, 정책 불확실성과 같은 함정이 내재하고 있습니다. 영국의 비즈니스 신뢰도가 역사적 저점에 도달하면서 글로벌 불확실성이 경제 흐름에 부정적인 영향을 줄 수 있음을 경고하고 있습니다.
+
+### 3. 결론
+오늘의 시장 감정은 긍정적과 중립적 헤드라인이 다수 포함되어 있지만, 불확실한 경제적 요소와 부정적 뉴스도 여전히 존재합니다. 중국의 통화 정책과 안전 자산에 대한 수요 증가는 단기적으로 긍정적인 신호로 해석될 수 있지만, 글로벌 경제에 대한 경계감은 여전히 필요합니다. 인수합병 활동 및 기업 신뢰도 변화는 앞으로의 시장 동향을 좌우할 중요한 요소로 작용할 전망입니다.

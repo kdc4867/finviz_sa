@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 38
+- 중립적인 헤드라인: 40
+- 부정적인 헤드라인: 42
+
+### 2. 주요 뉴스 요약
+
+#### *테마 1: 금리 및 통화 정책*
+- **헤드라인**: *"Fed’s Cook Says Officials Can Be More Cautious With Rate Cuts"*
+- **헤드라인**: *"Fed’s Vice Chair to Step Down From Role as Top Bank Supervisor"*
+- 이러한 헤드라인들은 연준의 통화 정책 변화와 수장인 미하엘 바르의 퇴임에 대한 시장의 우려를 나타낸다. 금리 인하에 대해 신중할 필요가 있다는 발언은 금리 인상과 인하에 대한 불확실성을 더하고 있으며, 이러한 요소들은 주식 시장의 민감성을 증가시킬 수 있다.
+
+#### *테마 2: 정치 및 무역 정책*
+- **헤드라인**: *"Trump Doubles Down on Tariff Proposal, Denying a Shift in Approach"*
+- **헤드라인**: *"Trump Keeps World Guessing Over How He Intends to Impose Tariffs"*
+- 도널드 트럼프 전 대통령이 관세 정책에 대한 강경한 입장을 고수하고 있다는 점은 무역 긴장감을 더욱 고조시키고 있다. 이러한 정책은 시장에 불확실성을 초래하고 있으며, 특히 수출입 기업들에게는 부정적인 영향을 미칠 가능성이 높다.
+
+#### *테마 3: 기술 및 주식 시장 동향*
+- **헤드라인**: *"Nvidia Continues Surge Ahead of CEO's CES Keynote"*
+- **헤드라인**: *"Tech Leads Stocks Higher as Nvidia Hits Record High"*
+- 테크 주식, 특히 엔비디아의 주가 상승은 기술 주도 성장이 지속되고 있음을 시사한다. 이는 투자자들에게 긍정적인 신호로 작용하며, 향후 기술 분야에 대한 투자가 더욱 확대될 가능성을 높인다.
+
+#### *테마 4: 에너지 및 원자재 시장*
+- **헤드라인**: *"Oil Averaging $65 in ‘25 to Keep OPEC+ Under Pressure, BofA Says"*
+- **헤드라인**: *"China's Export Ban to Push Antimony Prices to New Highs"*
+- 에너지와 원자재 시장의 변동성은 공급망 및 소비 패턴의 변화에 의해 연결된다. OPEC+의 원유 가격 유지 전략은 향후 에너지 시장의 불확실성을 대변하며, 중국의 수출 제한은 원자재 가격 상승을 유도할 것으로 보인다.
+
+### 3. 결론
+오늘의 뉴스는 주식 시장, 통화 정책, 무역 불확실성 및 에너지 시장의 변동성이 강조되고 있다. 전반적으로 시장 심리는 다소 부정적이며, 정치적 불안정성과 금리 정책의 변화가 투자자들에게 심각한 걱정을 안길 수 있다. 특히, 기술 주식의 강세와 동시에 원자재 가격의 상승 가능성은 투자 전략에 있어 중요한 고려 사항이 될 전망이다.

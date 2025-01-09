@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 31개
+- 중립적 헤드라인: 43개
+- 부정적 헤드라인: 52개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 연준 정책과 인플레이션 우려
+**헤드라인**: *"Fed minutes show policymakers see immigration, tariff shifts creating inflation uncertainty, Fed needs 'to be patient' with regards to future rate cuts"*  
+**헤드라인**: *"Wall Street falls as investors mull over inflation risks"*
+
+이러한 헤드라인들은 연준의 정책 결정자들이 인플레이션 불확실성에 대해 심각하게 우려하고 있음을 나타냅니다. 특히, 이민과 관세 변화가 인플레이션에 미치는 영향에 대한 논의가 지속됨에 따라 투자자들은 금리 인하와 향후 경제 전망에 대해 신중한 접근법을 취하게 될 것입니다.
+
+#### 테마 2: 고용 시장과 경제 성장 둔화
+**헤드라인**: *"Private payrolls growth slows sharply, Key US Treasury Yields Approach 2023 Peaks With 5% in Sight"*  
+**헤드라인**: *"Private sector adds 122,000 jobs in December, below expectations, ADP says"*
+
+고용 시장의 성장 둔화는 투자자들에게 심각한 신호로 작용하고 있습니다. 12월에 민간 부문에서 추가된 일자리 수가 기대에 못 미친 것은 경제 성장률 둔화의 징후로 해석될 수 있으며, 이는 금리에 대한 시장의 우려를 더욱 심화시킬 수 있습니다.
+
+#### 테마 3: 글로벌 경제 불안정성과 자산시장 반응
+**헤드라인**: *"Bond 'tantrum' ahead? Surging yields send ripples through markets"*  
+**헤드라인**: *"As Elon Musk Embraces the Far Right, Some of Its Leaders Reject Him"*
+
+글로벌 경제 불안정성이 커지고 있으며, 특히 채권 수익률의 급등은 자산 시장에 큰 파장을 미치고 있습니다. 이러한 변동성은 투자자들에게 새로운 위험 요소를 제시하며, 시장의 방향성을 예측하는 데 어려움을 주고 있습니다.
+
+### 3. 결론
+오늘의 뉴스는 전반적으로 부정적인 감정을 반영하고 있으며, 연준의 정책 변화와 고용 성장 둔화가 주요 우려 사항으로 떠올랐습니다. 투자자들은 인플레이션과 금리 인하에 따른 불확실성 때문에 신중한 접근을 계속하고 있으며, 이는 자산 시장에 영향을 미치는 중요한 요소가 될 것입니다. 이러한 흐름 속에서 고용 시장의 변화와 글로벌 경제 상황을 지속적으로 주의 깊게 살펴보아야 할 것입니다.

@@ -1,0 +1,28 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 29개
+- 중립적인 헤드라인: 42개
+- 부정적인 헤드라인: 50개
+
+### 2. 주요 뉴스 요약
+#### 금융 및 경제 정책
+**헤드라인**: *"Bank of Mexico board sees larger rate cuts on the table"*  
+**헤드라인**: *"Peru central bank cuts benchmark interest rate to 4.75%"*  
+많은 중앙은행들이 금리 인하를 고려하고 있어 금융 정책 방향에 변화가 감지되고 있다. 멕시코 중앙은행과 페루의 금리 인하는 경제 성장 촉진을 위한 의도가 엿보이며, 이는 투자자들에게 긍정적인 신호가 될 수 있다.
+
+#### 기후 재난 및 보험 시장
+**헤드라인**: *"L.A. wildfires have caused more than $135 billion of economic loss — and counting"*  
+**헤드라인**: *"California wildfires could cost insurers $20B, highest in state’s history"*  
+LA에서 발생한 대형 산불로 인한 경제적 손실이 1350억 달러를 초과할 것으로 예상되며, 보험 시장 또한 큰 타격을 받을 예정이다. 이러한 상황은 보험료 인상과 관련된 불확실성을 초래하여 주택소유자들에게 추가 비용을 가중시킬 수 있다.
+
+#### 원자재 시장 및 공급망
+**헤드라인**: *"Oil Rises Amid Prospects for Solid Demand"*  
+**헤드라인**: *"Brazil consumer prices expected to have gained traction in Dec.: Reuters poll"*  
+원유 수요가 강세를 보이면서 가격이 상승하고 있으며, 이는 공급망 회복에 긍정적인 영향을 미칠 것으로 예상된다. 브라질의 소비자 물가가 상승할 것으로 보이는 가운데, 이는 세계 경제에서 원자재 수요가 높은 상황을 반영한다.
+
+#### 정치 및 트럼프 관련 뉴스
+**헤드라인**: *"Market expert decodes Trump’s tariff plan and how ‘uncertainty’ is impacting markets"*  
+**헤드라인**: *"Trump Demands Defense Spending 5 Percent of Europe GDP, No Chance of That"*  
+트럼프 전 대통령의 무역 정책과 관련된 논쟁이 계속되고 있으며, 시장에는 높은 불확실성이 존재하고 있다. 이러한 정치적 요소들은 투자자들이 향후 시장 행동을 예측하는 데에 장애물이 될 수 있다.
+
+### 3. 결론
+오늘의 뉴스 헤드라인을 통해 확인된 바와 같이, 전반적인 시장 감정은 부정적인 쪽으로 기울어져 있으며 특히 기후 재난과 관련된 경제적 손실과 정치적 불확실성이 두드러진다. 아울러, 중앙은행의 금리 인하 전망은 경제 성장 기대감을 반영하지만, 이는 단기적인 시장 반응에 우리에게 작용할 수 있다. 투자자들은 금융 정책 변화와 기후 재난의 영향을 면밀히 모니터링해야 할 시점이다.

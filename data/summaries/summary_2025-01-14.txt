@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 19
+- 중립적인 헤드라인 수: 46
+- 부정적인 헤드라인 수: 58
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국 경제와 금리
+**헤드라인**: *"Nasdaq closes lower, S&P 500 up slightly as US yields stay elevated"*  
+**헤드라인**: *"The 10-year Treasury yield is nearing 5% again. Why stock investors are freaking out."*  
+미국 시장에서 나스닥은 하락세를 보였고, S&P 500은 소폭 상승했습니다. 이는 미 국채 수익률이 계속해서 높은 수준을 유지하고 있기 때문입니다. 특히 10년물 채권 수익률이 5%에 근접함에 따라 투자자들이 불안해하고 있으며, 이는 상장 주식의 평가에 직접적인 영향을 미칠 가능성이 큽니다.
+
+#### 테마 2: 중국과의 경제적 긴장
+**헤드라인**: *"Ex-Kentucky AG warns 'scary' amount of money is on the line if US sanctions China"*  
+**헤드라인**: *"US tightens control on AI chips export drawing pushback"*  
+미국의 중국에 대한 제재 가능성이 대두되면서 경제적 긴장감이 고조되고 있습니다. 특히 AI 칩 수출 통제가 강화되면서 반발이 일고 있으며, 이는 두 나라 간의 무역 관계에 심각한 영향을 미칠 수 있습니다. 이러한 상황은 글로벌 시장에서 리스크를 증가시킬 가능성이 있으며, 투자자들은 신중한 접근이 필요합니다.
+
+#### 테마 3: 기업 및 산업 동향
+**헤드라인**: *"Kohl's is closing 27 stores in 15 states. Here's where they're located"*  
+**헤드라인**: *"Big bank optimism is about to be put to the test"*  
+소매업체인 Kohl's가 15개 주에서 27개의 매장을 폐쇄한다고 발표하며, 이는 소비자 수요 감소와 관련된 신호로 해석될 수 있습니다. 반면, 대형 은행의 긍정성은 현재 시장 상황에서 검증될 필요가 있으며, 이는 투자자들에게 중요한 점검 요소가 될 것입니다.
+
+#### 테마 4: 환경과 재난
+**헤드라인**: *"California wildfires: Insured losses could top $30B, Wells Fargo analysis finds"*  
+**헤드라인**: *"Fire-Scarred Los Angeles Braces for More Extreme Winds"*  
+캘리포니아의 산불로 인해 보험 손실이 300억 달러를 초과할 것으로 예상되며, 이는 보험 산업에 미치는 부정적인 영향을 나타냅니다. 여러 지역에서 극단적인 날씨가 계속되고 있어, 이는 관련 산업과 투자자들에게 추가적인 부담으로 작용할 가능성이 높습니다.
+
+### 3. 결론
+오늘 시장의 전반적인 감정은 부정적인 요소가 지배적이며, 특히 금리 상승과 경제적 긴장 상황이 두드러집니다. 투자자들은 중국과의 관계 악화 및 금리 인상에 대한 우려로 신중한 접근이 필요하며, 이러한 불확실성 속에서 전략적인 포트폴리오 조정이 요구될 것입니다. 전반적으로, 기업 동향 및 환경적 리스크는 투자에 있어 중요한 사항으로 부각되고 있습니다.

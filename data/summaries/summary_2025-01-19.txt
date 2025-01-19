@@ -1,0 +1,27 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 10
+- 중립적 헤드라인: 31
+- 부정적 헤드라인: 20
+
+### 주요 뉴스 요약
+
+#### 1. 정치 및 경제 관련 불확실성
+- **헤드라인**: *"Trump's EV, tariff plans bring more uncertainty to auto industry."*
+- **헤드라인**: *"Trump makes the Fed's challenging inflation fight more complicated."*
+  
+  이 헤드라인들은 트럼프가 제시하는 전기차 및 관세 관련 정책이 자동차 산업에 미치는 불확실성을 강조하고 있습니다. 또한, 그의 정책이 연준의 인플레이션 대응에 복잡함을 더하고 있어, 시장에서는 새로운 경제 정책 변화를 면밀히 주시해야 할 필요성이 커지고 있습니다.
+
+#### 2. TikTok 및 규제 문제
+- **헤드라인**: *"TikTok to 'go dark' Sunday unless White House assures new ban won't be enforced."*
+- **헤드라인**: *"Trump says he will 'most likely' give TikTok a 90-day extension to avoid a ban."*
+
+  TikTok과 관련하여 미국 정부의 규제 움직임이 계속되고 있으며, 트럼프가 최초로 TikTok에 대한 금지를 피하기 위해 연장을 고려하고 있다고 발표했습니다. 이는 사용자와 기업에 불확실성을 제공하고, 소셜미디어와 기술 기업에 대한 규제 환경이 계속해서 변할 수 있음을 시사합니다.
+
+#### 3. 최근 재정 및 투자 동향
+- **헤드라인**: *"The Year That Hedge Funds Got Their Mojo Back."*
+- **헤드라인**: *"These edgy tech and social trends could make you the most money by 2030."*
+
+  헤지펀드가 다시 활기를 띠고 있다는 소식과 함께, 2030년까지 수익을 가져올 수 있는 최신 기술 및 사회적 트렌드에 대한 관심이 높아지고 있습니다. 이는 투자자들이 앞으로의 투자 전략을 세우는 데 중요한 지표가 될 수 있습니다.
+
+### 결론
+전반적으로 오늘의 뉴스는 경제 및 정치적 불확실성이 많은 콘텐츠로 채워져 있습니다. 특히 트럼프의 정책과 TikTok의 규제는 시장의 변동성을 더욱 키우고 있으며, 이는 투자자들에게 주의 깊은 전략 수립을 요구합니다. 다만, 혁신적인 투자 기회와 함께 재정 시장의 회복 가능성 또한 여전히 존재하며, 이는 긍정적인 시장 심리를 주었음을 알 수 있습니다.

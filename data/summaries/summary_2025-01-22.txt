@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 39
+- 중립적인 헤드라인: 38
+- 부정적인 헤드라인: 42
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 트럼프의 정책 및 경제 영향
+**헤드라인**: *"Trump’s Pledge to Slap 25% Tariffs on Mexico Sinks Peso"*  
+**헤드라인**: *"Trump Says He Will Impose 10% Tariffs on Chinese Imports on Feb. 1"*  
+트럼프 대통령은 멕시코 및 중국에 대한 높은 관세 부과를 발표하며 해당 국가들의 통화에 부정적인 영향을 미쳤습니다. 이러한 조치는 무역 전쟁을 재점화할 가능성이 높아 보이며, 글로벌 경제에 대한 불확실성을 키우고 있습니다.
+
+#### 주제 2: 전기차 및 기술 기업의 동향
+**헤드라인**: *"Tesla stock sinks after Trump scraps pro-EV policy"*  
+**헤드라인**: *"Goldman Sachs rolls out an AI assistant for its employees as artificial intelligence sweeps Wall Street"*  
+트럼프 대통령의 전기차 지원 정책 중단이 테슬라 주가에 부정적인 영향을 미치고 있습니다. 반면, 골드만삭스는 인공지능을 통한 기업 운영의 혁신을 이야기하며 AI의 중요성을 강조하고 있습니다. 이러한 기술 기업들의 대응은 시장에서의 경쟁력을 결정짓는 중요한 요소가 될 것입니다.
+
+#### 주제 3: 크립토 및 디지털 자산 시장
+**헤드라인**: *"Trump disappoints crypto holders hoping for immediate policy changes. How is bitcoin reacting?"*  
+**헤드라인**: *"Crypto Thought Trump Would Bring It Legitimacy. Then He Launched a Meme Coin."*  
+크립토 투자자들은 트럼프의 정책 변화에 대한 기대를 품고 있었으나, 그가 발행한 ‘밈코인’은 시장에 혼란을 일으키고 있습니다. 이러한 상황은 비트코인과 다른 암호화폐의 방향에 부정적인 영향을 미치고 있으며, 투자자들에게 신중한 접근이 필요하다는 경고를 줍니다.
+
+### 3. 결론
+오늘 뉴스에서 트럼프 대통령의 경제 정책과 관세 부과 발표가 시장에 큰 영향을 미치고 있음을 알 수 있었습니다. 부정적인 헤드라인의 수가 긍정적인 헤드라인보다 많아 시장의 불안정성이 높아지고 있으며, 전기차 및 크립토 분야에서도 어려움이 예상됩니다. 투자자들은 이러한 불확실성을 고려하여 신중한 결정을 내려야 할 시점입니다.

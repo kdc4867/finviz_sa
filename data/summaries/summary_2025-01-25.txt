@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 34
+- 중립적인 헤드라인: 43
+- 부정적인 헤드라인: 44
+
+### 주요 뉴스 요약
+
+#### 테마 1: 트럼프의 경제적 영향
+**헤드라인**: *"The twin economic gaps that Trump needs to manage"*  
+**헤드라인**: *"Trump Says He’ll ‘Demand That Interest Rates Drop Immediately’"*  
+트럼프 전 대통령의 발언이 경제에 미치는 영향이 두드러지며, 이로 인해 투자자들은 금리 인하의 가능성에 주목하고 있습니다. 트럼프는 경제적 격차와 금리에 대한 의지를 직접적으로 드러내며, 시장의 변동성을 증가시키고 있습니다.
+
+#### 테마 2: 미국 경제 데이터와 시장 반응
+**헤드라인**: *"Wall St slips with mixed data and earnings ahead of Fed week"*  
+**헤드라인**: *"Stocks stall but cap winning week as Trump's remarks move markets"*  
+미국 경제의 긍정적인 지표와 불확실한 기업 실적이 혼재된 가운데, 월스트리트는 조정세를 보이고 있습니다. 데이터가 엇갈리면서 트럼프의 발언이 주식 시장에 중대한 영향을 미치고 있으며, 이로 인해 투자자들이 신중한 태도를 보이고 있습니다.
+
+#### 테마 3: 고위험 자산과 변동성
+**헤드라인**: *"Crypto is 'probably the most important single asset in finance today,' expert says"*  
+**헤드라인**: *"Dollar Eyes Worst Week in 18 Months as Tariff Risks Subside"*  
+암호화폐와 달러의 변동성이 강조되고 있으며, 전문가들은 현재 암호화폐가 금융에서 중요한 자산임을 언급하고 있습니다. 달러화는 관세 리스크가 감소함에 따라 악화되고 있으며, 이는 시장에 추가적인 영향을 미칠 것입니다.
+
+### 결론
+오늘의 뉴스에서 전반적으로 시장에 대한 감정은 부정적인 요소가 많았으며, 트럼프와 관련된 발언이 주식 시장에 큰 영향을 미치고 있는 것으로 보입니다. 특히 금리, 경제 격차, 그리고 위험 자산의 위치에 대한 논의가 계속되고 있어 투자자들은 앞으로의 경과에 더욱 주의를 기울일 필요가 있습니다. 전반적으로 민주당과 공화당의 경제 정책 방향성이 투자 심리에 혼란을 주고 있으며, 앞으로의 경제 전망에 대한 불확실성이 커지고 있습니다.

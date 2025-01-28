@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 21  
+- 중립적 헤드라인: 41  
+- 부정적 헤드라인: 57  
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: AI와 기술주 하락
+**헤드라인**: *"How the buzz around Chinese AI model DeepSeek sparked a massive Nasdaq sell-off"*  
+**헤드라인**: *"This sell-off reminds investors of the big risk in Big Tech"*  
+AI 모델 DeepSeek에 대한 우려가 Nasdaq 대규모 매도세를 촉발했다는 보도가 많은 비중을 차지하고 있습니다. 이는 투자자들에게 기술주의 리스크를 다시 한번 일깨우는 상황으로, 특히 Nvidia와 같은 주요 기술주들이 큰 타격을 받은 것으로 보입니다.
+
+#### 테마 2: 시장 불안과 정치적 요인
+**헤드라인**: *"Trump’s Colombia Tariff Threat Startled Companies Trying to Rely Less on China"*  
+**헤드라인**: *"Will The Trump Factor Influence Markets And The Fed This Week?"*  
+도널드 트럼프 전 대통령의 관세 위협이 시장에서 큰 혼란을 일으킨 것으로 나타났습니다. 이러한 정치적 요인의 경과는 기업들이 중국 의존도를 줄이려는 노력과 대립하며, 시장의 불안을 더욱 부추기고 있습니다.
+
+#### 테마 3: 투자자 우려와 실적 전망
+**헤드라인**: *"Bullish Tech Traders Made Record Wrong-Way ETF Bets Before Rout"*  
+**헤드라인**: *"Market panic over DeepSeek is 'overblown,' analysts say"*  
+투자자들은 DeepSeek와 같은 AI 스타트업의 부정적인 영향을 우려하며 기술주에 대한 새로운 투자 관점을 고민하고 있습니다. 일부 애널리스트는 현재의 패닉이 과도하다고 평가하고 있으나, 이러한 전망은 실적에 대한 불확실성을 여전히 감추고 있습니다.
+
+### 3. 결론
+전체적으로 시장은 오늘 부정적인 분위기가 지배하고 있습니다. AI 스타트업 DeepSeek에 대한 우려와 도널드 트럼프 전 대통령의 관세 위협이 투자자들의 심리를 위축시키며 기술주 중심의 매도세를 초래했습니다. 투자자들은 불확실한 상황 속에서 신중함이 필요하며, 이러한 동향은 당분간 지속될 것으로 보입니다.

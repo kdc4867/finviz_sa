@@ -1,0 +1,28 @@
+### 1. 뉴스 헤드라인 분석
+오늘 뉴스 헤드라인의 감정 분석 결과는 다음과 같습니다:
+- **긍정적**: 32
+- **중립적**: 39
+- **부정적**: 50
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 기술 및 시장 회복
+- **헤드라인**: *"Nvidia is rebounding after biggest market cap loss in history, but it's a fragile bounce"*
+- **헤드라인**: *"Stocks claw back from DeepSeek-fueled rout"*
+
+Nvidia의 주가는 역사적으로 가장 큰 시가 총액 손실을 겪은 후 회복세를 보이고 있으나, 이는 여전히 불안정한 상태입니다. 현재 기술주들이 DeepSeek로 인한 급락 이후 반등하고 있는 모습은 시장의 변동성을 보여주며, 투자자들에게는 조심스러운 접근이 필요함을 시사합니다.
+
+#### 테마 2: 항공사 및 여행 산업
+- **헤드라인**: *"JetBlue Loss Narrower Than Expected on Revenue, Lower Costs"*
+- **헤드라인**: *"JetBlue’s stock plunges as revenue outlook disappoints. Capacity is in the spotlight."*
+
+JetBlue는 수익 증가와 비용 절감 덕분에 손실 폭이 예상보다 줄어들었으나, 향후 수익 전망이 실망스러운 결과를 초래하며 주가가 급락했습니다. 이는 항공사 업계의 회복이 여전히 불확실하며, 여행 산업의 수익 구조가 재조정 필요성을 보여줍니다.
+
+#### 테마 3: 경제 및 정책 동향
+- **헤드라인**: *"Trump’s sweeping agenda could have ‘adverse effects’ on US economy, expert warns"*
+- **헤드라인**: *"The Fed meets for the first time since Trump's term started. Here's what to expect."*
+
+전문가들은 트럼프의 추진 agenda가 미국 경제에 부정적인 영향을 미칠 가능성을 경고하고 있습니다. 또한, 연준이 트럼프 정부 이후 처음으로 개최하는 회의에 대한 시장의 기대감이 커지고 있으며, 정책 변화가 경제에 미치는 영향에 대한 불확실성이 지속되고 있습니다.
+
+### 3. 결론
+전반적으로 오늘의 시장 감정은 부정적인 요소가 두드러지며, 특히 기술주와 항공사 주의 변동성이 큰 상황입니다. 기술 분야의 반등이 기대되지만, 그 기반이 불안정하다는 점은 투자자들이 신중하게 접근해야 함을 시사합니다. 또한, 트럼프의 정치적 야망과 관련한 경제적 여파는 앞으로도 중요하게 여겨질 사안으로, 관련 주식의 움직임에 큰 영향을 미칠 것입니다. 전반적으로, 투자자들은 더 많은 정보가 확보될 때까지 조심스러운 태도를 유지해야 할 것입니다.

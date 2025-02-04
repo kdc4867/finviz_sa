@@ -1,0 +1,24 @@
+**뉴스 헤드라인 분석**  
+- 긍정적: 27  
+- 중립적: 39  
+- 부정적: 51  
+
+**주요 뉴스 요약**
+
+1. **무역 전쟁과 관세의 영향**  
+   **헤드라인**: *"Trump Tariff Plan Risks Upending Trade, Stoking Food Inflation"*  
+   **헤드라인**: *"Trump tariffs could generate trillions of revenue for the US: Zach Mottl"*  
+   이 헤드라인들은 트럼프의 관세 정책이 경제 전반에 미치는 불확실성과 함께, 식품 인플레이션을 자극할 수 있음을 시사합니다. 관세는 특정 산업에서 단기적으로 수익을 증가시킬 수 있지만, 장기적으로는 소비자 물가 상승과 글로벌 무역 극복에 어려움이 있을 것으로 보입니다.
+
+2. **주식 시장 반응**  
+   **헤드라인**: *"Palantir surges after upbeat revenue forecast on AI strength"*  
+   **헤드라인**: *"S&P 500 Cuts Most of Its Losses on Tariff Hopes: Markets Wrap"*  
+   시장은 높은 기술주 성과와 트럼프의 관세 연기에 따른 긍정적인 신호로 인해 벗어나는 모습을 보이고 있습니다. 특히 Palantir의 예측적인 실적 개선은 AI와 같은 미래 산업의 발전에 대한 투자자들의 신뢰를 강화하고 있습니다.
+
+3. **수출입 균형의 변화**  
+   **헤드라인**: *"Canada not optimistic about a Mexico-style tariff reprieve, says New York Times"*  
+   **헤드라인**: *"Trump names Treasury Secretary Scott Bessent acting head of CFPB after firing Chopra"*  
+   캐나다와 멕시코에 대한 관세 연기는 두 나라의 무역 관계에 큰 영향을 미치고 있으며, 트럼프 정부의 정책 변화가 글로벌 무역 환경에 미치는 잠재적인 영향에 대한 우려를 나타냅니다. 이와 함께, 경제팀의 재편성이 향후 정책 접근에 어떤 영향을 미칠지 주목됩니다.
+
+**결론**  
+오늘 시장 sentiment 분석 결과, 부정적인 뉴스가 다수를 차지하면서 불확실한 경제 지표와 트럼프의 관세 정책에 대한 우려가 커지고 있음을 알 수 있습니다. 관세는 일부 산업에서의 수익 창출 기회를 제공하지만, 전반적인 시장 안정성을 해칠 수 있는 위험 요소로 작용하고 있습니다. 투자자들은 분산 투자와 같은 전략을 통해 이 같은 불확실성에서 자신을 보호할 필요가 있습니다.

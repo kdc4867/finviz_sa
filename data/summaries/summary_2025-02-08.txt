@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 26
+- 중립적 헤드라인: 40
+- 부정적 헤드라인: 56
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 트럼프 행정부의 무역 및 세금 정책
+**헤드라인**: *"Trump Announces Reciprocal Tariffs Next Week, a Major Trade War Escalation"*  
+**헤드라인**: *"Trump Says He Will Investigate California's High-Speed Rail Project"*  
+트럼프 행정부의 최근 발언은 무역 전쟁의 격화를 시사하고 있으며, 이는 경제 전반에 불확실성을 더하고 있습니다. 이러한 세금 정책 변화는 기업들, 특히 수출입에 면밀히 관여하는 기업들에 중대한 영향을 미칠 것으로 예상됩니다.
+
+#### 테마 2: 노동 시장의 둔화
+**헤드라인**: *"US job growth slows in January; unemployment rate at 4.0%."*  
+**헤드라인**: *"Weak Payrolls Is Worst Case for US Stocks, JPMorgan Traders Say."*  
+미국의 일자리 성장 둔화는 경제 불황에 대한 우려를 증대시키고 있습니다. 이러한 고용 데이터는 기업의 소비 심리와 직결되며, 주식 시장에도 부정적인 압박 요소로 작용할 가능성이 큽니다.
+
+#### 테마 3: 소비자 물가 및 경제 신뢰도
+**헤드라인**: *"US consumer sentiment drops as inflation expectations surge."*  
+**헤드라인**: *"Egg surcharge hits diners' wallets: Experts say consumers should fear menu price hikes more."*  
+소비자 신뢰도 저하 및 물가 상승에 대한 우려는 소비 및 경제 활동에 부정적인 영향을 미칠 것입니다. 전문가들은 이러한 물가 인상이 소비자 지출을 더욱 위축시킬 수 있다고 경고하고 있습니다.
+
+### 3. 결론
+전반적인 시장 심리는 부정적이며, 무역 전쟁의 격화와 노동 시장의 둔화 등이 시장에 불확실성을 부추기고 있습니다. 특히, 고용 데이터 부진과 소비자 물가 상승은 많은 투자자들에게 우려를 초래하고 있습니다. 앞으로의 경제 상황에 대한 세심한 모니터링과 더불어, 시장의 변화에 유연하게 대응할 필요성이 커졌습니다.

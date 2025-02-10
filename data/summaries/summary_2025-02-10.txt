@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 17개  
+- 중립적인 헤드라인: 16개  
+- 부정적인 헤드라인: 36개  
+
+### 주요 뉴스 요약
+
+#### 1. 트럼프의 관세 정책
+- **헤드라인**: *"Trump plans to unveil 25% tariffs on aluminum and steel imports amid trade policy overhaul"*  
+- **헤드라인**: *"Trump says he will impose metal tariffs on Monday, followed by broader levies."*  
+트럼프 대통령은 알루미늄과 철강 수입에 대해 25% 관세를 부과할 계획을 밝히며, 이는 무역 정책을 전환하는 일환으로 해석되고 있습니다. 이러한 조치는 미국의 자급자족을 강화하려는 의도와 함께 글로벌 무역 긴장을 더욱 심화시킬 수 있다는 우려를 낳고 있습니다.
+
+#### 2. 주식 시장 전망
+- **헤드라인**: *"Stock futures edge lower ahead of key economic data"*  
+- **헤드라인**: *"Bond Market Gains Fade as Trump, Inflation Keep Yields Elevated"*  
+주식 선물은 주요 경제 데이터 발표를 앞두고 소폭 하락하였으며, 채권 시장의 수익률도 여전히 높은 수준을 유지하고 있습니다. 이는 투자자들이 트럼프 정부의 관세 정책과 인플레이션 우려로 인해 다가오는 경제 지표에 대한 반응을 신중히 고려하고 있음을 나타냅니다.
+
+#### 3. 글로벌 무역 긴장
+- **헤드라인**: *"Ringgit Outperformance at Risk on Growing US-China Trade Tension"*  
+- **헤드라인**: *"Tariff Risk Hangs Over East Europe’s Trump-Induced Market Rally"*  
+미국과 중국 간의 무역 긴장이 심화되면서 말레이시아 링깃의 성과가 위험에 처했으며, 동유럽의 시장도 트럼프의 정책에 의해 영향을 받을 가능성이 높아졌습니다. 이러한 글로벌 무역의 불확실성은 아시아 통화와 주식 시장에 부정적인 영향을 미칠 수 있습니다.
+
+### 결론
+전체적으로 오늘 뉴스는 부정적인 정서를 지배하고 있으며, 특히 트럼프의 새로운 관세 정책이 주요 원인으로 작용하고 있습니다. 투자자들은 향후 경제 데이터 발표와 무역 관련 소식에 대한 불안감을 가지고 있으며, 이는 주식 시장에서의 변동성을 더할 것입니다. 이러한 상황은 글로벌 경제에 대한 신뢰를 저하시키고, 각국 경제의 회복력을 시험하는 중대한 시점이 될 것입니다.

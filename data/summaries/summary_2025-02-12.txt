@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 17
+- 중립적인 헤드라인: 55
+- 부정적인 헤드라인: 48
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미 연준 및 금리 정책
+**헤드라인**: *"Fed Chair Powell says central bank doesn't 'need to be in a hurry' to lower interest rates further."*  
+**헤드라인**: *"Powell squashes the possibility that the Fed will develop its own digital currency."*  
+파월 의장은 중앙은행이 금리 인하를 서두를 필요가 없다는 입장을 표명하며, 디지털 통화 개발의 가능성도 부인했다. 이는 시장의 금리 정책에 대한 불확실성을 어느 정도 감소시키는 효과를 가져올 것으로 보이며, 투자자들이 향후 금리 변동에 좀 더 신중해질 것으로 예상된다.
+
+#### 테마 2: 트럼프 행정부 정책의 영향
+**헤드라인**: *"Trump’s looming tariffs causing markets to be ‘jittery,’ expert says."*  
+**헤드라인**: *"Ford CEO says tariffs could 'blow a hole' in US auto industry."*  
+트럼프 전 대통령의 새 관세 정책이 시장에 불안감을 조성하고 있다는 전문가의 견해가 보도되었다. 특히 포드 CEO는 이러한 조치가 미국 자동차 산업에 심각한 타격을 줄 수 있다고 경고하며, 이는 기업 수익성과 경제 전반에 부정적인 영향을 미칠 가능성이 크다.
+
+#### 테마 3: 중국 및 국제 투자
+**헤드라인**: *"Turkey Returns to Buying US Treasuries After Dumping $75 Billion."*  
+**헤드라인**: *"MSCI Ousts More Chinese Stocks From Indexes Despite Rebound."*  
+터키가 750억 달러의 미국 국채 매도를 중단하고 재구매에 나섰다는 소식과 함께 MSCI가 중국 주식을 추가로 지수에서 제외했다는 두 가지 헤드라인이 보도되었다. 이는 글로벌 투자자들이 미국 안정성을 선호하고 있다는 신호이며, 중국 시장에 대한 불신이 심화될 가능성을 시사한다.
+
+### 3. 결론
+전반적인 시장 정서는 혼조세를 보이고 있으며, 긍정적인 뉴스는 상대적으로 적은 반면 불안감이 커지는 상황이다. 특히 수요 감소 우려와 금리 정책에 대한 불확실성이 결합하면서 투자자들은 조심스러운 태도를 보이고 있다. 트럼프 전 대통령의 관세 정책 재개 또한 시장에 커다란 영향을 미칠 수 있어, 향후 정책 변화에 대한 주의가 필요하다. 이러한 특성은 투자 전략을 세우는 데 있어 신중함을 요구하는 상황으로 해석된다.

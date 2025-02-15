@@ -1,0 +1,27 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 24개
+- 중립적 헤드라인: 51개
+- 부정적 헤드라인: 49개
+
+### 주요 뉴스 요약
+
+#### 1. 미국 소매 판매 감소
+- **헤드라인**: *"US retail sales post biggest drop in nearly two years amid winter freeze"*
+- **헤드라인**: *"Retail sales fall sharply in January as consumers pull back"*
+  
+이 헤드라인들은 미국 소매 판매가 거의 2년 만에 가장 큰 폭으로 감소했음을 나타내며, 이는 소비자들의 지출 감소를 반영하고 있습니다. 겨울철의 한파가 구매력에 미친 영향을 이야기하며, 소비자 행동의 변화가 경제에 미치는 영향을 우려하게 하고 있습니다.
+
+#### 2. 트럼프의 세금 및 관세 정책 
+- **헤드라인**: *"Trump's biggest economic vulnerability has emerged"*
+- **헤드라인**: *"Trump will implement reciprocal tariffs if he needs to: Treasury secretary Scott Bessent"*
+  
+트럼프의 세금 및 관세 정책에 대한 불확실성이 높아지고 있으며, 그의 경제적 취약성이 드러나고 있습니다. 트럼프의 상호 관세 도입 가능성에 대한 대책이 논의되고 있어, 이러한 정책이 시장에 미치는 여파에 대한 우려가 커지고 있습니다.
+
+#### 3. 노동시장 및 경제 성장
+- **헤드라인**: *"Traders Look for $10 Million Payout in Bet on 5% US Yield"*
+- **헤드라인**: *"Rate Uncertainty Is Holding Back M&A Deals, Goldman’s Minnis Says"*
+  
+노후화된 규제 및 금리에 대한 불확실성이 M&A 거래에 부정적인 영향을 미치고 있는 것으로 보입니다. 특히, 시장 참여자들이 고수익률 채권에 베팅하고 있다는 점은 투자자들이 수익을 추구하고 있음을 보여줍니다.
+
+### 결론
+오늘의 뉴스는 미국 경제와 정책에 대한 우려가 두드러지며 혼합된 감정을 나타내고 있습니다. 소비자 지출 감소와 트럼프의 관세 정책에 대한 불확실성은 많은 투자자들에게 긴장을 불러일으키고 있습니다. 전반적으로 부정적인 헤드라인이 비슷한 수의 긍정적인 헤드라인과 대치되면서, 시장의 불안정성을 더욱 부각시키고 있습니다. 이러한 상황은 특히 소매업 및 금리에 민감한 기업들에게 부정적인 영향을 미칠 것으로 보입니다.

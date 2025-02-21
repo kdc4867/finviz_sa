@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 39 
+- 중립적인 헤드라인: 37 
+- 부정적인 헤드라인: 46 
+
+### 주요 뉴스 요약
+
+#### 1. 주식 시장과 기업 전망
+**헤드라인**: *"Walmart beats on profit but slips on cautious 2025 outlook"*  
+**헤드라인**: *"Stocks Fall on Walmart’s Warning as Big Banks Sink: Markets Wrap"*  
+Walmart의 예비 결산 발표에서 이익은 예상치를 초과했지만, 2025년 전망에 대한 신중한 경고가 주식 시장에 부정적인 영향을 미쳤습니다. 이러한 우려는 소비자 수요에 대한 걱정을 증폭시키며, 전체 주식 시장이 하락하는 결과로 이어졌습니다.
+
+#### 2. 실업 및 고용 시장 동향
+**헤드라인**: *"US weekly jobless claims rise slightly"*  
+**헤드라인**: *"I.R.S. Fires 6,700 Employees Ahead of Tax Filing Season"*  
+미국의 주간 실업 청구 건수가 소폭 상승한 가운데, IRS가 6,700명의 직원을 해고하였습니다. 이는 고용 시장의 긴장을 나타내며, 앞으로 소비와 경제 성장에 부담으로 작용할 수 있습니다.
+
+#### 3. 정치적 및 국제 이슈
+**헤드라인**: *"Federal Judge Allows Trump Admin To Continue Mass Layoffs Of Federal Workers"*  
+**헤드라인**: *"Trump says his administration will check Fort Knox 'to make sure the gold is there'"*  
+트럼프 행정부가 연방 직원의 대규모 해고를 지속할 수 있도록 법원이 허가한 가운데, 트럼프 대통령은 포트녹스의 금 보유량을 점검하겠다고 발언했습니다. 이러한 정치적 결정은 정부 정책에 대한 불확실성을 야기하며, 투자자들에게 부정적인 신호로 작용할 수 있습니다.
+
+#### 4. 기술 및 혁신
+**헤드라인**: *"Alibaba surges as it touts 'robust' AI momentum"*  
+**헤드라인**: *"A.I. Is Prompting an Evolution, Not an Extinction, for Coders"*  
+알리바바가 강력한 인공지능(AI) 성장세를 소개하면서 주가가 급등했습니다. 이는 AI 혁신이 기업 성과와 기술 업계에 미치는 긍정적인 영향을 나타내며, 투자자들에게 새로운 기회를 제공하기 위해 기술 부문에 대한 관심을 높이고 있습니다.
+
+### 결론
+오늘 뉴스에 따르면, 부정적인 헤드라인이 긍정적인 것보다 더 많은 비율을 차지하고 있어 시장 정서는 상당히 우울한 상태입니다. Walmart의 신중한 2025년 전망 등 일부 기업 전망이 저조하다는 점은 투자자들에게 신뢰를 약화시키고 있습니다. 그러나 기술 분야에서는 알리바바와 AI 혁신의 긍정적인 보도가 눈에 띄어, 향후 성장 가능성을 희망에서 바라볼 수 있는 기회를 제공합니다. 전반적으로 현재 시장은 불확실성과 긴장감이 팽배한 상태로 보입니다.

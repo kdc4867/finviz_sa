@@ -1,0 +1,26 @@
+**1. 뉴스 헤드라인 분석**
+
+- 긍정적인 헤드라인: 39
+- 중립적인 헤드라인: 35
+- 부정적인 헤드라인: 51
+
+**2. 주요 뉴스 요약**
+
+- **테마 1: 경제 성장 우려**  
+   **헤드라인**: *"Dow drops 700 points for worst day of 2025 so far on new fears about economic growth"*  
+   **헤드라인**: *"Stocks Get Hammered as Traders Hit Risk-Off Button: Markets Wrap"*  
+   경제 성장을 걱정하는 분위기가 시장에 반영되고 있다. 특히, 다우지수가 700 포인트 하락하며 올해 최악의 하루를 기록한 것은 시장 참가자들이 경기 회복에 대한 신뢰를 잃고 있다는 신호로 해석될 수 있다.
+
+- **테마 2: 소비자 심리 악화**  
+   **헤드라인**: *"US consumer sentiment plunges on worries over prices from inflation and tariffs"*  
+   **헤드라인**: *"Stocks sell-off as consumers start to sour on US economy"*  
+   최근 소비자 심리가 악화되고 있으며, 이는 인플레이션과 관세로 인한 가격 상승에 대한 우려로 인해 기인하고 있다. 소비자들이 경제에 대해 부정적인 인식을 갖게 되면, 이는 소비지출 감소로 이어져 경기 침체를 심화시킬 수 있는 위험 요소가 된다.
+
+- **테마 3: 정치적 및 지정학적 리스크**  
+   **헤드라인**: *"Trump eyes 'DOGE dividend' for taxpayers, but numbers fall short"*  
+   **헤드라인**: *"China's Vice-Premier Spars With Bessent In Call Over Tariffs & 'Economic Imbalances'"*  
+   정치적 불확실성과 지정학적 리스크가 시장에 중요한 영향을 미치고 있다. 트럼프 전 대통령의 발언이 재정 정책에 대한 혼란을 조장하고 있으며, 중국과의 무역 갈등이 경제적 불균형을 초래할 수 있다는 우려가 커지고 있다.
+
+**3. 결론**
+
+오늘날의 시장 분위기는 부정적이다. 소비자 심리가 악화되고 경제 성장에 대한 우려가 커짐에 따라, 매우 불안정한 시장 환경이 조성되고 있다. 특히 정치적 불확실성과 국제적인 무역 갈등이 겹치면서 투자자들은 위험 회피 성향을 보이고 있으며, 이는 시장의 하락세에 직접적인 영향을 미치고 있다. 투자자들은 이러한 현상을 면밀히 주시하고, 향후 경제 지표와 정치적 발전에 대한 신중한 접근이 필요하다.

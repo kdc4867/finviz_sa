@@ -1,0 +1,26 @@
+### 1. 뉴스 헤드라인 분석
+
+- 긍정적인 헤드라인: 17개
+- 중립적인 헤드라인: 30개
+- 부정적인 헤드라인: 31개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 버크셔 해서웨이의 성과 및 전략
+**헤드라인**: *"Buffett celebrates Berkshire Hathaway success, admits mistakes"*  
+**헤드라인**: *"Berkshire Hathaway Sets Another Record With Massive Tax Bill"*  
+버크셔 해서웨이는 성과와 재정적 성공에 대해 강조하며, 오랜 역사의 성공적인 투자 전략을 재확인했습니다. 그러나 워렌 버핏은 실수도 인정하며 향후 전략을 더욱 신중히 세우겠다는 의지를 보였습니다.
+
+#### 테마 2: 일본과의 경제적 관계 강화
+**헤드라인**: *"Berkshire Set to Gradually Raise Stakes in Japan Trading Houses"*  
+**헤드라인**: *"Warren Buffett touts Berkshire's record tax payments, urges government to spend wisely"*  
+버크셔 해서웨이는 일본의 거래소에 점차적으로 지분을 늘리는 방향으로 나아가고 있으며, 이는 일본 경제와의 연계를 강화하는 중대한 신호입니다. 또한, 버핏은 정부가 세수 사용에 있어 더욱 신중해지기를 촉구하며, 경제적 안정성을 위한 투자 필요성을 강조했습니다.
+
+#### 테마 3: 증시의 불확실성과 기업 실적
+**헤드라인**: *"Global equities mixed, oil drops on uncertainty about Trump moves, geopolitics"*  
+**헤드라인**: *"Walmart’s Tepid Outlook Stirs Concern For Retail Earnings Ahead"*  
+글로벌 증시는 다양한 이슈로 인해 혼조세를 보이고 있으며, 특히 트럼프 전 대통령의 정치적 행보가 지장을 초래하고 있습니다. 이에 따라 월마트와 같은 대형 소매업체의 실적 전망이 여전히 우울하다는 지적이 있어 삭제 유동성을 위축시키고 있습니다.
+
+### 3. 결론
+
+전반적으로 오늘 시장에서는 긍정적인 뉴스가 다소 존재하지만, 부정적인 뉴스가 더 많아 불안정한 분위기를 형성하고 있습니다. 특히, 버크셔 해서웨이의 성과가 주목받고 있지만 만연한 경제적 불확실성이 투자자들에게 경계감을 주고 있습니다. 이러한 글로벌 경제와 정치의 동향은 투자 전략 수립에 중요한 변수로 작용할 것으로 보입니다.

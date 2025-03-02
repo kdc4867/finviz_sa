@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 8
+- 중립적 헤드라인 수: 21
+- 부정적 헤드라인 수: 28
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제 및 금융 전망
+**헤드라인**: *"Jeremy Grantham on the meltdown coming for U.S. stocks and where he’s putting his money now"*  
+**헤드라인**: *"J.D. Powers: Federal jobs went from reliable to risky overnight. Here’s where Americans can find stable work now — and in the future."*  
+이 헤드라인들은 미국 주식 시장의 전망과 노동 시장의 변화에 대한 심각한 경고를 담고 있다. Jeremy Grantham은 미국 주식의 붕괴를 예고하며 개인적으로 투자하려는 전략을 고민하고 있음을 시사하고, 노동 시장의 변화는 안정적인 일자리 찾기에 어려움을 겪고 있는 미국인들에게 보다 심층적인 분석을 요구하고 있다.
+
+#### 테마 2: 정치적 및 정책적 격변
+**헤드라인**: *"Trump’s ‘Gold Card’ Set Off Panic in an Unexpected Place: Real Estate"*  
+**헤드라인**: *"Is Trump Inadvertently Helping Trudeau and the Liberals in Canada?"*  
+이 헤드라인들은 트럼프의 정책이 미국 부동산 시장에 미친 영향을 다루고 있다. '골드 카드' 비자 프로그램은 미국 주택 시장에 대한 추가적인 수요를 발생시킬 것으로 보이며, 이는 비싼 주택 가격을 부각시킬 우려가 있다. 또한, 이러한 정책이 캐나다 정치에 영향을 미칠 가능성도 제기되고 있어 정치적 동향이 경제에 미치는 영향을 다시 한 번 상기시킨다.
+
+#### 테마 3: 기술 및 에너지 자원
+**헤드라인**: *"AI Fever in Power Stocks Moves From Nuclear to Plain Natural Gas"*  
+**헤드라인**: *"Coal’s Four-Year Lows Hide a Coming Global Supply Squeeze"*  
+이 두 헤드라인은 에너지 시장의 기술적 변화와 자원 공급에 대한 불확실성을 강조하고 있다. AI 기술이 발전하면서 원자력 발전에서 천연가스로의 전환이 이루어지고 있으며, 이는 전력 산업에 새로운 기회를 제공할 수 있다. 한편, 석탄의 가격 하락은 향후 글로벌 공급에서의 압박을 예고하며, 에너지 투자자들에게 주의가 필요함을 알린다.
+
+### 3. 결론
+오늘날 뉴스는 전반적으로 부정적인 정서를 반영하고 있으며, 경제 및 금융 시장의 불확실성이 커지고 있음을 보여준다. 특히, 트럼프의 정책 변화가 주택 시장에 미치는 영향과 투자자들의 자산 배분 전략 변화가 주목받고 있다. 또한, 에너지 시장의 변동성과 정치적 요소가 결합되어 복잡한 경제 환경을 만들어가고 있는 상황이다. 투자자들은 이러한 동향을 면밀히 관찰하고, 향후 결정에 신중을 기해야 할 것이다.

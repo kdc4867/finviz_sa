@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 28개
+- 중립적 헤드라인: 43개
+- 부정적 헤드라인: 57개
+
+### 주요 뉴스 요약
+
+#### 1. 관세와 무역 긴장
+**헤드라인**: *"Trump: 25% tariffs set to take effect"*  
+**헤드라인**: *"Stocks Post Biggest Loss of the Year on Trump’s Tariff Plans"*  
+트럼프 대통령의 관세 부과 계획은 시장에 큰 충격을 주었으며, 이는 투자자들 사이에서 비관적인 반응을 촉발했습니다. 특히, 미국, 캐나다 및 멕시코 간의 무역 마찰 exacerbated로 인해 이들 국가의 통화 가치와 주식 시장이 하락했습니다.
+
+#### 2. 경제 지표 및 소비자 신뢰 저하
+**헤드라인**: *"Construction Spending Was Weaker Than Expected in January, Especially Housing"*  
+**헤드라인**: *"ISM® Manufacturing index Decreased to 50.3% in February"*  
+1월 건설 지출과 제조업 지표가 기대 이하로 나타났습니다. 이러한 경제 지표는 소비자 신뢰의 저하를 반영하며, 기업의 투자 의사 결정을 악화시키는 요인으로 작용할 수 있습니다.
+
+#### 3. 주식 시장의 불안정
+**헤드라인**: *"Stocks Drop as Trump Is Set to Move Forward on Tariffs"*  
+**헤드라인**: *"S&P 500 sees worst selloff in 2025 as bonds climb: Markets Wrap"*  
+주식 시장은 트럼프의 관세 조치 발표 이후 급격한 하락세를 보였으며, 이는 투자자들이 미국 경제의 향후 방향성에 대한 불안을 느끼고 있음을 나타냅니다. 특히 대형 기술주의 하락이 눈에 띄며, 이는 시장 전반에 걸쳐 부정적인 파급 효과를 미칠 것으로 보입니다.
+
+### 결론
+오늘의 뉴스는 트럼프 대통령의 관세 부과 결정이 시장에 상당한 부정적인 영향을 미친 것을 보여줍니다. 경제 지표의 부진과 무역 긴장은 투자자들 사이에 불안감을 조성하고 있으며, 주식 시장의 하락세가 이를 반영하고 있습니다. 향후 몇 주간 이러한 변동성이 지속될 것이 예상되므로, 투자자들은 신중한 접근이 필요할 것으로 보입니다.

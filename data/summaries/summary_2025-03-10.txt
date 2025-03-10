@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- **긍정적 헤드라인**: 17
+- **중립적 헤드라인**: 15
+- **부정적 헤드라인**: 42
+
+### 2. 주요 뉴스 요약
+
+#### 경제 및 주식시장 불안
+- **헤드라인**: *"US stock futures fall following S&P's worst week since September"*
+- **헤드라인**: *"U.S. stock futures fall after a rough week on Wall Street, as Trump won’t rule out recession"*
+  
+  최근 S&P 500의 최악의 주간 성과 이후 미국 주식 선물이 하락하며 시장의 불안감을 반영하고 있습니다. 트럼프 전 대통령이 경기 침체 가능성을 언급하면서 투자자들이 더욱 긴장을 높이고 있으며, 이는 전반적인 주식 시장에 부정적인 영향을 미치고 있습니다.
+
+#### 금 및 원자재 시장 반응
+- **헤드라인**: *"Gold Climbs as Investors Fret Over the Global Economic Outlook"*
+- **헤드라인**: *"Oil Falls to Near Six-Month Low as Weak China Data Deepens Gloom"*
+
+  세계 경제 전망에 대한 우려가 커지면서 금 가격이 상승하고 있습니다. 반면, 중국의 부진한 경제 데이터가 원유 가격 하락을 이끌며 산업에 대한 부정적인 심리를 가중시키고 있습니다. 이로 인해 투자자들은 안전 자산으로의 이동을 고려하게 됩니다.
+
+#### 정치 및 규제 변화
+- **헤드라인**: *"Trump Says Four Different Groups in Play for TikTok Deal"*
+- **헤드라인**: *"Trump Tariff Threats May be Good for India, Ex-RBI Deputy Says"*
+
+  트럼프 전 대통령이 TikTok 매각과 관련하여 여러 그룹과의 교섭을 언급하며 관심을 모으고 있습니다. 동시에, 그의 관세 위협이 인도에 긍정적인 요인이 될 수 있다는 분석이 나오면서, 정치적 변화가 경제 전반에 미치는 영향에 대한 논의가 활발합니다.
+
+### 3. 결론
+전체적으로 오늘의 시장은 부정적 감정이 지배하고 있으며, 불확실성 증가와 경기 둔화 우려가 주요한 주제입니다. 금과 같은 안전 자산에 대한 수요가 증가하며, 반면 주식 시장은 트럼프 전 대통령의 발언과 경제 데이터에 영향을 받아 하락세를 이어가고 있습니다. 이러한 상황에서 투자자들은 보다 신중한 접근이 필요하며, 향후 경제 지표 발표에 따라 시장의 방향이 달라질 가능성이 큽니다.

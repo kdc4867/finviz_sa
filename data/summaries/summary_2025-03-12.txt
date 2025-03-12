@@ -1,0 +1,29 @@
+## 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 29
+- 중립적 헤드라인 수: 44
+- 부정적 헤드라인 수: 54
+
+## 주요 뉴스 요약
+
+### 1. 터무니없는 무역 전쟁과 관세
+**헤드라인**: *"Trump hikes Canada steel and aluminum tariffs to 50 percent"*  
+**헤드라인**: *"Stocks resume sell-off as Trump plans bigger metals tariffs"*  
+트럼프 대통령이 캐나다의 철강 및 알루미늄 관세를 50%로 인상하기로 결정함에 따라, 시장은 다시 매도세로 돌아섰습니다. 이러한 관세 조치는 미국 주식 시장에 부정적인 영향을 미치고 있으며, 투자자들 사이에서 경계감이 커지고 있습니다. 이는 또한 미국과 캐나다 간의 무역 긴장을 심화시킬 것으로 보입니다.
+
+### 2. 우크라이나 휴전 제안
+**헤드라인**: *"Ukraine agrees to cease-fire, now it’s Russia’s turn to agree"*  
+**헤드라인**: *"Markets could get 'a little rough' within three months, reach recession fears: Gasparino"*  
+우크라이나가 휴전을 제안하면서, 시장은 기대감을 품고 있으나, 러시아의 반응에 따라 불확실성이 남아 있습니다. 경제 전문가들은 이러한 전환이 단기적으로 긍정적인 효과를 가져올 수 있지만, 여전히 경기 침체 우려가 시장에 영향을 미치고 있음을 경고하고 있습니다.
+
+### 3. 테슬라와 전기차 시장 동향
+**헤드라인**: *"Tesla jumps after worst day in nearly 5 years"*  
+**헤드라인**: *"Elon Musk has to make a decision with Tesla: Kenny Polcari"*  
+테슬라의 주가는 최근 하락세를 겪었으나, 빠르게 반등하는 모습을 보이고 있습니다. 투자자들은 일론 머스크의 결정에 주목하고 있으며, 이는 향후 전기차 시장에 중요한 영향을 미칠 것입니다. 테슬라가 뉴스를 통해 긍정적인 이미지를 회복할 경우, 더 많은 투자자를 끌어들일 가능성이 큽니다.
+
+### 4. 경제 지표와 주식 시장
+**헤드라인**: *"Stocks fall, adding to biggest selloff in months on economic fears"*  
+**헤드라인**: *"S&P 500 gets closer to correction territory as investors grapple with Trump tariff fears"*  
+경제 지표와 무역 전쟁으로 인한 주식 시장의 불확실성이 커지며, S&P 500이 수정세에 임박하고 있다는 우려가 커지고 있습니다. 투자자들은 이러한 경제적 불확실성을 심각하게 받아들이고 있으며, 앞으로의 시장 방향성에 대한 우려가 더욱 커질 전망입니다.
+
+## 결론
+현재 시장은 부정적인 감정이 지배적이며, 특히 무역 전쟁과 관련된 우려가 크게 작용하고 있습니다. 트럼프 대통령의 대외 정책 변화는 한국 및 캐나다와의 무역 관계에 긴장을 고조시켜, 투자자들 사이에 우려를 야기하고 있습니다. 우크라이나의 휴전 제안은 긍정적인 신호로 작용하지만, 경기 침체의 위험이 여전히 존재해 시장의 변동성을 더욱 심화시키는 요인으로 작용할 것입니다. 전반적으로 투자자들은 신중한 접근이 필요해 보입니다.

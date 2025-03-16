@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적: 11건
+- 중립적: 28건
+- 부정적: 20건
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 경제 및 주식시장 전망
+- **헤드라인**: *"Wall Street begins to cut S&P 500 targets as tariff worries rock the stock market."*
+- **헤드라인**: *"Sell Off Accelerates As Recession Fears Emerge."*
+  
+경제와 주식 시장에 대한 우려가 이번 뉴스의 주요 테마로 떠올랐다. S&P 500에 대한 목표가 하향 조정되고 있으며, 이는 투자자들의 불안감을 반영하고 있다. 또한, 경기 침체에 대한 두려움이 주식 시장의 매도 압력을 더욱 가중시키고 있음을 나타낸다.
+
+#### 주제 2: 투자자 보호 및 리스크 관리
+- **헤드라인**: *"Americans lost $5.7 billion to investment scams in 2024, FTC says. Here's how to protect yourself."*
+- **헤드라인**: *"Goldman Sachs offers its newest option for downside protection in volatile markets."*
+
+투자자의 보호에 대한 논의도 중요한 주제로 부각되었다. 소비자 보호국(FTC)은 미국인들이 투자 사기로 인한 피해를 입고 있다고 경고하며, 이를 방지하기 위한 방법을 제시하고 있다. 동시에, 골드만삭스는 변동성이 큰 시장에서의 하락 리스크를 관리하기 위한 새로운 옵션을 제공하고 있어, 금융 시장에서의 투자자 보호 조치가 중요하다는 메시지를 전달하고 있다.
+
+#### 주제 3: 정치와 경제의 교차점
+- **헤드라인**: *"Opinion: Thumbs down all around for Trump's new economic nihilism."*
+- **헤드라인**: *"How Trump has talked about stock market gyrations since election win."*
+
+정치적 요소가 경제에 미치는 영향도 두드러진다. 트럼프 전 대통령의 경제 정책에 대한 비판이 제기되며, 그로 인해 시장의 불안정성에 대한 우려가 커지고 있음을 나타낸다. 투자자들은 정치적 발언이 주식 시장에 미치는 영향을 점검하며 신중하게 대응해야 할 필요성이 커지고 있다.
+
+### 3. 결론
+현재 시장의 전반적인 감정은 부정적인 상황으로, 투자자들은 경기 침체와 무역 전쟁의 불확실성 때문에 신뢰를 잃은 모습이다. 긍정적인 뉴스를 찾기 어려우며, 이러한 우려가 주식 시장의 변동성을 더욱 심화시키고 있다. 결국, 투자자들은 안전성을 강화하고 리스크를 관리하기 위한 전략을 모색해야 할 것으로 보인다.

@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 28
+- 중립적인 헤드라인: 38
+- 부정적인 헤드라인: 60
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: NVIDIA의 실적과 주가 하락
+**헤드라인**: *"Nvidia’s stock falls after GTC. Here’s why Wall Street wasn’t so impressed."*  
+**헤드라인**: *"Nvidia sinks as CEO Jensen Huang unveils new chip lineup."*  
+Nvidia 관련 뉴스는 오늘 시장에서 두드러진 주제로, 회사의 최신 발표 후 투자자들의 실망감이 반영된 주가 하락이 나타났습니다. 특히, CEO의 새로운 칩 라인업 발표에도 불구하고 시장의 반응은 기대에 미치지 못해 주가는 상당폭 하락했습니다.
+
+#### 주제 2: 미국 경제와 통화 정책
+**헤드라인**: *"US has to cut through the red tape to develop energy sources faster, Doug Burgum says."*  
+**헤드라인**: *"Wall Street braces for Fed's next move on interest rates."*  
+미국 경제 부문의 갈림길에 서 있는 통화 정책과 에너지 개발에 대한 논의가 오늘 뉴스에서 부각되었습니다. 특히, 연준의 금리 결정이 다가오면서 시장이 불안정한 모습을 보이며 투자자들의 우려가 커지고 있습니다.
+
+#### 주제 3: 국제 긴장 및 지정학적 이슈
+**헤드라인**: *"White House Greenlit New Israeli Strikes On Gaza, Breaking Of Ceasefire."*  
+**헤드라인**: *"Putin Spurns Ukraine Ceasefire in Talks But Trump Calls It a Win."*  
+글로벌 지정학적 긴장감이 고조되고 있습니다. 이스라엘과 가자 지구의 갈등 재개는 중동 지역의 안정성을 위협하고 있으며, 이러한 상황은 전 세계 시장에도 부정적인 영향을 미칠 것으로 전망됩니다.
+
+#### 주제 4: 기업 구조조정 및 인플레이션 압박
+**헤드라인**: *"Morgan Stanley is the latest bank to trim its workforce. Here’s why."*  
+**헤드라인**: *"Canada Inflation Quickens to 2.6% on End of Sales Tax Break."*  
+경제 전반에서 인플레이션 압박과 기업의 구조조정이 가속화되고 있습니다. 특히, 캐나다의 인플레이션이 증가하면서 이를 대응하기 위한 정책 변화가 예고되고 있으며, 이는 투자자들 사이에서 우려를 낳고 있습니다.
+
+### 3. 결론
+전반적으로 오늘 시장은 부정적인 감정을 드러내며, 기술주들이 큰 타격을 받으면서 투자자들이 매도하는 경향을 보였습니다. 특히, NVIDIA의 실망스러운 실적 발표와 연준의 금리 결정이 다가오면서 불확실성이 커지고 있습니다. 지정학적 이슈는 더욱 복잡해지고 있으며, 이는 경제 전반에 걸쳐 불안 요소로 작용할 것입니다. 앞으로의 시장 동향에 대한 면밀한 주의와 분석이 필요한 시점입니다.

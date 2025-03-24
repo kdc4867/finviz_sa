@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 16개
+- 중립적 헤드라인: 34개
+- 부정적 헤드라인: 25개
+
+### 2. 주요 뉴스 요약
+
+#### **주요 테마 1: 미국 경제와 인플레이션**
+**헤드라인**: *"The Fed's preferred inflation gauge and tariff talk: The week ahead"*  
+**헤드라인**: *"Americans hate inflation — but it’s not going away anytime soon."*  
+이번 주 미국의 인플레이션과 관련된 논의가 강하게 이루어질 것으로 보입니다. 연준이 선호하는 인플레이션 지표가 발표될 예정이며, 이는 향후 통화 정책에 중요한 영향을 미칠 수 있습니다. 투자자들은 인플레이션 압력이 여전히 지속되고 있다는 점에 유의해야 할 것입니다.
+
+#### **주요 테마 2: 주식 시장의 불안정성**
+**헤드라인**: *"The biggest question facing the stock market"*  
+**헤드라인**: *"Stumbling Stock Market Raises Specter of Dot-Com Era Reckoning"*  
+현재 주식 시장은 불안정한 상황에 직면해 있으며, 이전의 '.com' 버블을 연상시키는 여러 징후들이 나타나고 있습니다. 이러한 상황은 투자자들에게 높은 변동성을 내부적으로 상징하며, 신중한 접근기법이 필요할 것입니다.
+
+#### **주요 테마 3: 국제 및 지역 정치적 요인**
+**헤드라인**: *"Turkey Bans Short-Selling, Eases Buybacks to Stem Market Slide"*  
+**헤드라인**: *"Erdogan Jails Top Political Rival As Protests Sweep Across Turkey"*  
+터키 정부는 주식 시장의 하락을 막기 위해 공매도를 금지하고 주식 매입 자금을 완화하는 조치를 발표했습니다. 이러한 정치적 결정은 시장 심리와 내용에 큰 영향을 미칠 수 있으며, 투자자들은 이에 대한 반응을 주의 깊게 살펴봐야 합니다.
+
+### 3. 결론
+오늘 시장 뉴스의 전반적인 감정은 부정적 경향이 우세하며, 투자자들은 인플레이션 압력과 주식 시장의 불안정성에 대한 우려로 인해 신중하게 접근해야 할 필요가 있습니다. 또한, 지역 정치 요인이 시장에 미치는 영향 또한 그 어느 때보다 중요한 시점에 있습니다. 향후 발표될 경제 데이터와 정치적 결정 관계가 주요 투자 지침이 될 것입니다.

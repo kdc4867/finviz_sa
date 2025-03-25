@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+
+- **긍정적 헤드라인 수**: 41
+- **중립적 헤드라인 수**: 38
+- **부정적 헤드라인 수**: 42
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: **관세 및 무역 정책**
+- **헤드라인**: *"US stocks surge amid hopes for dialed-down tariffs"*
+- **헤드라인**: *"Trump announces 25% Venezuela oil and gas tariff over Tren de Aragua"*
+
+이 주제는 현재 미국 내에서의 관세 정책 변화에 대한 투자자들의 기대감과 이에 따른 주식 시장의 반응을 다룹니다. *"US stocks surge amid hopes for dialed-down tariffs"*라는 헤드라인은 투자자들이 낮아질 가능성이 있는 관세에 대한 긍정적인 기대를 반영하고 있으며, 이는 주식 시장의 상승으로 이어졌습니다. 반면 *"Trump announces 25% Venezuela oil and gas tariff over Tren de Aragua"*는 특정 국가에 대한 높은 관세 부과 가능성을 언급하고 있어, 무역 전선에 대한 긴장감을 암시합니다.
+
+#### 테마 2: **기술 및 투자 시장**
+- **헤드라인**: *"Nvidia, AMD, Meta lead tech rally as AI and tariff news boost sector"*
+- **헤드라인**: *"Morgan Stanley Leads $6 Billion-Plus Dun & Bradstreet Debt Deal"*
+
+기술 분야에서의 성장은 오늘의 주요 경향 중 하나로, *"Nvidia, AMD, Meta lead tech rally as AI and tariff news boost sector"*는 AI 관련 주식들이 선택받고 있다는 점에서 투자 집행이 활발함을 나타냅니다. 또한 *"Morgan Stanley Leads $6 Billion-Plus Dun & Bradstreet Debt Deal"*는 대규모 부채 거래가 이루어지고 있다는 점에서 투자 기관의 활발한 움직임이 확인됩니다.
+
+#### 테마 3: **동남아시아 경제와 글로벌 영향**
+- **헤드라인**: *"Southeast Asian stocks feel the heat from economic, U.S. tariff worries"*
+- **헤드라인**: *"Congo May Extend Cobalt Export Suspension, President Says"*
+
+이 테마는 동남아시아 시장이 미국의 무역 정책 변화에 민감하게 반응하고 있음을 보여줍니다. *"Southeast Asian stocks feel the heat from economic, U.S. tariff worries"*는 미국의 관세 정책에 대한 우려가 동남아시아 주식 시장에 부정적인 영향을 미치고 있음을 시사하며, 이는 지역 경제의 불확실성을 강조합니다. 또한 *"Congo May Extend Cobalt Export Suspension, President Says"*는 주요 자원인 코발트 수출 중단 가능성이 지역에 미치는 장기적 영향을 암시합니다.
+
+### 3. 결론
+
+오늘의 뉴스는 전반적으로 미국의 관세 정책과 관련된 주제가 두드러지며, 이는 시장에 긍정적 및 부정적인 영향을 동시에 미치고 있습니다. 투자자들은 낮아질 수 있는 관세에 대한 기대감으로 주식을 매입하고 있으나, 동시에 여러 국가의 관세 부과 가능성에 대한 우려로 인해 긴장된 분위기가 지속되고 있습니다. 기술 분야의 주식 상승은 긍정적인 신호로 작용하고 있으며, 동남아시아 등 글로벌 시장의 동향이 미국의 정책 변화에 촉각을 기울이고 있음을 보여줍니다.

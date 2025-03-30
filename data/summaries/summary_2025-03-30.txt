@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 14
+- 중립적인 헤드라인: 19
+- 부정적인 헤드라인: 29
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 자동차 산업 및 무역 정책
+- **헤드라인**: *"Car finance case could spark billions in driver payouts"*
+- **헤드라인**: *"Specter of Auto Tariffs Spurs Some Car Buyers to Rush Purchases"*
+  
+자동차 관련 금융 사건이 수십억 달러의 배상금 지급으로 이어질 가능성이 있다는 뉴스는 소비자들에게 큰 영향을 미칠 것으로 보인다. 또한, 자동차 관세의 도입이 소비자들에게 신속한 구매 결정을 유도하고 있는 상황이 드러나, 이는 차세대 자동차 판매 유동성에 직접적인 영향을 미칠 수 있다.
+
+#### 테마 2: 경제 및 정치적 불확실성
+- **헤드라인**: *"As Trump Sinks Dollar, Once-Unthinkable Worry Grips Markets"*
+- **헤드라인**: *"Opinion: The Trump economy isn't improving, contrary to voters' hopes"*
+
+트럼프 전 대통령의 정책이 달러 가치를 하락시키며 시장에 불안감을 조성하고 있다는 분석은 투자자들에게 우려의 목소리를 제기한다. 특히 경제의 개선이 유권자들의 기대와 달리 이루어지지 못하고 있다는 의견은 정치적 불확실성이 경제에 미치는 영향을 다시금 상기시켜준다.
+
+#### 테마 3: 주식 시장 동향
+- **헤드라인**: *"Stocks are on pace for their worst month since 2022. Could April bring buying opportunities?"*
+- **헤드라인**: *"March is shaping up as the worst month for stocks since 2022"*
+
+주식 시장이 2022년 이후 최악의 월간 성과를 보이고 있으며, 이는 투자자들에게 매수 기회가 될 수 있는지를 고민하게 한다. 투자자들은 시장 변동성과 불안정성 속에서 위험 관리 및 매수 전략을 재조정할 필요성이 커지고 있다.
+
+### 3. 결론
+전반적으로 오늘의 시장 감정은 부정적이며, 경제와 무역 정책에 대한 우려가 주요 요인으로 작용하고 있다. 자동차 산업을 포함한 다양한 분야에서 발생하는 불빛들 속에, 투자자들은 미래 경제 전망에 대한 신중한 시각을 유지해야 함을 나타낸다. 또한, 주식 시장이 저조한 성과를 보이는 가운데, 투자자들은 앞으로의 기회를 모색하는 동시에 리스크 관리에 집중할 필요가 있다.

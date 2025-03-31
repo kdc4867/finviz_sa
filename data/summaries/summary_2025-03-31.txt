@@ -1,0 +1,33 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 19
+- 중립적인 헤드라인: 22
+- 부정적인 헤드라인: 39
+
+### 주요 뉴스 요약
+
+#### 1. 미국 애국적 정책과 무역 전쟁
+**헤드라인**: *"Stocks Sink as Trump’s Tariff Threats Weigh on Confidence"*  
+**헤드라인**: *"U.S. stock futures fall as Wall Street awaits Trump's new tariffs"*
+
+이 헤드라인들은 트럼프 전 대통령의 고율 관세 위협이 투자자 신뢰에 미치는 부정적인 영향을 강조하고 있습니다. 투자자들은 4월 2일 발표될 새로운 관세 정책에 대한 불확실성으로 인해 자산을 재조정하고 있으며, 이는 곧 주식 시장에 대한 급락으로 이어지고 있습니다. 
+
+#### 2. 시장의 전반적인 하락
+**헤드라인**: *"Stock Slump Deepens, Bonds Rise as Traders De-Risk: Markets Wrap"*  
+**헤드라인**: *"Stocks skid, bonds rally as tariff clock ticks down"*
+
+주식 시장의 침체가 더욱 깊어지고 있다는 소식은 투자자들에게 큰 경고 신호로 작용하고 있습니다. 채권 시장의 안전 자산으로의 유입이 증가하고 있으며, 이는 주식 투자자들의 리스크 회피 성향을 나타내고 있습니다. 
+
+#### 3. 중국 제조업 및 경제
+**헤드라인**: *"China Factory Activity Expands Before Expected Trump Tariffs"*  
+**헤드라인**: *"China’s biggest state banks to raise $71.6 bln to boost capital"*
+
+중국의 제조업 활동이 예상보다 증가하고 있음을 보여주며, 이는 글로벌 경제 회복에 대한 기대감을 불러일으킬 수 있습니다. 그러나 이러한 성장은 향후 트럼프의 관세 조치에 따라 큰 영향을 받을 수 있어 경계가 필요합니다. 
+
+#### 4. 글로벌 경제의 불확실성
+**헤드라인**: *"Everything you wanted to know about a recession but were afraid to ask"*  
+**헤드라인**: *"Economic Occurrences Could Lead the US to Another 2008"*
+
+경제 전반에 대한 불확실성이 커지고 있으며, 경기 침체 가능성에 대한 논의가 활발하게 이루어지고 있습니다. 이는 투자자들에게 심리적 부담을 주고 있으며, 향후 정책 결정이 시장에 미치는 영향에 대한 우려가 커지고 있습니다. 
+
+### 결론
+오늘의 뉴스는 트럼프 전 대통령의 관세 위협과 그로 인한 시장 불안정성이 주요 테마로 부각되면서, 투자자들의 신뢰가 크게 흔들리고 있음을 나타냅니다. 부정적인 뉴스가 다수를 차지하며 시장 전반에 부정적인 영향을 미치고 있는 반면, 안전 자산으로의 이동이 증가하고 있습니다. 또한 중국의 제조업 회복 조짐이 보이지만, 이는 글로벌 경제의 지속적인 불확실성 속에서 부정적인 영향을 받을 수 있습니다. 이러한 요소들은 투자자들이 향후의 시장 변화에 대비해야 할 필요성을 더욱 부각시키고 있습니다.

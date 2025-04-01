@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 31
+- 중립적 헤드라인: 30
+- 부정적 헤드라인: 53
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국의 무역 및 관세 정책
+**헤드라인**: *"Trump’s tariff narrative is creating unnecessary market volatility: Nancy Tengler"*  
+**헤드라인**: *"Trump to reveal tariffs on 'all countries' at Rose Garden event"*
+
+이 헤드라인들은 트럼프의 관세 정책이 시장에 미치는 부정적인 영향을 강조하고 있습니다. 트럼프의 새로운 관세 발표가 예정되어 있으며, 이는 불확실성을 증가시켜 시장 변동성을 유발할 것으로 예상됩니다. 특히, 투자자들은 이러한 정책이 글로벌 경제에 미칠 영향을 우려하고 있는 상황입니다.
+
+#### 테마 2: 주식 시장의 불안정성
+**헤드라인**: *"Dow, S&P 500, Nasdaq futures fall as Trump's tariff deadline creeps closer"*  
+**헤드라인**: *"Wall Street closes out worst quarter since 2022"*
+
+주식 시장이 전체적으로 하락세를 보이며 최근 분기 동안 가장 부진한 실적을 기록했습니다. 이는 트럼프의 관세 정책에 대한 우려가 커지면서 투자자들이 위험 회피 성향을 보이고 있는 것으로 풀이됩니다. 특히, Nasdaq의 하락은 AI 버블에 대한 불안감과 맞물려 더욱 부각되고 있습니다.
+
+#### 테마 3: 원자재 및 에너지 시장
+**헤드라인**: *"Energy Stocks Defy Market Turmoil in Hunt for Inflation Hedge"*  
+**헤드라인**: *"Oil Holds Hefty Advance With Trump Sanctions, Tariffs in Focus"*
+
+원자재 및 에너지 주식들이 시장의 혼란 속에서도 강세를 보이고 있음을 나타내고 있습니다. 이는 인플레이션 헤지 수단으로서 원자재가 여전히 매력적인 투자처로 인식되고 있음을 시사합니다. 트럼프의 제재와 관세 정책이 에너지 가격에 미치는 영향이 중요한 관전 포인트가 되고 있습니다.
+
+#### 테마 4: 해외 및 특정 국가 경제 동향
+**헤드라인**: *"China’s factory activity speeds up on export boost, Caixin PMI shows"*  
+**헤드라인**: *"Zambia’s Inflation Has Finally Peaked, Finance Minister Says"*
+
+중국의 공장 활동 증가와 잠비아의 인플레이션 정점 도달 소식은 글로벌 경제의 다양한 양상을 보여주고 있습니다. 이는 각국의 경제 회복에 대한 긍정적인 신호일 수 있으나, 동시에 미국의 무역 정책과 관계된 영향도 무시할 수 없습니다. 트럼프의 관세 발표가 이러한 국가들에게 어떤 영향을 미칠지 주목할 필요가 있습니다.
+
+### 3. 결론
+전반적인 시장 정서는 부정적이며, 특히 트럼프의 관세 정책과 관련된 불확실성이 많은 투자자에게 우려를 낳고 있습니다. 주식 시장은 하락세를 보이고 있으며, 원자재 및 에너지 시장은 상대적으로 강세를 보이고 있습니다. 글로벌 경제의 회복 신호와 함께 각국의 정책 변화에 대한 주의 깊은 관찰이 필요합니다. 투자자들은 이러한 불확실성 속에서 신중한 접근이 요구되는 시점입니다.

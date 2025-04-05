@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 24개
+- 중립적 헤드라인: 29개
+- 부정적 헤드라인: 69개
+
+### 2. 주요 뉴스 요약
+
+#### **테마 1: 트럼프의 관세 정책과 경제 영향**
+**헤드라인**: *"Powell Warns Trump’s Tariffs Risk Stoking Even Higher Inflation and Slower Growth"*  
+**헤드라인**: *"JPMorgan Says Trump’s Tariffs to Send US Into Recession"*  
+트럼프의 관세 정책이 미국 경제에 미치는 부정적인 영향이 우려되고 있습니다. 제롬 파월 의장은 관세가 물가 상승과 성장 둔화를 초래할 것이라고 경고하며, JPMorgan도 관세로 인해 미국이 침체에 빠질 것이라고 예측했습니다. 이러한 부정적인 전망은 투자자들 사이에서 불안감을 조성하고 있습니다.
+
+#### **테마 2: 증시 급락과 금융 시장 불확실성**
+**헤드라인**: *"Dow down nearly 2,000 points as stock-market decline accelerates — live updates"*  
+**헤드라인**: *"S&P Down 10 Percent in 2 Days, Semiconductors Worst Week Since 2001"*  
+최근 주식 시장의 급락이 이어지고 있습니다. 다우지수가 2,000포인트 가까이 하락하며, S&P 500이 2일 동안 10% 하락했습니다. 이는 투자자들이 트럼프의 관세 정책에 대한 우려로 인해 불안을 느끼고 있음을 보여주며, 앞으로의 시장 전망이 어두운 상황임을 반영합니다.
+
+#### **테마 3: 고용 시장 상황**
+**헤드라인**: *"U.S. employers added 228,000 jobs in March, but the outlook is clouded."*  
+**헤드라인**: *"Trump’s labor secretary says she ‘couldn’t be more happy’ with March’s jobs report"*  
+미국의 고용 시장은 3월에 22만 8천개의 신규 일자리를 추가했으나, 불확실한 경제 상황 덕분에 긍정적인 전망보다는 우려가 더 커지고 있습니다. 트럼프의 노동장관은 이러한 고용 증가에 만족감을 표명했지만, 전반적인 경제 성장 둔화 가능성 때문에 고용 증가가 장기적으로 지속될 수 있을지는 미지수입니다.
+
+### 3. 결론
+오늘의 뉴스는 주로 트럼프의 관세 정책으로 인한 경제적 불확실성과 주식 시장의 급락에 중점을 두고 있습니다. 긍정적인 헤드라인의 수는 비교적 적으나, 부정적인 뉴스가 크게 제기되어 시장의 공포감이 확산되고 있습니다. 특히, 제롬 파월 의장의 발언과 JPMorgan의 리포트는 투자자들에게 심각한 경고를 보내고 있어, 앞으로도 투자 전략에 큰 영향을 미칠 것으로 보입니다.

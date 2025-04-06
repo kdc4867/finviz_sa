@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 10개
+- 중립적 헤드라인: 16개
+- 부정적 헤드라인: 41개
+
+### 주요 뉴스 요약
+
+#### 1. 주식 및 트레이딩 동향
+**헤드라인**: *"Stocks aren’t a screaming buy yet, but it's getting close. Here’s what to watch."*  
+**헤드라인**: *"U.S. stocks aren’t a screaming buy just yet — but we’re getting close. Here’s what to watch."*  
+현재 주식시장은 바닥에 가까워지고 있지만, 아직 강한 매수 신호는 나타나지 않고 있습니다. 이러한 상황은 투자자들이 향후 경제 회복에 대해 신중하게 접근하고 있음을 시사합니다. 특히, 기업 실적 시즌이 가까워짐에 따라 투자자들은 경과를 면밀히 주시해야 할 필요가 있습니다.
+
+#### 2. 트럼프의 관세 정책
+**헤드라인**: *"Trump’s 10% tariffs kick in today. Why the biggest ones are yet to come."*  
+**헤드라인**: *"Businesses Gauge Impact as Trump's Global Tariffs Kick In."*  
+트럼프 대통령의 새로운 10% 관세가 발효되면서 글로벌 무역에 미치는 영향이 심각하게 우려되고 있습니다. 많은 기업들은 이러한 조치가 시장에 미치는 영향을 평가하고 있으며, 향후 더 큰 관세가 부과될 가능성에 대해 불안감을 느끼고 있습니다.
+
+#### 3. 기술주와 투자 전략
+**헤드라인**: *"Should you buy the dip in tech? Dot-com-era pros share 5 ways to find winners."*  
+**헤드라인**: *"Tariffs Stoke Fears That Hung Debt Will Return."*  
+기술주 매수 타이밍에 대한 논의가 활발한 가운데, 과거의 경험을 바탕으로 성공적인 투자 전략을 찾으려는 움직임이 보입니다. 그러나 무역 긴장과 관세 문제는 이러한 전략에 부담을 주며, 많은 투자자들이 과거의 실수를 반복할 것을 경계하고 있습니다.
+
+#### 4. 제조업 및 경제 전망
+**헤드라인**: *"Trump Promised a Manufacturing Boom. Industries Are Not So Sure."*  
+**헤드라인**: *"China Pledges Resolute Measures to Hit Back at Trump Tariffs."*  
+트럼프 행정부의 제조업 부흥 약속에 대해 산업계는 회의적인 반응을 보이고 있습니다. 중국 역시 미국의 관세에 대한 강력한 반격을 천명하면서, 글로벌 경제 성장에 부정적인 영향을 미칠 것으로 예상됩니다.
+
+### 결론
+오늘의 뉴스는 전반적으로 부정적인 시장 분위기를 보여주고 있으며, 특히 트럼프의 관세 정책과 그에 따른 글로벌 무역의 불확실성이 두드러집니다. 주식시장은 가까운 미래에 매수 기회에 대한 기대를 품고 있지만, 아직은 한 발짝 더 기다리고 있는 상황입니다. 기술주와 제조업 전망에 대한 관심이 높아지는 가운데, 투자자들은 이러한 경제적 변동성에 대해 신중해야 할 시점에 있습니다.

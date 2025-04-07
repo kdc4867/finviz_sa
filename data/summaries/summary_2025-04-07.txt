@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- **긍정적 헤드라인 수**: 13
+- **중립적 헤드라인 수**: 33
+- **부정적 헤드라인 수**: 69
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미중 무역 갈등과 무역 정책
+**헤드라인**: *"Trump's tariffs brought carnage to U.S. stocks. What it will take to stop it."*  
+**헤드라인**: *"Trump Sets a Huge Tariff Sucker Trap for Taiwan and its Chip Industry."*  
+트럼프의 관세 정책이 미국 주식 시장에 큰 타격을 주었음을 경고하는 헤드라인들이 다수 등장하고 있습니다. 특히, 대만의 반도체 산업에 대한 관세 위협이 커지고 있으며, 이러한 무역 갈등은 양국의 경제 전반에 악영향을 미칠 가능성이 높습니다.
+
+#### 테마 2: 글로벌 경제 불안정성
+**헤드라인**: *"Bill Ackman warns of ‘economic nuclear winter,’ urges 90-day timeout on tariffs."*  
+**헤드라인**: *"Dow futures fall 900 points as Trump tariff market collapse worsens."*  
+투자자와 전문가들이 경제의 불안정성에 대한 우려를 표명하고 있습니다. 특히, 벤처 투자자 빌 애크먼은 관세로 인해 심각한 경제 침체가 초래될 것이라고 경고하며, 정부의 정책 전환이 필요하다고 주장하고 있습니다.
+
+#### 테마 3: 금 가격 및 안전 자산 수요 증가
+**헤드라인**: *"China’s Central Bank Buys Gold for Fifth Month as Prices Rally."*  
+**헤드라인**: *"Treasuries Star as Haven Bet Even as Trump Fans Stagflation Woes."*  
+금과 국채 같은 안전 자산에 대한 수요가 증가하고 있습니다. 중국 중앙은행이 5개월 연속으로 금을 매입한 것은 금 가격의 상승을 지지하는 요소가 되고 있으며, 이러한 추세는 투자자들이 불확실한 시장 상황에서 안전한 자산으로 이동하고 있다는 징후입니다.
+
+#### 테마 4: 아시아 시장의 불안정한 반응
+**헤드라인**: *"Chinese Stocks Plunge Amid Growing Fear of Full-Blown Trade War."*  
+**헤드라인**: *"Japanese Stocks Set to Tumble as Trade War Fears Intensify."*  
+아시아 시장이 미국의 관세 부과로 인해 급격하게 하락하고 있습니다. 중국 및 일본 주식 시장의 급락은 글로벌 경제 불안정성을 더욱 부각시키며, 많은 투자자들이 향후 시장 전망에 대해 부정적입니다.
+
+### 3. 결론
+오늘 시장의 전반적인 분위기는 매우 부정적입니다. 트럼프의 관세 정책이 지속적으로 시장에 심각한 영향을 미치고 있으며, 전문가들은 경제 전반에 걸쳐 혼란이 예상됩니다. 또한, 안전 자산으로의 이동이 증가하고 있다는 점은 투자자들이 매우 불안한 심리를 반영하는 것입니다. 총체적으로, 글로벌 경제의 불확실성이 심화되고 있어, 투자자들은 더욱 신중한 접근이 필요할 것으로 보입니다.

@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 17
+- 중립적인 헤드라인: 42
+- 부정적인 헤드라인: 68
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 트럼프의 관세 정책과 그에 따른 시장 혼란
+- **헤드라인**: *"Trump Suggests Israel Would 'Lead' Possible Attack On Iran"*
+- **헤드라인**: *"Trump’s Manufacturing Dreams Clash With Business Owners’ Reality"*
+  
+  최근 트럼프 대통령의 관세 정책이 부각되며 시장에 혼란을 초래하고 있습니다. *"Trump’s Manufacturing Dreams Clash With Business Owners’ Reality"*와 같은 헤드라인은 비즈니스 소유자들이 직면한 현실과 정책 간의 괴리를 나타내며, 이러한 갈등이 기업 운영에 미치는 영향을 시사합니다. 또한, 이런 불확실성은 투자자들에게 부정적인 심리를 강화하고 있습니다.
+
+#### 테마 2: 미중 무역 전쟁과 시장에 미치는 영향
+- **헤드라인**: *"Stocks Fall as Tariff Pause Fails to Quell Wall Street’s Worries"*
+- **헤드라인**: *"U.S. Stocks Tumble as Trade War Jitters Return"*
+
+  미중 무역 전쟁이 다시 부각되면서 시장에 불안감이 확산되고 있습니다. *"Stocks Fall as Tariff Pause Fails to Quell Wall Street’s Worries"*와 같이 관세 일시 정지에도 불구하고 시장의 우려가 해결되지 않았음을 나타내며, 투자자들이 선호하는 안전 자산으로 이탈하는 현상을 보여줍니다. 이와 같은 추세는 주식 시장의 추가적인 하락을 초래할 수 있습니다.
+
+#### 테마 3: 금융 시장의 변동성과 전망
+- **헤드라인**: *"It's clear that the stock market turmoil isn't over yet"*
+- **헤드라인**: *"Global Selloff Resumes as China Trade War Sinks In"*
+
+  금융 시장의 변동성이 계속해서 심화되고 있습니다. *"It's clear that the stock market turmoil isn't over yet"*라는 표현은 투자자들에게 앞으로도 추가적인 시장 혼란이 예고되고 있음을 알립니다. 또한, *"Global Selloff Resumes as China Trade War Sinks In"*는 글로벌 시장에서의 매도 세력의 재확산을 반영하며, 시장에 대한 신뢰 부족이 지속됨을 의미합니다.
+
+### 3. 결론
+오늘 시장은 전반적으로 부정적인 심리를 반영하며, 특히 트럼프의 관세 정책과 미중 무역 전쟁이 주요 이슈로 부각되고 있습니다. 이러한 환경은 투자자들에게 상당한 불안감을 유발하고 있으며, 주식 시장의 하락세를 더욱 심화시키고 있습니다. 앞으로의 경제 지표가 이런 불확실성을 해소하지 않는다면, 시장에 미치는 악영향은 더욱 확대될 가능성이 높습니다.

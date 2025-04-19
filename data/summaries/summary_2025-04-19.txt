@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 23
+- 중립적인 헤드라인 수: 36
+- 부정적인 헤드라인 수: 40
+
+### 주요 뉴스 요약
+
+#### 1. 트럼프의 경제 정책의 영향
+**헤드라인**: *"Trump won’t fire Powell — but he could still pressure the Fed. Here's how."*  
+**헤드라인**: *"The signs that Trump's policies are working are 'vividly in the data,' economic official says."*  
+트럼프 전 대통령의 경제 정책에 대한 논의가 부각되고 있습니다. 첫 번째 헤드라인은 트럼프가 연준 의장인 파월을 해임하지 않겠지만, 여전히 연준에 압력을 가할 수 있다는 점을 시사하고 있습니다. 두 번째 헤드라인은 트럼프의 정책이 데이터상에서 긍정적인 효과를 보이고 있다고 언급함에 따라, 향후 정책 결정에 대한 시장의 우려가 지속될 것으로 보입니다.
+
+#### 2. 금융 시장의 변동성과 투자 기회
+**헤드라인**: *"Stock market volatility is an opportunity for investors who have 'nerves,' expert says."*  
+**헤드라인**: *"Newer investors have been rewarded for buying market dips. That may not last."*  
+최근 주식 시장의 높은 변동성은 공포감과 동시에 투자자들에게 기회가 될 수 있다는 전문가 의견이 있습니다. 시장의 변동성 속에서도 상황을 잘 활용할 수 있는 투자자에게는 유리할 수 있으며, 그러나 새로운 투자자들은 시장 저점에서 매수한 경험을 통해 이익을 보고 있지만, 이러한 상황이 영구적이지 않을 수 있다는 경고가 나오고 있습니다.
+
+#### 3. 기술 및 기업별 뉴스
+**헤드라인**: *"Judge declares Google has illegal ad monopoly."*  
+**헤드라인**: *"Nvidia's 2025 has been anything but easy. And it's going to get tougher."*  
+기술 분야에서는 구글이 불법 광고 독점 혐의로 법원의 판결을 받고 있으며, 이는 광고 시장에 큰 충격을 줄 수 있습니다. 또한, 엔비디아에 관한 헤드라인은 2025년이 쉽지 않을 것이라는 전망을 드러내며, 기술 기업의 사업 환경이 더욱 어려워질 것으로 예상됩니다.
+
+### 결론
+오늘 뉴스는 금융 및 경제 정책에 대한 논의, 주식 시장의 변동성, 그리고 기술 기업의 도전과제를 중심으로 진행되고 있습니다. 시장 참여자들은 트럼프의 압력에 따른 연준의 정책 방향, 주식 시장의 기회 포착, 그리고 기술 기업의 어려운 환경에 주목하고 있습니다. 전반적으로 시장 심리는 부정적인 방향으로 흐르고 있으며, 이는 투자자들에게 다양한 리스크와 기회를 함께 제시하고 있습니다.

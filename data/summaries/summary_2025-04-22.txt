@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 27개
+- 중립적 헤드라인: 41개
+- 부정적 헤드라인: 58개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 트럼프의 연방준비제도 공격
+- **헤드라인**: *"US stocks slump as Trump’s threat to fire Powell adds pressure."*
+- **헤드라인**: *"Trump slams Jerome Powell as 'Mr. Too Late,' calls Fed chairman a 'major loser'."*
+
+트럼프 전 대통령이 연방준비제도의 Jerome Powell 의장을 공격하면서 시장 불안이 고조되고 있습니다. 이러한 정치적 압박은 금융 시장에 부정적 영향을 미치고 있으며, 투자자들은 통화 정책에 대한 불확실성으로 인해 주식을 매도하는 경향을 보이고 있습니다.
+
+#### 테마 2: 무역 정책 및 관세
+- **헤드라인**: *"Air Cargo Faces $22BN Revenue Hit When China Tariff Exemption Ends."*
+- **헤드라인**: *"China threatens countermeasures against countries that 'appease' US on trade war."*
+
+무역 및 관세 관련 뉴스는 해외 무역 관행의 변화에 따른 경제적 영향을 강조하고 있습니다. 특히 미국의 중국에 대한 관세 면제가 종료될 경우 물류 산업이 큰 타격을 받을 것으로 예상되며, 이는 기업들의 수익 전망에 부정적인 요소로 작용할 수 있습니다.
+
+#### 테마 3: 인플레이션 우려와 시장 반응
+- **헤드라인**: *"US bond funds suffer fifth weekly outflow on tariff-driven inflation fears."*
+- **헤드라인**: *"A weakening US dollar 'always leads to future inflation': Steve Forbes."*
+
+인플레이션 위험이 커짐에 따라 투자자들은 미국 국채에서 대거 자금을 빼내고 있으며, 이는 시장 전반에 거대한 파장을 일으키고 있습니다. 전문가들은 약세 달러가 장기적으로 인플레이션을 촉발할 것으로 우려하고 있어, 이 현상이 향후 경제 성장에 부정적인 영향을 미칠 것으로 예상하고 있습니다.
+
+### 3. 결론
+오늘의 시장 분위기는 전반적으로 부정적입니다. 트럼프 전 대통령의 연방준비제도에 대한 강력한 비판이 투자자 심리를 악화시키고 있으며, 그에 따른 주식 시장이 큰 폭으로 하락하는 모습을 보였습니다. 또한, 관세 및 무역 불확실성은 기업들의 수익 전망을 더욱 움츠리게 할 것으로 예상되며, 이는 앞으로의 경제 성장에도 악영향을 줄 가능성이 높습니다. 오늘의 뉴스는 시장 참가자들에게 향후 부정적인 환경을 알리는 중요한 시그널로 작용하고 있습니다.

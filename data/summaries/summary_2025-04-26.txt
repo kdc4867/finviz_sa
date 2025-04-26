@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 46
+- 중립적 헤드라인 수: 37
+- 부정적 헤드라인 수: 42
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 경제 및 고용 데이터
+**헤드라인**: *"Wall St Week Ahead Big tech earnings, US jobs data highlight busy week for markets"*  
+**헤드라인**: *"S&P 500 Rally Stalls Amid Mixed Corporate Earnings, Tariff Risks"*
+
+이 주제는 다가오는 주에 발표될 대규모 기업 실적 및 미국 고용 데이터에 대한 기대를 반영합니다. 경제 데이터는 투자자들에게 중요한 신호로 작용하며, 특히 기업 실적이 시장의 방향성을 결정할 것으로 보입니다. 그러나 혼합된 기업 실적과 무역 위험이 우려를 자아내어 투자자들이 조심스러운 태도를 취할 가능성이 높습니다.
+
+#### 주제 2: 무역 및 관세 불안
+**헤드라인**: *"How to Invest in Gold, Facing the Trump Tariffs, Markets Are Bracing for an Economic Storm"*  
+**헤드라인**: *"Trump Doubtful on Another Tariff Pause, Wants China Concessions"*
+
+미국의 무역 정책, 특히 트럼프 대통령의 관세 정책은 현재 시장의 핵심 이슈로 남아 있습니다. 투자자들은 관세가 경제에 미치는 부정적인 영향을 우려하고 있으며, 이로 인해 금과 같은 안전 자산에 대한 수요가 증가할 것으로 기대됩니다. 트럼프 대통령의 관세 완화 의지에 대한 불확실성은 기업과 소비자 사이의 심리에도 부담을 주고 있습니다.
+
+#### 주제 3: 기술주 실적 발표
+**헤드라인**: *"Google jumps as Wall Street cheers earnings beat, dividend boost"*  
+**헤드라인**: *"S&P 500 gains for 4th-straight day in longest win streak since January"*
+
+기술주, 특히 구글의 실적 호조는 시장에 긍정적인 신호로 작용하고 있습니다. 이러한 성장은 전반적인 주식 시장의 상승세로 이어져, S&P 500 지수의 4일 연속 상승을 가능하게 했습니다. 기술주의 실적이 시장에 미치는 긍정적인 영향은 앞으로도 계속될 것으로 예상됩니다.
+
+### 3. 결론
+전반적으로 오늘 시장의 정서는 긍정적인 요소와 부정적인 요소가 혼재된 상황입니다. 기술주의 실적 개선이 시장에 기여하고 있는 반면, 무역 갈등과 경제 데이터에 대한 불확실성이 여전히 우려를 낳고 있습니다. 이러한 상황 속에서 투자자들은 신중한 접근이 필요하며, 특히 무역과 고용 데이터의 동향에 주의를 기울여야 할 것입니다.

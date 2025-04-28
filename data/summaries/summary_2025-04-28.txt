@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 23개
+- 중립적인 헤드라인: 31개
+- 부정적인 헤드라인: 34개
+
+### 2. 주요 뉴스 요약
+
+#### 2-1. 경제 및 주식 시장 전망
+**헤드라인**: *"Reliance earnings beat may lift India’s large-cap stocks"*  
+**헤드라인**: *"Stock futures slip ahead of huge week of Big Tech earnings, economic data."*
+
+이번 주 주식 시장은 인도 대기업 리라이언스의 긍정적인 실적 발표가 대형주에 긍정적인 영향을 미칠 것으로 기대되고 있습니다. 동시에, 미국의 빅 테크 기업들의 실적 발표와 경제 데이터 공개를 앞두고 주식 선물이 약세를 보이는 가운데 투자자들은 경계감을 유지하고 있습니다.
+
+#### 2-2. 미국과 중국 간의 무역 긴장
+**헤드라인**: *"Chinese factories are stopping production and looking for new markets as U.S. tariffs hit."*  
+**헤드라인**: *"Trump’s tariffs squeeze an already struggling British car industry."*
+
+미국의 관세 정책이 중국과 영국의 제조업에 부정적인 영향을 미치고 있다는 경고가 제기되고 있습니다. 중국의 공장들은 생산 중단과 새로운 시장 탐색에 나서고 있으며, 이는 세계적인 공급망에 미치는 영향이 클 것으로 예상됩니다.
+
+#### 2-3. 금리 인하 예상과 자산 흐름
+**헤드라인**: *"Thai Bonds See Rush of Inflows on Rate-Cut Bets."*  
+**헤드라인**: *"Gold’s bullish sentiment seen easing as record rally stumbles."*
+
+태국 채권 시장에 자금 유입이 급증하고 있는 가운데, 금리 인하에 대한 기대감이 투자자들을 끌어모으고 있습니다. 반면, 금 가격은 기록적인 상승세가 주춤하면서 투자자들의 더부룩한 sentiment가 형성되고 있는 상황입니다.
+
+#### 2-4. 정책 변화 및 규제 이슈
+**헤드라인**: *"Trump floats new income tax cut in bid to ease bite of tariffs."*  
+**헤드라인**: *"New details emerge on Trump officials’ sprint to gut consumer bureau staff."*
+
+트럼프 정부는 관세의 영향을 완화하기 위해 새로운 소득세 인하 방안을 제시하며 정책적 논의를 촉발하고 있습니다. 이는 소비자 보호를 목표로 하는 규제 기관의 인력 감축과 연계되어 있어, 금융 시장에 대한 투자자들의 신뢰에 중대한 영향을 미칠 수 있습니다.
+
+### 3. 결론
+전체 시장 심리는 부정적인 뉴스가 상대적으로 많아 다소 위축된 모습을 보입니다. 특히, 미국과 중국 간의 무역 갈등과 그로 인한 제조업체들의 고충이 두드러지며, 이는 글로벌 경제에 부정적인 영향을 미칠 것으로 예상됩니다. 더불어 금리 인하와 트럼프 정부의 세제 개편 논의는 투자자들이 주목해야 할 주요 이슈로 떠오르고 있음을 알 수 있습니다.

@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 7개  
+- 중립적인 헤드라인: 27개  
+- 부정적인 헤드라인: 22개  
+
+### 2. 주요 뉴스 요약
+
+#### 1) 경제 및 투자 활동
+**헤드라인**: *"With foreign tourists boycotting the U.S., businesses brace for falling sales"*  
+**헤드라인**: *"Wary investors hope US-China talks cool high-stakes trade war"*  
+경제 및 투자에 대한 걱정이 주요 이슈로 부각되고 있습니다. 외국인 관광객의 미국 보이콧이 비즈니스에 부정적인 영향을 미칠 것으로 보이고, 이는 소비 감소와 연결될 수 있습니다. 또한, 미-중 무역 전쟁의 고조가 투자자들의 불안감을 조성하고 있으며, 해결을 위한 머니 트리가 필요하다는 경고가 나오고 있습니다.
+
+#### 2) 기술 혁신 및 기업 운영
+**헤드라인**: *"Elizabeth Holmes’s Partner Has a New Blood-Testing Start-Up"*  
+**헤드라인**: *"FDA To Deploy Artificial Intelligence Across Agency"*  
+기술 혁신과 기업 활동에 대한 뉴스도 주목할 만합니다. 엘리자베스 홈즈의 파트너가 혈액 검사 스타트업을 시작하며, 건강 관리 분야에 대한 새로운 혈액 검사 방법의 기대감을 드러내고 있습니다. 또한, FDA가 인공지능을 배치할 예정이라는 소식은 보건 정책에 기술이 접목되는 과정을 보여 줍니다.
+
+#### 3) 정부 정책 및 사회적 이슈
+**헤드라인**: *"US Inflation Starting to Stir as Trump Tariff Threat Looms"*  
+**헤드라인**: *"States Sue Trump Admin Over Termination Of Funding For EV Charging Stations"*  
+정부 정책 변화와 관련된 사회적 이슈도 중요한 테마로 나타났습니다. 트럼프 행정부의 관세 위협이 인플레이션을 자극하고 있다는 우려가 커지고 있으며, 이는 소비자 가격에 영향을 미칠 가능성이 있습니다. 또한, 전기차 충전소 지원 종료에 대한 주 정부의 소송은 에너지와 환경 정책의 미래에 중요한 문제로 떠오르고 있습니다.
+
+#### 4) 주식 시장 동향
+**헤드라인**: *"The ‘Magnificent Seven’ are back in the stock market’s driver’s seat — but are they still a buy?"*  
+**헤드라인**: *"The S&P 500’s rally stalls at its key Fibonacci target. Here's what that means."*  
+주식 시장에서는 '매그니피센트 세븐'이라는 큰 산업 기업들이 여전히 시장을 주도하고 있지만, 투자자들은 이들이 여전히 매력적인 투자처인지에 대한 의문을 제기하고 있습니다. S&P 500의 상승세가 중요한 피보나치 지점에서 멈추면서 시장에 대한 경계감이 높아지고 있습니다.
+
+### 3. 결론
+현재 시장 심리는 혼합된 상태로, 긍정적인 헤드라인은 극히 제한적이며, 부정적인 헤드라인이 다수를 차지하고 있습니다. 특히 경제와 투자와 관련된 우려가 크게 부각되고 있으며, 기술 혁신이 이루어지고 있는 반면 정부 정책이 시장에 미치는 영향이 커지고 있습니다. 투자자들은 정부 정책과 글로벌 무역 상황에 대한 경계가 더욱 필요하다고 할 수 있습니다. 이는 향후 금융 시장의 방향성에 중요한 변수가 될 것으로 보입니다.

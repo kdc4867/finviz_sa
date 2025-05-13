@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 50
+- 중립적인 헤드라인: 53
+- 부정적인 헤드라인: 23
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 미중 무역 전쟁 완화
+**헤드라인**: *"US, China agree to slash tariffs in trade-war truce"*  
+**헤드라인**: *"U.S., China Agree to Large Tariff Cuts; Stocks Surge"*
+
+이번 미중 무역 전쟁 완화에 대한 합의는 두 나라의 높은 관세를 단기적으로 줄이는 것으로, 시장에 긍정적인 영향을 미쳤습니다. 이로 인해 주요 증시들이 급등하며 투자자들의 위험 선호가 확대되었습니다. 이는 경제 회복 기대감을 높이고 또 다른 협상 가능성을 열어주는 신호로 해석됩니다.
+
+#### 주제 2: 미국 경제와 예산 잉여
+**헤드라인**: *"US Treasury Shocks With Second Biggest Budget Surplus In History Thanks To Record Tariff Revenues"*  
+**헤드라인**: *"Trump says U.S. tariffs on China won’t return to 145% level"*
+
+미국 재무부는 기록적인 관세 수익 덕분에 역사상 두 번째로 큰 예산 잉여를 기록했습니다. 이는 트럼프 행정부의 관세 정책이 국고에 미친 긍정적인 영향을 보여줍니다. 이러한 재정 건전성은 향후 경제 정책에 있어서 긍정적인 신뢰를 줄 수 있습니다.
+
+#### 주제 3: 투자 기회 및 스타트업 성장
+**헤드라인**: *"Investors have the green light to go back into the AI complex, expert says"*  
+**헤드라인**: *"AI Startup Perplexity’s Valuation Surges to $14 Billion in New Funding Round"*
+
+전문가들은 AI 관련 산업이 다시 투자자들에게 매력적인 기회를 제공하고 있다고 언급했습니다. 특히, AI 스타트업의 급격한 평가 상승은 이 분야의 성장이 기대된다는 점에서 중요한 신호입니다. 이는 기술 혁신이 경제에 미치는 긍정적인 영향을 나타냅니다.
+
+### 3. 결론
+오늘의 전반적인 시장 감정은 긍정적으로, 이는 미중 무역 전쟁의 완화와 미국의 기록적인 예산 잉여가 주효했음을 보여줍니다. 투자자들은 증가한 위험 선호로 인해 주식 시장에 활발히 뛰어들고 있으며, AI 기회 등 새로운 투자처들은 앞으로도 시장에 긍정적인 영향을 미칠 가능성이 높습니다. 또한, 이러한 경제적 안정성이 글로벌 시장에도 긍정적인 반향을 일으킬 것으로 보입니다.

@@ -1,0 +1,30 @@
+### 뉴스 헤드라인 분석
+오늘 뉴스 헤드라인 분석 결과는 다음과 같습니다:
+- 긍정적 헤드라인: 51
+- 중립적 헤드라인: 31
+- 부정적 헤드라인: 40
+
+### 주요 뉴스 요약
+
+#### 1. 무역 및 관세 관련 뉴스
+**헤드라인**: *"Shares up slightly, dollar struggles as investors consider tariff truce"*  
+**헤드라인**: *"Trump Tariff Flip-Flops Keep Stock Market Forecasters Swinging"*  
+무역 및 관세 관련 뉴스에서는 투자자들이 관세 휴전 가능성을 고려하며 주가가 소폭 상승했지만, 달러는 여전히 힘을 잃고 있음을 나타냅니다. 트럼프 전 대통령의 관세 정책이 주식 시장에 혼란을 주고 있다는 점도 주목할 만합니다. 이는 기업들의 수익 전망과 소비자 신뢰에 영향을 미칠 수 있습니다.
+
+#### 2. 기술 및 암호화폐 뉴스
+**헤드라인**: *"Coinbase jumps 22%, heads for biggest gain since post-election pop on S&P 500 inclusion"*  
+**헤드라인**: *"Robinhood Rival EToro Likely to Price IPO Above Marketed Range"*  
+기술주 및 암호화폐 관련 뉴스는 Coinbase의 주가 급등과 협상 중인 IPO에 대한 기대감으로 시장이 활기를 띠고 있음을 보여줍니다. EToro의 IPO가 시장 예상치를 뛰어넘는 가격으로 책정될 것이라는 점은 투자자들 사이에서 긍정적인 시장 분위기를 조성하고 있습니다.
+
+#### 3. 경제 및 인플레이션 데이터
+**헤드라인**: *"Here’s the inflation breakdown for April 2025 — in one chart"*  
+**헤드라인**: *"CPI Better than Expected Thanks to a Drop in the Price of Food"*  
+경제 및 인플레이션 관련 뉴스는 4월 소비자물가지수(CPI)가 예상보다 좋았다는 점에서 주목받고 있습니다. 식료품 가격 하락이 인플레이션 완화에 기여하고 있으며, 이는 미국 경제에 긍정적인 신호로 작용할 수 있습니다. 이러한 데이터는 연방준비제도가 금리 인하에 대한 여지를 제공할 가능성을 내포하고 있습니다.
+
+#### 4. 기업 실적 및 주식 시장 동향
+**헤드라인**: *"S&P 500 wipes out 2025 losses in stunning turnaround"*  
+**헤드라인**: *"Hertz shares slump after quarterly results miss Wall Street estimates"*  
+기업 실적과 주식 시장 동향에서는 S&P 500이 2025년 손실을 만회한 반면, Hertz의 주가는 분기 실적 부진으로 하락세를 보였습니다. 이는 투자자들이 시장의 리더주와 후발주에 대한 심리적 차이를 드러내며, 앞으로의 기업 실적에 대한 신중한 접근이 필요함을 시사합니다.
+
+### 결론
+오늘의 시장 감정은 전반적으로 긍정적인 면이 우세하나, 여전히 부정적인 신호가 존재하는 복합적인 상황입니다. 관세와 무역 이슈, 인플레이션 데이터, 그리고 기업 실적에 대한 논의가 중요한 이슈로 부각되고 있습니다. 특히 기술주와 암호화폐 시장에서의 상승세는 투자자들에게 신뢰를 주는 요소로 작용하고 있으며, 이를 반영해 향후 시장 전망을 신중히 조정할 필요가 있습니다.

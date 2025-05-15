@@ -1,0 +1,27 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 42
+- 중립적 헤드라인: 40
+- 부정적 헤드라인: 41
+
+### 주요 뉴스 요약
+
+#### 1. 금융 시장의 동향
+**헤드라인**: *"Stocks drift, dollar wobbles as markets bide time ahead of US data"*  
+**헤드라인**: *"Stocks playing it close to the vest after S&P 500 wipes out tariff-shock losses"*
+
+현재 주식 시장은 미국의 데이터 발표를 앞두고 기대감 속에서 소폭의 조정을 보이고 있으며, S&P 500은 최근의 관세 충격 손실을 만회한 상태입니다. 이는 투자자들이 다가오는 경제 지표에 대한 불확실성으로 인해 신중하게 접근하고 있다는 것을 나타냅니다.
+
+#### 2. 사이버 보안 및 산업 동향
+**헤드라인**: *"Steelmaker Nucor experiences cybersecurity incident, shuts down some production"*  
+**헤드라인**: *"Market needs to transition to 'show me' from 'scare me' mode, investment strategist says"*
+
+강철 제조업체 Nucor가 사이버 보안 침해를 겪어 일부 생산을 중단한 사건은 기업의 사이버 보안 강화 필요성을 다시 한번 부각시키고 있습니다. 투자 전략가들은 이러한 불안 요소를 지나치게 두려워하지 말고, 보다 명확한 성과 기반으로 접근해야 한다고 경고하고 있습니다.
+
+#### 3. 정치와 경제의 교차점
+**헤드라인**: *"Attorney praises Trump's leadership: 'Buckle up, America'"*  
+**헤드라인**: *"70% Of Americans Support A Fresh Nuclear Deal With Iran; New Poll Finds"*
+
+현재 정치 환경에서 도날드 트럼프의 리더십에 대한 긍정적인 평가와 이란과의 새로운 핵 거래에 대한 대중의 지지가 부각되고 있습니다. 이는 정치적 안정성이 경제에 미치는 영향을 시사하며, 이러한 정치적 합의가 향후 시장에 긍정적인 영향을 미칠 수 있음을 나타냅니다.
+
+### 결론
+오늘의 시장 감정은 중립적이며, 긍정적인 헤드라인과 부정적인 헤드라인이 비슷하게 존재하고 있습니다. 주식 시장의 조정은 데이터 발표를 기다리는 여유로운 분위기를 반영하고 있으며, 트럼프 전 대통령 관련 뉴스는 정치적 리더십이 경제에 미치는 잠재적 영향을 보여줍니다. 전반적으로 투자자들은 좀 더 확실한 경제 신호가 나타나기를 기다리는 모습입니다.

@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 26개
+- 중립적 헤드라인: 46개
+- 부정적 헤드라인: 48개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제 및 통화 정책
+**헤드라인**: *"Powell warns economy could face more frequent 'supply shocks'"*  
+**헤드라인**: *"Federal Officials May Limit Recommendations for Covid Vaccine"*
+
+오늘의 경제 뉴스에서는 연준 의장 파웰의 발언이 주요 이슈로 떠올랐습니다. 경제가 더 빈번한 공급 충격을 겪을 수 있다는 경고는 시장의 불확실성을 증대시키고 있습니다. 이를 통해 투자자들은 경제회복의 지속 가능성에 대한 우려를 느끼게 될 것입니다.
+
+#### 테마 2: 식료품 및 소매업계 가격 인상
+**헤드라인**: *"Walmart to Raise Prices Because of Tariffs, Jason Chaffetz sounds off on why lawmakers shouldn't trade stocks"*  
+**헤드라인**: *"Walmart CFO Warns Price Hikes Are Coming, Blames Tariffs"*
+
+지난 몇 주간 월마트의 가격 인상 소식이 잇따르고 있습니다. 이는 특히 중국에 대한 관세로 인한 비용 상승이 주요 원인으로 지목되고 있으며, 이러한 압박은 소비자 가격에 직접 영향을 미칠 것입니다. 유통업체들이 가격 인상을 예고함에 따라 소비자 신뢰도와 소매 판매에 부정적인 영향을 미칠 수 있습니다.
+
+#### 테마 3: 암호화폐 및 사이버 보안
+**헤드라인**: *"Leading crypto firm Coinbase faces up to $400m hit from cyber attack"*  
+**헤드라인**: *"S.E.C. Investigating Whether Coinbase Misstated Its User Numbers"*
+
+암호화폐 분야에서는 코인베이스의 사이버 공격으로 인한 최대 4억 달러의 손실이 발생할 것으로 예상되고 있습니다. 또한, SEC의 사용자 수 조작 조사로 인해 기업의 신뢰성이 더욱 위협받고 있는 상황입니다. 이러한 이슈는 전체 암호화폐 시장의 투자 심리를 악화시킬 가능성이 높습니다.
+
+#### 테마 4: 주식 시장 및 투자 동향
+**헤드라인**: *"S&P 500 Climbs; Stock futures are little changed after S&P 500 extends rally for a fourth day"*  
+**헤드라인**: *"US stock futures trade flat as investors gauge Trump's remaining tariffs"*
+
+S&P 500 지수는 4일 연속 상승세를 보이고 있으며, 이는 일부 긍정적인 경제 지표와 투자자들의 반등 심리에 기인할 수 있습니다. 그러나, 트럼프의 관세 관련 우려로 인해 주식 선물은 소폭 변화가 없는 상태입니다. 이는 투자자들이 향후 시장의 방향성을 예의주시하고 있음을 나타냅니다.
+
+### 3. 결론
+오늘의 시장 감정은 전반적으로 부정적이며, 주요 경제 지표와 기업 소식들이 혼재된 상황입니다. 가격 인상과 공급망 차질, 암호화폐의 불확실성이 투자자들에게 우려를 낳고 있습니다. 그러나 S&P 500의 지속적 상승은 잠재적인 희망 요소로 작용하고 있으며, 이러한 긍정적인 흐름이 지속될지 여부가 앞으로의 시장 방향성을 결정짓는 중요한 요소가 될 것입니다.

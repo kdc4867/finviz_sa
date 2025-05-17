@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 30
+- 중립적인 헤드라인 수: 39
+- 부정적인 헤드라인 수: 51
+
+### 2. 주요 뉴스 요약
+
+#### 경제 및 소비자 심리
+**헤드라인**: *"Consumer sentiment hits second lowest reading on record"*  
+**헤드라인**: *"US consumer sentiment drops to near record low in May on inflation worries, tariff uncertainty."*  
+소비자 심리가 두 번째로 낮은 수준에 도달했으며, 이는 인플레이션 우려와 관세 불확실성이 주요 원인으로 지적되고 있습니다. 소비자 신뢰의 저하가 이어질 경우, 소매 판매와 같은 소비 지출이 위축될 가능성이 높아져 향후 경제 성장에 부정적인 영향을 미칠 수 있습니다.
+
+#### 신용 등급 및 재정 건전성
+**헤드라인**: *"U.S. loses final triple-A credit rating after Moody’s downgrade: ‘Not good news’"*  
+**헤드라인**: *"Moody's downgrades US credit rating citing rising debt."*  
+무디스가 미국의 신용 등급을 세 번째로 낮춰 AAA 등급을 잃은 것은 재정 건전성에 대한 시장의 신뢰를 심각하게 훼손할 수 있습니다. 이는 정부 차입 비용 증가와 경제 성장 둔화로 이어질 수 있으며, 투자자와 기업의 투자 결정을 위축시킬 가능성이 큽니다.
+
+#### 주식 시장과 투자 트렌드
+**헤드라인**: *"S&P 500 eyes 5-day win streak as stocks nudge higher."*  
+**헤드라인**: *"Hedge Funds Boost Bullish Bets on Brent on US-China Trade Truce."*  
+주식 시장에서 S&P 500이 5일간 상승세를 이어가고 있으며, 이는 투자자들이 미중 무역 전쟁 완화를 긍정적으로 보고 있다는 것을 반영합니다. 그러나 헤지 펀드의 긍정적인 베팅에도 불구하고, 여전히 시장에 대한 전반적인 우려가 존재하며, 보수적인 접근이 필요한 상황입니다.
+
+### 3. 결론
+전반적인 시장 심리는 부정적이며, 소비자 신뢰 하락과 미국 신용 등급 저하의 영향으로 인한 불안감이 커지고 있습니다. 긍정적인 주식 시장의 움직임에도 불구하고, 시장의 불확실성이 여전히 상존하여 투자자들의 신중함이 요구됩니다. 이러한 복합적인 요소들은 향후 경제 전망에 부담을 주며, 금융 시장의 변동성을 더욱 증가시킬 가능성이 있습니다.

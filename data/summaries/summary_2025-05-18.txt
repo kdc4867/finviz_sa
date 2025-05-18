@@ -1,0 +1,27 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 19개
+- 중립적 헤드라인: 14개
+- 부정적 헤드라인: 24개
+
+### 주요 뉴스 요약
+
+#### 1. 글로벌 경제와 무역 전쟁
+**헤드라인**: *"Trump tells Walmart to 'eat the tariffs' instead of raising prices"*  
+**헤드라인**: *"The Trade War is Not Over"*
+
+트럼프 전 대통령은 월마트에 가격 인상을 하지 말고 관세를 감당하라고 요구했습니다. 이는 미국의 소비자 물가에 대한 압박을 가중시킬 수 있으며, 기업들이 높은 비용을 소비자에게 전가하는 방안을 피하도록 유도합니다. 또한, 무역 전쟁이 여전히 지속되고 있다는 경고는 글로벌 경제의 불안정을 시사하며, 투자자들에게 신중함을 요구합니다.
+
+#### 2. 경제 전망과 기업 실적
+**헤드라인**: *"Uncertainty over global economy overshadows better-than-feared Q1 results"*  
+**헤드라인**: *"Grim Economic Outlook Overtakes Solid Earnings as Tariff Disruptions Surface"*
+
+1분기 기업 실적이 예상보다 나쁘지 않았지만, 글로벌 경제의 불확실성이 이러한 결과를 가리는 주된 요소로 작용하고 있습니다. 이는 투자자들에게 기업의 이익 성장에 대한 과도한 불안감을 주며, 향후 시장에 부정적인 영향을 미칠 가능성이 큽니다.
+
+#### 3. 인공지능과 기술 발전
+**헤드라인**: *"These 19 stocks at the intersection of AI and robotics could see big sales boost"*  
+**헤드라인**: *"CoreWeave soars as investors see AI demand outweighing concerns"*
+
+AI와 로보틱스 분야의 주식들이 큰 매출 증가를 기대할 수 있다는 낙관주의가 보이고 있습니다. CoreWeave의 주가는 AI 수요가 우려를 초과한다는 믿음 덕분에 상승세를 타고 있으며, 이는 기술 분야의 투자 기회를 제시합니다. 이러한 투자 열풍은 지속 가능한 성장 가능성을 보여주어, 기술주에 대한 긍정적인 전망을 강화하고 있습니다.
+
+### 결론
+전반적으로 오늘의 시장 정서는 다소 부정적입니다. 많은 헤드라인이 경제 불안정성, 무역 전쟁의 지속, 그리고 가격 상승에 대한 우려를 반영하고 있어 투자자들에게 걱정을 안고 있습니다. 그러나 기술 분야에서의 긍정적인 뉴스는 일부 투자자들에게 희망을 줄 수 있으며, 장기적으로는 이들을 주의 깊게 관찰해야 할 필요성이 포함됩니다.

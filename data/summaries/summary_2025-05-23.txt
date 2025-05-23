@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 34개
+- 중립적인 헤드라인: 42개
+- 부정적인 헤드라인: 53개
+
+### 주요 뉴스 요약
+
+#### 1. 정치 및 세금 정책
+**헤드라인**: *"Trump's 'big, beautiful' tax bill just passed its first hurdle"*  
+**헤드라인**: *"The White House wants its tax bill and lower yields. Wall Street isn't on board."*  
+이 헤드라인들은 트럼프 행정부의 새로운 세금 정책이 첫 단계를 통과했지만, 월스트리트와 같은 투자자들은 이를 우려하고 있음을 시사합니다. 미국의 세금 정책 변화가 시장에 미치는 잠재적 영향에 대해 투자자들에게 혼란을 초래하고 있는 것으로 보입니다.
+
+#### 2. 시장 반응 및 경제 지표
+**헤드라인**: *"Bond Investors Threaten Popular Hedge-Fund Bet on Swap Spreads"*  
+**헤드라인**: *"Dow, S&P 500 end lower in choppy pre-holiday trade, despite rally in tech stocks"*  
+채권 투자자들이 앞으로의 시장 변동성을 우려하고 있으며, 주식 시장도 변동성이 큰 상황에서 하락 마감했습니다. 이는 경제 전반에 대한 신뢰도 하락과 관련이 있으며, 투자자들은 불확실한 시기에 주의 깊게 접근해야 할 필요성이 있습니다.
+
+#### 3. 인프라 및 의료 정책
+**헤드라인**: *"House tax bill makes unprecedented cuts to Medicaid and SNAP"*  
+**헤드라인**: *"Trump Administration Wrongly Impounded Infrastructure Aid, Watchdog Finds"*  
+임시로 추진된 세금 법안이 메디케이드 및 SNAP에 대한 예산 삭감을 포함하고 있어 사회적 영향이 클 것으로 예상됩니다. 이러한 정책 변화는 의료 및 사회복지 분야에서의 불안정을 초래할 수 있으며, 특히 경제적으로 어려운 계층에 큰 영향을 미칠 것으로 보입니다.
+
+### 결론
+오늘 뉴스의 전반적인 감정은 부정적이며, 정치적 불확실성과 세금 정책 변화가 투자자들에게 깊은 우려를 낳고 있습니다. 트럼프 정부의 새로운 세금 법안이 통과했지만, 월스트리트 내에서의 반응은 시기상조라는 점에서 신중함을 유지하는 것이 중요해 보입니다. 또한, 채권 시장의 불안정성이 여전히 큰 이슈로 부각되고 있어, 투자자들은 이러한 요소들을 면밀히 관찰해야 할 것입니다.

@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 16개
+- 중립적인 헤드라인: 18개
+- 부정적인 헤드라인: 24개
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 무역 불확실성 및 관세
+- **헤드라인**: *"New Tariff Threats Show Trade Uncertainty Here to Stay"*
+- **헤드라인**: *"Trump Risks US Consumer Discontent With His Tariffs, Poll Shows"*
+  
+무역과 관련한 불확실성이 여전히 지속되고 있는 가운데, 트럼프 전 대통령의 관세 정책이 미국 소비자들 사이에서 불만을 초래할 위험이 있다는 여론조사 결과가 보도되었습니다. 이와 같은 상황은 기업들이 가격을 올리거나 소비를 위축시키는 등의 후폭풍을 가져올 수 있음을 시사하며, 소비자 신뢰도에 부정적인 영향을 미칠 가능성이 높습니다.
+
+#### 주제 2: 기술 및 인공지능 투자
+- **헤드라인**: *"Nvidia's rise has been fueled by Big Tech's spending on its AI chips"*
+- **헤드라인**: *"The stock picker's market is back: Chart of the Week"*
+
+Nvidia와 같은 기업이 대형 기술 기업들의 인공지능 칩에 대한 지출 증가에 힘입어 성장을 이어가고 있다는 소식이 전해졌습니다. 이는 주식 시장에서 선택적 투자의 중요성이 다시 강조됨을 의미하며, 투자자들은 특정 산업에 집중하는 경향을 보일 것으로 예상됩니다.
+
+#### 주제 3: 경제 및 재정 정책
+- **헤드라인**: *"Financial guru Dave Ramsey sends blistering message to DC: 'Do your job' and protect our money"*
+- **헤드라인**: *"Biden's economic policies face scrutiny as tensions rise over inflation and spending"*
+
+재정 정책과 관련하여 경제 전문가들이 정부에 대한 비판의 목소리를 높이고 있습니다. 이는 정부의 재정 관리와 관련된 신뢰 문제를 불러일으킬 수 있으며, 투자자들에게 경계해야 할 신호가 될 수 있습니다. 특히 인플레이션과 지출에 대한 우려가 커지는 상황에서 정책적 대응이 필요합니다.
+
+### 3. 결론
+오늘의 시장 정서는 부정적인 요소가 두드러지며, 특히 무역 불확실성과 경제 정책에 대한 우려가 주요한 이슈로 부각되었습니다. 소비자 신뢰도가 하락할 조짐을 보이고 있으며, 기술 산업은 여전히 강력한 성장 가능성을 내포하고 있습니다. 이러한 복합적인 흐름 속에서 투자자들은 위험 관리에 더욱 집중해야 할 필요성이 보입니다.

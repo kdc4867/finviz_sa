@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 21개
+- 중립적 헤드라인: 19개
+- 부정적 헤드라인: 23개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국-유럽 무역 협상
+**헤드라인**: *"Trump extends deadline for EU trade deal until 9 July"*  
+**헤드라인**: *"Trump agrees to delay deadline for a 50% tariff on all EU products"*
+
+현재 미국과 유럽 간의 무역 협상이 주요 이슈로 부각되고 있으며, 트럼프 대통령이 7월 9일까지 EU와의 무역 거래 기한을 연장한 것은 유럽 경제에 긍정적인 신호로 작용할 수 있습니다. 하지만, 장기적인 무역 갈등의 우려는 여전히 시장에 부담으로 작용할 수 있습니다.
+
+#### 테마 2: 일본 국채 및 엔화 변동
+**헤드라인**: *"Japan Sovereign Bonds Trim Recent Losses That Rattled Investors"*  
+**헤드라인**: *"Japan Stocks to Fluctuate as Yen Drops on New EU Tariff Deadline"*
+
+일본 국채가 최근 투자자들을 불안하게 했던 손실을 줄였으며, 이는 일본 경제에 대한 긍정적인 신호입니다. 그러나 엔화의 하락은 일본 주식 시장의 변동성을 증대시킬 수 있어, 수출 기업들에게는 부정적 영향을 미칠 수 있습니다.
+
+#### 테마 3: 금리 및 통화 정책
+**헤드라인**: *"‘Unsustainable fiscal situation’: Bond market flashes warning signs"*  
+**헤드라인**: *"Fed Chair Powell urges Princeton grads to embrace risk and public service"*
+
+채권 시장에서의 경고 신호와 함께, 연준 의장이 리스크를 감수하고 공공 서비스에 참여할 것을 권장한 것은 미국 경제의 불확실성을 나타냅니다. 이는 투자자들에게 향후 금리 정책 변화에 대한 우려를 불러일으키고 있습니다.
+
+#### 테마 4: 원자재 시장 반응
+**헤드라인**: *"Oil Pushes Higher as Trump Extends Tariff Deadline on EU Goods"*  
+**헤드라인**: *"Gold Slips as Haven Demand Eases After Trump Delays EU Tariffs"*
+
+트럼프의 EU 상품에 대한 관세 연장은 원유 가격 상승을 초래하고 있으며, 이는 원자재 시장에서의 장기적인 가격 변동성을 야기할 수 있습니다. 반면, 금에 대한 수요가 줄어드는 것은 안전 자산으로서의 금의 매력을 감소시키고 있습니다.
+
+### 3. 결론
+전반적으로 시장의 정서는 부정적 요소가 우세하며, 트럼프의 무역 정책 변화가 투자자들에게 불안감을 주고 있습니다. 미국과 유럽 간의 무역 협상 연장은 긍정적 신호로 해석될 수 있으나, 채권 시장의 경고 신호와 엔화의 변동성은 여전히 투자자들에게 리스크 요인으로 작용하고 있습니다. 따라서 투자자들은 향후 시장 변동성에 대한 대비가 필요할 것으로 보입니다.

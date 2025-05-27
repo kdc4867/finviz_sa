@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 36개
+- 중립적인 헤드라인: 34개
+- 부정적인 헤드라인: 26개
+
+### 2. 주요 뉴스 요약
+
+#### 1. 미국-유럽 무역 긴장 완화
+**헤드라인**: *"U.S. Stock Futures, European Indexes Rise on Trump’s EU Tariff Climbdown"*  
+**헤드라인**: *"Dow futures rise 400 points after Trump announces extension on EU tariff"*  
+이번 뉴스에서 도널드 트럼프 전 대통령이 EU의 관세 인상 기한을 연기함으로써 시장에서 긍정적인 반응이 나타났습니다. 이로 인해 미국 및 유럽 주식이 상승세를 보였으며, 이는 투자자들에게 안도감을 제공하고 있습니다. 이러한 무역 긴장 완화는 경제 회복에 긍정적인 영향을 미칠 것으로 예상됩니다.
+
+#### 2. 아시아 주식과 통화 동향
+**헤드라인**: *"Asian shares dip, dollar struggles after Trump's tariff backflip"*  
+**헤드라인**: *"Asian Currencies Gain Amid Broad Dollar Weakness: Markets Wrap"*  
+아시아 주식이 일부 하락세를 보였으나, 전반적으로 아시아 통화는 달러 약세 속에 상승세를 기록했습니다. 이는 투자자들이 위험 자산에 대한 의욕을 높이고 있음을 보여주며, 특히 한국 원화가 대만 달러의 강세를 반영하여 긍정적인 시각을 얻고 있습니다. 
+
+#### 3. 기술 혁신과 스타트업
+**헤드라인**: *"Frugal tech: The start-ups working on cheap innovation"*  
+**헤드라인**: *"How Nvidia 'played a central role' in the $306 billion AI startup boom"*  
+최근의 스타트업들이 비용 절감과 혁신성을 동시에 잡기 위해 노력하고 있는 가운데, Nvidia의 비즈니스 전략이 AI 스타트업 붐에 중요한 역할을 했다는 분석이 제기되었습니다. 이러한 기술 분야의 발전은 향후 투자자들에게 매력적인 기회를 창출할 것으로 보입니다.
+
+#### 4. 글로벌 경제 동향
+**헤드라인**: *"OPEC+ Moves July Output Call by One Day to May 31"*  
+**헤드라인**: *"Oil Steadies as Traders Focus on EU Trade Talks"*  
+석유 생산국의 OPEC+ 회의 일정이 변경됨에 따라, 원유 시장에서는 거래자들이 EU와의 무역 회담을 주목하고 있습니다. 유가의 안정은 글로벌 경제에 중요한 영향력을 미치며, 공급망 안정성을 증대시키는 기회가 될 수 있습니다.
+
+### 3. 결론
+오늘의 뉴스는 전반적으로 긍정적인 투자 심리를 반영하고 있습니다. 도널드 트럼프 전 대통령의 EU 관세 연기 발표가 주식 시장에 큰 영향을 미쳤으며, 아시아 통화의 강세와 기술 혁신에 대한 긍정적인 기류가 이어지고 있습니다. 그러나 미국 내 무역과 고용 데이터 및 글로벌 경제 동향이 여전히 주의 깊게 관찰될 필요가 있습니다. 투자자들은 이러한 변화가 미치는 폭넓은 금융 시장의 반응을 주의 깊게 살펴봐야 할 것입니다.

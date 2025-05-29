@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- **긍정적 헤드라인 수**: 38
+- **중립적 헤드라인 수**: 34
+- **부정적 헤드라인 수**: 53
+
+### 주요 뉴스 요약
+
+#### 1. 트럼프의 관세 제재 및 법원 판결
+- **헤드라인**: *"Court Rules Against King Trump on New York City Congestion Pricing"*
+- **헤드라인**: *"US trade court rules Trump overstepped his authority with global tariffs"*
+- 이 뉴스는 트럼프 대통령의 무역 관세가 법원에 의해 불법으로 규정되면서, 시장에 미치는 영향을 중심으로 다루어지고 있습니다. 이러한 판결은 미국 및 글로벌 증시에 긍정적인 반응을 이끌어내고 있으며, 앞으로의 무역 정책 변화에 대한 불확실성을 줄여줄 수 있습니다.
+
+#### 2. 경제 불확실성과 연준의 통화 정책
+- **헤드라인**: *"Fed ‘Well Positioned’ to Wait on Rate Cuts Even as Economic Risks Rise, Minutes Show"*
+- **헤드라인**: *"FOMC Minutes: 'Difficult tradeoffs' if Inflation 'more persistent' and 'growth and employment weaken'"*
+- 기둥에 대한 연준의 입장과 관련된 이 두 헤드라인은 경제 성장과 인플레이션 관리 간의 어려운 선택을 강조합니다. 이러한 통화 정책 신호는 시장에서 금리 인하에 대한 기대와 함께 변동성을 가져올 수 있으며, 투자자들에게 중요한 고려사항이 됩니다.
+
+#### 3. 기술 및 지속가능한 투자
+- **헤드라인**: *"Palantir teams up with Fannie Mae in AI push to sniff out mortgage fraud"*
+- **헤드라인**: *"Nvidia posts earnings beat, downbeat guidance"*
+- 기술 기업의 성과와 인공지능의 활용도가 급증하면서 지속 가능한 투자로의 이행이 두드러집니다. 특히 Palantir와 Fannie Mae의 협력은 부동산 시장에서의 사기 방지 노력으로, 이는 다시 투자자들에게 새로운 기회를 제공할 수 있습니다.
+
+#### 4. 비트코인 및 암호화폐
+- **헤드라인**: *"GameStop buys over $500M worth of bitcoin in 1st crypto investment"*
+- **헤드라인**: *"White House embrace of bitcoin is 'alive' at Bitcoin 2025 conference: Lauren Simonetti"*
+- 비트코인 및 암호화폐에 대한 관심이 여전히 뜨거운 가운데, GameStop의 대규모 비트코인 구매는 전통 산업에서의 암호화폐 수용을 나타냅니다. 이는 시장에서 암호화폐에 대한 긍정적인 분위기를 형성하며, 투자자들에게 추가적인 기회를 제공합니다.
+
+### 결론
+오늘의 시장 감정은 전반적으로 부정적 측면이 우세하며, 특히 트럼프 관세 판결과 연준의 통화 정책 신호가 주목받고 있습니다. 법원 판결의 영향으로 일부 주식은 긍정적인 반응을 보였지만, 경제 불확실성과 고용 및 인플레이션 문제는 여전히 시장에 부담을 주고 있습니다. 투자자들은 이러한 변동성을 고려하여 더욱 신중한 접근이 필요할 것으로 보입니다.

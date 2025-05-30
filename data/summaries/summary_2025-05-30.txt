@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 27
+- 중립적인 헤드라인: 41
+- 부정적인 헤드라인: 52
+
+### 주요 뉴스 요약
+
+#### 1. 미국 노동 시장의 불안정성
+**헤드라인**: *"US labor market showing cracks; corporate profits post largest drop since 2020"*  
+**헤드라인**: *"US weekly jobless claims rise more than expected as labor market eases"*  
+오늘의 뉴스에서 미국 노동 시장의 불안정성이 두드러지고 있습니다. 주간 실업 수당 청구 건수가 예상보다 증가하면서 노동 시장의 경직성이 드러났습니다. 기업 이익 또한 2020년 이후 가장 큰 감소폭을 기록해, 경제의 전반적인 회복력이 의심받고 있습니다.
+
+#### 2. 무역과 관세의 불확실성
+**헤드라인**: *"Fed’s Goolsbee Sees Lower Interest Rates If Tariffs Fade Away"*  
+**헤드라인**: *"Trump mulls tariff options after trade court blow"*  
+관세와 관련된 불확실성이 오늘 뉴스에서 중요한 주제로 부각되었습니다. 연준의 Goolsbee는 관세가 완화된다면 금리가 낮아질 수 있다고 언급했습니다. 동시에 트럼프 전 대통령은 법원에서의 관세 관련 패배 이후 새로운 관세 옵션을 고려하고 있다는 점은 정책 연속성의 불확실성을 초래할 수 있습니다.
+
+#### 3. 기술 기업과 AI의 가능성
+**헤드라인**: *"Nvidia jumps as earnings shine despite China warnings"*  
+**헤드라인**: *"Michael Cembalest on Why AI Is the Stock Market Bet of the Century"*  
+오늘 AI와 기술 기업, 특히 Nvidia에 대한 긍정적인 전망이 대두되었습니다. Nvidia의 실적이 예상보다 뛰어나면서 주식이 급등했습니다. Cembalest는 AI가 주식 시장의 핵심 베팅이 될 것이라고 주장하며, 투자자들에게 이 분야에 대한 높은 관심을 권장하고 있습니다.
+
+#### 4. 금리와 채권 시장의 경과
+**헤드라인**: *"Mortgage Rates Rise for a Third Time While Sticking Below 7%"*  
+**헤드라인**: *"Goldman’s Waldron Says Bond Traders Fear Debt More Than Tariffs"*  
+금리와 채권 시장에 대한 우려도 오늘의 주요 논의 주제입니다. 미국 모기지 금리가 세 번째 증가세를 보이며 7%대에 다가가고 있습니다. Goldman Sachs의 Waldron은 채권 거래자들이 관세보다 부채에 대한 두려움을 더 느끼고 있다고 밝혔습니다, 이는 추가적인 경제적 긴장을 시사합니다.
+
+### 결론
+오늘 시장은 부정적인 뉴스가 우세하며, 노동 시장의 불안정성과 무역, 관세 정책의 불확실성으로 인해 투자자들은 조심스러운 태세를 취할 것으로 보입니다. 기술 기업의 실적이 다소 긍정적이나, 이는 전체 경제 상황을 반영하지는 못하는 것으로 평가됩니다. 금리 인상 우려도 여전히 상존하며, 전반적으로 시장은 약세 흐름을 지속할 가능성이 커 보입니다.

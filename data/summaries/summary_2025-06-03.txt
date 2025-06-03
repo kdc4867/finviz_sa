@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+   - 긍정적인 헤드라인 수: 26
+   - 중립적인 헤드라인 수: 47
+   - 부정적인 헤드라인 수: 55
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미중 무역 긴장
+   **헤드라인**: *"Trump waits on a call with Xi as China tensions escalate"*  
+   **헤드라인**: *"US stocks slip as US-China trade tensions flare up"*
+   - 미국과 중국 간의 무역 긴장이 다시금 고조되고 있으며, 이는 미국 시장에 부정적인 영향을 미치고 있습니다. 이러한 상황은 투자자들의 신뢰를 저하시켜 주가 하락으로 이어졌고, 향후 미중 무역 관계의 불확실성이 더욱 심화될 것으로 보입니다.
+
+#### 테마 2: 미국 경제 및 부채 문제
+   **헤드라인**: *"Jamie Dimon says ballooning US debt could cause bond market turmoil"*  
+   **헤드라인**: *"Treasury's Bessent says US is 'never going to default' as debt limit deadline looms"*
+   - JPMorgan의 제이미 다이먼 CEO는 미국의 급증하는 부채가 채권 시장에 혼란을 초래할 수 있다고 경고했습니다. 반면, 재무부의 대표는 미국이 부도를 피할 것이라는 입장을 보였습니다. 이와 같은 상충된 의견은 향후 경제 정책에 대한 논의가 심화될 것임을 예고합니다.
+
+#### 테마 3: 기술 및 시장 전망
+   **헤드라인**: *"Nvidia lifts Nasdaq; Stocks close higher even as trade troubles ramp back up"*  
+   **헤드라인**: *"This key tell suggests stocks will keep climbing during the summer"*
+   - 엔비디아의 주가 상승은 나스닥 지수를 끌어올리며, 기술주에 대한 긍정적인 전망이 지속되고 있음을 보여줍니다. 전문가들은 여름 동안 주식 시장의 추가 상승 가능성도 내다보고 있어, 기술 산업의 회복세가 시장 전반에 긍정적인 영향을 미칠 것으로 예상됩니다.
+
+### 3. 결론
+오늘의 시장은 전반적으로 부정적인 헤드라인이 많았으며, 미중 무역 긴장, 미국 경제의 부채 문제 및 기술 시장의 방향성이 주요 이슈로 부각되고 있습니다. 특히, 무역 문제로 인한 불안감이 투자 심리에 부정적인 영향을 미치고 있는 상황입니다. 그러나 기술 주식의 상승이 일부 긍정적인 요소를 제공하고 있어, 이러한 요인들이 시장에 어떻게 작용할 것인지 주의 깊게 살펴봐야 할 시점입니다.

@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 45
+- 중립적인 헤드라인: 35
+- 부정적인 헤드라인: 46
+
+### 2. 주요 뉴스 요약
+
+#### 1) **무역 및 경제 불확실성**
+**헤드라인**: *"US economy to see 'much slower second half' than investors expect, economist says"*  
+**헤드라인**: *"OECD cuts U.S. growth outlook"*  
+오늘의 뉴스에서 무역과 경제에 대한 불확실성이 두드러진 주제로 다뤄졌습니다. 특히 한 경제학자는 미국 경제가 투자자들이 예상하는 것보다 훨씬 느린 성장세를 보일 것이라며 경고하였고, OECD는 미국의 성장 전망을 하향 조정했습니다. 이러한 전망은 투자자들 사이에서 우려를 증가시키며 시장의 변동성을 높일 가능성이 있습니다.
+
+#### 2) **기업 및 산업 동향**
+**헤드라인**: *"Meta signs 20-year nuclear power deal with Constellation"*  
+**헤드라인**: *"Wells Fargo Freed From Asset Cap Imposed After Fake-Accounts Scandal"*  
+큰 기업들의 전략적 움직임 또한 오늘의 주요 이슈입니다. Meta는 Constellation과의 장기 핵 에너지 계약을 체결하여 지속 가능한 에너지 사용을 확대하고, Wells Fargo는 자산 한도의 규제를 해제받아 성장할 수 있는 기회를 얻게 되었습니다. 이러한 기업 전략은 장기적으로 해당 산업에 긍정적인 영향을 미칠 것으로 기대됩니다.
+
+#### 3) **정치적 및 사회적 이슈**
+**헤드라인**: *"Trump Seeks a Laughable $9.4 Billion of the Alleged $175 Billion DOGE Savings"*  
+**헤드라인**: *"Trump's tariff promises are starting to have a familiar refrain"*  
+정치적인 이슈와 관련해서는 트럼프 전 대통령의 발언이 주목받고 있습니다. 그는DOGE와 관련된 대규모 자산에 대한 논란을 일으켰으며, 그로 인해 투자자들의 관심이 집중되고 있습니다. 또한, 그의 고철 및 알루미늄에 대한 50% 관세 부과도 경제 전반에 영향을 미칠 것으로 보입니다.
+
+### 3. 결론
+전체적으로 오늘의 시장 심리는 혼조세를 보이고 있습니다. 긍정적인 헤드라인이 45개로 나타났으나, 부정적인 뉴스의 수가 46개에 달하며 우려가 커지고 있습니다. 경제 성장 전망이 하향 조정되고, 정치적 불안정성, 무역 갈등 등이 지속됨에 따라 투자자들은 앞으로의 시장 변동성을 우려하고 있습니다. 이러한 상황에서는 신중한 투자 접근이 필요합니다.

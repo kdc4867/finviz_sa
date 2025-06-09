@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 16개
+- 중립적 헤드라인: 24개
+- 부정적 헤드라인: 26개
+
+### 2. 주요 뉴스 요약
+
+#### a) 금리 및 인플레이션 관련
+**헤드라인**: *"India's Central Bank's Jumbo Rate Cut Could Supercharge IPO Pipeline"*  
+**헤드라인**: *"Get Ready for Inflation to Matter in Markets Again"*  
+인도의 중앙은행이 대규모 금리 인하를 단행함으로써 IPO 시장이 활성화될 것으로 예상됩니다. 이는 자본시장에 대한 접근성을 높여, 기업들이 자금을 모집하는 데에 기여할 것입니다. 동시에 인플레이션에 대한 우려가 다시 커짐에 따라 투자자들은 이에 대한 대응 전략을 새롭게 마련해야 할 것으로 보입니다.
+
+#### b) 무역 및 경제 데이터
+**헤드라인**: *"U.S. stock futures flat ahead of renewed trade talks with China"*  
+**헤드라인**: *"How reliable is U.S. economic data? It’s a growing risk for investors awaiting the next Fed rate cut."*  
+미국과 중국 간의 무역 회담을 앞두고 주식 선물 시장이 안정세를 보이고 있습니다. 그러나 미국 경제 데이터의 신뢰성이 투자자들에게 점차 불안 요소로 작용하고 있어, 이러한 사실은 연방준비제도(Fed)의 다음 금리 인하 결정에 중요한 변수로 작용할 것입니다.
+
+#### c) 전기차 및 자동화 관련
+**헤드라인**: *"BYD Unleashes an EV Industry Reckoning That Alarms Beijing"*  
+**헤드라인**: *"Broadcom’s AI Bonanza Has Limits"*  
+BYD가 전기차 산업에서 중요한 변화의 신호탄을 쏘아 올림에 따라, 중국 정부는 이에 대한 불안감을 표명하고 있습니다. AI 기술이 기업에 가져다주는 혜택이 크지만, 여전히 그 한계가 존재하므로 투자자들은 이 산업의 동향을 면밀히 관찰해야 할 것입니다.
+
+### 3. 결론
+전반적으로 오늘 뉴스의 감정은 부정적인 요소가 많은 가운데 나타났습니다. 특히 무역 긴장과 인플레이션 우려가 투자자들의 심리에 부정적인 영향을 미치고 있는 것으로 보입니다. 그러나 인도의 적극적인 금리 정책과 성장 가능성을 보이는 IPO 시장은 긍정적인 신호로 받아들여질 수 있습니다. 따라서 투자자들은 확인된 경제 데이터와 금융 시장의 변화를 면밀히 주시해야 할 것입니다.

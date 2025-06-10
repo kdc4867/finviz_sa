@@ -1,0 +1,33 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 45개
+- 중립적인 헤드라인: 40개
+- 부정적인 헤드라인: 36개
+
+### 주요 뉴스 요약
+
+#### 1. 미중 무역 협상
+**헤드라인**: *"U.S.-China Trade Talks in Spotlight"*  
+**헤드라인**: *"US Stocks Drift Higher as US-China Trade Talks Kickoff in London"*
+
+미중 무역 협상에 대한 관심이 고조되고 있으며, 이러한 상황이 미국 주식 시장을 지지하고 있습니다. 협상이 시장에 긍정적인 영향을 미치고 있으며, 이는 투자자들이 시장 리스크를 줄일 수 있다는 신호로 받아들여지고 있습니다.
+
+#### 2. 기술주 상승
+**헤드라인**: *"Chip Stocks Aid Nasdaq"*  
+**헤드라인**: *"Nasdaq Gains on Hopes for U.S.-China Chips Deal"*
+
+반도체 주식의 상승은 나스닥 지수에 긍정적인 영향을 주고 있습니다. 이는 미국과 중국의 칩 협상 기대로 인해 반도체 산업이 다시 부각되고 있으며, 투자자들이 이 분야에 대한 관심을 높이고 있음을 시사합니다.
+
+#### 3. 소매업 구조조정
+**헤드라인**: *"Joann, Macy's, other store closures part of a 274% spike in retail layoffs in 2025"*  
+**헤드라인**: *"15 Percent of Businesses Scale Down or Close Shop in Response to Tariffs"*
+
+소매업의 구조조정이 진행되고 있으며, 이는 올해 이직률의 급증과 관련이 깊습니다. 이러한 변화는 소비자 신뢰 및 물가에 악영향을 미칠 수 있으며, 전반적인 경제 회복을 저해할 요인으로 작용할 수 있습니다.
+
+#### 4. AI 기술의 발전
+**헤드라인**: *"Meta is set to throw billions at startup that leads in AI data"*  
+**헤드라인**: *"Apple touts major software overhaul, but stays quiet on AI"*
+
+AI 기술 발전에 대한 투자가 계속 증가하고 있으며, 기업들이 이 기술을 활용하려는 다양한 시도를 하고 있습니다. 메타와 애플의 행보는 향후 기술 산업의 경쟁 구도를 변화시킬 수 있는 중요한 마케팅 전략이라고 볼 수 있습니다.
+
+### 결론
+오늘 뉴스는 긍정적인 시장 세 sentiment 보도를 반영하고 있으며, 특히 미중 무역 협상과 기술주 상승이 시장에 큰 영향을 미치고 있습니다. 그러나 소매업의 구조조정과 같은 부정적인 요소도 있으며, 이는 경제의 전반적인 회복 과정에서 도전 과제가 될 수 있습니다. 투자자들은 이러한 다양한 신호를 분석하여 전략을 세워야 할 시점에 있습니다.

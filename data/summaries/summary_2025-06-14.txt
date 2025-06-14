@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 29
+- 중립적 헤드라인 수: 38
+- 부정적 헤드라인 수: 58
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 이스라엘-이란 갈등의 영향
+**헤드라인**: *"Investors face these 3 costly scenarios from the Israel-Iran conflict"*  
+**헤드라인**: *"Stocks dive, oil surges as Israel and Iran trade strikes"*
+
+이스라엘과 이란 간의 갈등이 심화되면서 투자자들이 직면하고 있는 세 가지 costly 시나리오와 관련된 우려가 커지고 있습니다. 이란의 보복 공격과 이스라엘의 공격이 겹치면서 글로벌 주식 시장이 하락하고 유가가 상승하는 추세입니다. 이러한 상황은 에너지 가격과 중동 지역의 불확실성이 추가로 증가할 수 있음을 시사합니다.
+
+#### 테마 2: 원유가격 상승
+**헤드라인**: *"Oil soars on Israeli strikes, Iran's vow to retaliate"*  
+**헤드라인**: *"Oil prices could top $90 amid escalation between Israel and Iran"*
+
+이스라엘의 공격 이후 원유 가격이 급등하고 있으며, 이란의 보복 위협이 더해지면서 유가가 90달러를 넘을 가능성이 점쳐지고 있습니다. 이는 에너지 관련 주식의 상승과 함께 소비자 물가 인상으로 이어질 수 있으며, 전반적인 인플레이션 압력을 높일 것으로 보입니다.
+
+#### 테마 3: 시장 불안정성과 투자 심리
+**헤드라인**: *"U.S. stocks end sharply lower as markets reel on escalating Israel-Iran conflict"*  
+**헤드라인**: *"Expect a '10 percent-plus' market selloff to come towards the end of the year: Dan Niles, Willkie Farr Partners"*
+
+이스라엘과 이란 간의 갈등이 격화됨에 따라 미국 증시가 급락했습니다. 연말까지 10% 이상의 시장 하락 가능성을 경고하는 전문가들의 의견은 투자자들 사이에 불안감을 조성하고 있습니다. 이러한 불안 요소는 주식 시장의 변동성을 더욱 증가시킬 것으로 예상됩니다.
+
+### 3. 결론
+최근 마켓 심리는 이스라엘-이란 갈등으로 인한 불안정성으로 인해 부정적인 경향을 보이고 있습니다. 공격과 보복 위협의 반복으로 원유 가격이 급등하며 시장 전반에 영향을 미치는 상황입니다. 투자자들은 이러한 갈등이 유가와 시장 전반에 미칠 장기적인 영향을 주의 깊게 살펴볼 필요가 있습니다. 현재로서는 하락세를 보이는 증시와 상승하는 유가가 상호 작용하며 추가적인 변화를 예고하고 있습니다.

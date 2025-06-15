@@ -1,0 +1,26 @@
+### 1. 뉴스 헤드라인 분석
+
+- 긍정적인 헤드라인: 15
+- 중립적인 헤드라인: 26
+- 부정적인 헤드라인: 28
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 중동 갈등과 금융 시장의 영향
+**헤드라인**: *"Israel-Iran attacks and the 2 other things that drove the stock market this week"*  
+**헤드라인**: *"Israel’s attack on Iran shattered stocks’ early-summer calm. What investors should watch for next."*  
+이번 주의 헤드라인들은 이스라엘과 이란 간의 공격이 금융 시장에 미친 영향을 강조하고 있습니다. 이 갈등은 투자자들 사이에 불안감을 조성하며, 주식 시장의 안정성이 깨질 가능성을 시사합니다. 특히, 투자자들은 다음 단계를 지켜보아야 할 필요성이 커지고 있습니다.
+
+#### 주제 2: 경제 정책과 중앙은행 행동의 불일치
+**헤드라인**: *"Why the Fed and ECB are no longer on the same page"*  
+**헤드라인**: *"Middle East conflict is a ‘major wild card’ for Fed, former Powell adviser says."*  
+미국 연방준비제도(Fed)와 유럽중앙은행(ECB) 간의 정책 차이가 뚜렷해지고 있으며, 이는 글로벌 경제에 혼란을 가져올 수 있습니다. 또, 중동의 갈등이 금리에 영향을 미치고, 경제 정책에 대한 예측을 어렵게 하고 있다는 점에서 더욱 주목할 필요가 있습니다. 이러한 불확실성은 투자자의 신뢰에 부정적으로 작용할 수 있습니다.
+
+#### 주제 3: 미국 내 경제 및 투자 동향
+**헤드라인**: *"Americans flunked a retirement quiz. Here's why that's 'alarming.'"*  
+**헤드라인**: *"Trump’s Military Parade Is Designed for TV, but It Won’t Be on Every Channel."*  
+미국 내 개인 재정 관리에 대한 경각심 부족을 보여주는 조사 결과가 발표되었습니다. 이는 투자와 소비자 신뢰에 부정적인 영향을 미칠 수 있으며, 정책 결정자들 또한 이러한 문제를 해결하기 위한 노력이 필요할 것입니다. 한편, 트럼프의 군사 퍼레이드 계획은 정치적 측면에서 주목받고 있으며, 사회적 분열을 심화시킬 가능성이 존재합니다.
+
+### 3. 결론
+
+전체적으로 이번 뉴스의 감정은 부정적인 요소가 두드러지고 있습니다. 중동 갈등의 격화가 금융 시장에 미치는 위험과 불확실성이 증가하고 있으며, 이에 따라 주식 투자자들은 더욱 조심스러운 접근이 필요할 것입니다. 또한, 미국 내 개인 재정 관리의 문제는 장기적으로 경제에 부정적인 영향을 미칠 수 있어, 정책이 필요한 상황입니다. 투자자들은 이러한 불확실한 환경에서 현명한 결정을 내려야 할 시점입니다.

@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 36
+- 중립 헤드라인: 42
+- 부정적 헤드라인: 44
+
+### 2. 주요 뉴스 요약
+
+#### 2.1 미국 경제 및 금융 시장
+**헤드라인**: *"Fed holds interest rates for fourth time despite tariff turmoil"*  
+**헤드라인**: *"Key Takeaways From Fed Decision to Hold Rates Steady"*  
+미국 연방준비제도(Fed)는 데이터에 따라 금리를 동결하고 올해 금리 인하를 예정하고 있다는 입장을 발표했습니다. 이는 경제 안정성을 유지하기 위한 전략으로, 시장에서는 확대된 물가 상승 전망에 대해 경계하고 있습니다. 따라서 투자자들은 Fed의 향후 정책에 민감하게 반응하며 금융 시장의 변동성을 주시하고 있습니다.
+
+#### 2.2 글로벌 지정학적 긴장
+**헤드라인**: *"Investors see quick stock market drop if US joins Israel-Iran conflict"*  
+**헤드라인**: *"Major oil price shock looming as Israel-Iran conflict threatens critical global shipping passage"*  
+미국과 이란 간의 긴장이 고조되고 있으며, 투자자들은 미국이 이 분쟁에 개입할 경우 주식 시장의 급락을 예상하고 있습니다. 이러한 지정학적 긴장은 원유 가격 상승에 대한 우려를 불러일으켜, 에너지 섹터의 불확실성을 높이고 있습니다.
+
+#### 2.3 기업 및 산업 동향
+**헤드라인**: *"Kellanova Slumps on Report EU Regulators to Probe Mars Deal"*  
+**헤드라인**: *"Boston Transit Operator to Borrow $939 Million as Deficit Looms"*  
+Kellanova는 EU 당국의 조사 소식에 부정적인 반응을 보였으며, 보스턴 대중교통 운영기관은 부채 증가로 인한 재정적 어려움을 해결하기 위해 대규모 차입을 추진하고 있습니다. 이는 기업들이 현재 금융 환경에서 직면하고 있는 어려움을 반영하며, 투자자들은 이러한 움직임을 모니터링할 필요가 있습니다.
+
+### 3. 결론
+현재 시장의 전반적인 정서는 부정적이며, 지정학적 위기와 금융 정책에 대한 불확실성이 큰 영향을 미치고 있습니다. 투자자들은 미국 연준의 금리 결정과 이란-이스라엘 갈등의 전개에 주의하며, 향후 경제 성장에 대한 기대와 혼란 사이에서 균형을 잡으려 하고 있습니다. 이러한背景에서 긴장감이 고조됨에 따라, 투자자들은 더욱 신중하게 대응할 필요성이 커지고 있습니다.

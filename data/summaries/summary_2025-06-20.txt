@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 27개  
+- 중립적인 헤드라인: 43개  
+- 부정적인 헤드라인: 53개  
+
+### 2. 주요 뉴스 요약
+
+#### 1. 이란과의 갈등
+**헤드라인**: *"Stocks slide as bets mount on US entering conflict"*  
+**헤드라인**: *"Trump privately approves US attack plan targeting Iran: Report"*
+
+이란과의 갈등이 심화되면서 미국의 군사적 개입 가능성에 대한 우려가 커지고 있습니다. 투자자들은 이러한 불확실성 속에서 주식 시장에서의 약세를 보이고 있으며, 특히 중동 지역의 안보 상황이 경제에 미치는 영향을 주의 깊게 살펴보고 있습니다.
+
+#### 2. 중앙은행의 금리 인하
+**헤드라인**: *"Liquidity Floodgates Open As 3 Central Banks Unexpectedly Cut Rates In Under 24 Hours"*  
+**헤드라인**: *"Bank of England pauses on interest rates in 6-to-3 vote"*
+
+최근 3개 중앙은행이 예상치 못한 금리 인하를 단행하면서 유동성 공급이 증가하고 있습니다. 이는 시장에 긍정적인 신호를 줄 수 있지만, 금리 정책의 방향성에 대한 우려도 여전히 존재합니다. 영국은행이 금리를 동결하기로 결정한 것은 이러한 상황을 더욱 복잡하게 만들고 있습니다.
+
+#### 3. 암호화폐 및 금융 환경
+**헤드라인**: *"US Attorney Announces Largest-Ever, $225 Million Cryptocurrency Seizure"*  
+**헤드라인**: *"Bitcoin miners will play a big role in the AI 'gold rush,' expert says"*
+
+미국 법무부가 사상 최대 규모의 암호화폐 압수를 발표하면서 암호화폐 시장의 규제 강도가 높아지고 있습니다. 이는 투자자들에게 불안감을 주는 동시에, 블록체인 및 AI 분야의 발전 가능성에 대한 관심이 증가하는 계기가 되고 있습니다.
+
+#### 4. 원자재 시장 변화
+**헤드라인**: *"Oil prices up nearly 3% as Israel-Iran conflict escalates"*  
+**헤드라인**: *"Diesel Passes $105 a Barrel on Mideast Worry and Key Spreads Rip"*
+
+원유 가격이 이란과의 갈등으로 인해 급등하고 있으며, 이는 투자자들로 하여금 안전자산으로의 이동을 촉진하고 있습니다. 석유 및 가스 분야의 기업들은 이와 같은 시장 변동성에 주목하고 있으며, 향후 가격 상승 전망과 불확실성의 연관성을 고려하여 전략을 수립해야 할 것입니다.
+
+### 3. 결론
+전체적으로 오늘의 시장 분위기는 부정적인 쪽으로 기울고 있으며, 정치적 불확실성과 글로벌 경제에 대한 우려가 증대되고 있습니다. 이란과의 갈등, 금리 정책 변화, 암호화폐 시장의 규제가 주요 테마로 부상하면서 투자자들은 보다 신중한 접근을 필요로 합니다. 따라서 향후 경제 지표와 정치적 변화에 더욱 주의해야 할 때입니다.

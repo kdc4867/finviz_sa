@@ -1,0 +1,27 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 9개
+- 중립적 헤드라인: 28개
+- 부정적 헤드라인: 40개
+
+### 주요 뉴스 요약
+
+#### 1. 지정학적 긴장 및 유가 영향
+- **헤드라인**: *"Stock futures slide, oil rises after US entry into conflict"*
+- **헤드라인**: *"Oil Market Get Fresh Injection of Uncertainty After US Strikes Iran"*
+  
+이 헤드라인은 미국의 이란 공습 이후 주식 선물은 하락하고 유가는 상승했음을 나타내고 있습니다. 지정학적 긴장이 격화됨에 따라, 투자자들은 불안정한 석유 시장과 관련된 위험을 실질적으로 인지하고 있으며 이는 시장 전반에 걸쳐 강한 영향을 미치고 있습니다.
+
+#### 2. 주식 시장 반응 및 투자자 심리
+- **헤드라인**: *"Dow futures down just 230 points as oil futures jump after U.S. bombs Iran"*
+- **헤드라인**: *"Options Traders Wrestle With Stocks’ Muted Reaction to War Risk"*
+  
+이 헤드라인들은 주식 시장의 반응이 다소 제한적임을 보여줍니다. 투자자들은 미국의 이란 공격에도 불구하고 주식 시장의 하락폭이 크지 않다는 사실을 주목하고 있으며, 이는 시장 경과를 예의주시하는 신중한 태도를 반영합니다.
+
+#### 3. 원자재 시장의 전망
+- **헤드라인**: *"How will US bombing of Iran impact oil markets, consumers?"*
+- **헤드라인**: *"Oil prices expected to be impacted following US bombing of Iran nuclear sites"*
+  
+이 두 헤드라인은 미국의 공격이 원자재 시장, 특히 유가에 미치는 영향을 분석하고 있습니다. 미국의 이란 공격은 석유 및 가스 흐름의 중단 가능성을 경고하고 있으며, 투자자들은 이러한 불확실성이 소비자와 글로벌 경제에 미칠 영향을 우려하고 있습니다.
+
+### 결론
+오늘 뉴스 전반의 감정은 상당히 부정적이며, 지정학적 긴장감이 유가와 주식 시장에 큰 영향을 미치고 있습니다. 미국의 이란 공격 이후 유가는 즉각 상승했지만, 주식 시장의 반응은 상대적으로 제한적이었습니다. 이러한 상황에서 투자자들은 위험 관리에 집중하고 있으며, 향후 시장 상황의 변화를 주의 깊게 관찰할 필요성이 있습니다.

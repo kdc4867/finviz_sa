@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 36
+- 중립적 헤드라인: 49
+- 부정적 헤드라인: 39
+
+### 2. 주요 뉴스 요약
+
+#### 1. 중동 긴장 및 시장 반응
+- **헤드라인**: *"Stocks Rise and Oil Recedes After Iran’s Retaliation Avoids Energy Infrastructure"*
+- **헤드라인**: *"Markets Weigh Middle East Risk After US Strikes Iran"*
+  
+이 헤드라인들은 이란의 보복 공격이 에너지 인프라를 피했기 때문에 주식시장이 상승하며 유가가 하락했다는 점을 강조하고 있습니다. 이는 투자자들이 중동의 긴장 상황에 대한 우려를 단기적으로 해소하면서 긍정적인 시장 반응을 보였음을 나타냅니다.
+
+#### 2. 미국 내 경제 및 금리 전망
+- **헤드라인**: *"Fed Drops 'Reputation Risk' From Bank Exams Amid Backlash To Debanking"*
+- **헤드라인**: *"Second Fed Official Indicates Support for Faster Rate Cuts"*
+
+미국 연방준비제도이사회(Fed)가 은행 심사에서 '명성 리스크'를 제외한 것은 금융 시장의 안정성을 높이려는 의도가 반영된 것입니다. 또한, 금리 인하에 대한 지지 의견은 경제 둔화가 지속되는 가운데 기업 및 개인 대출에 긍정적인 영향을 미칠 수 있습니다.
+
+#### 3. 이란 핵 문제 및 국제 관계
+- **헤드라인**: *"Removing Iran as a threat is a 'big deal' for the strength of the U.S. economy: Jeff Sica"*
+- **헤드라인**: *"White House Press Secretary Hints At Iran Regime Change, Claims Intel Said 'Weeks' From Nuclear Bomb"*
+
+이란의 핵 프로그램이란 이슈는 미국 경제에 큰 영향을 미칠 수 있으며, 백악관 관계자의 발언은 중동이 지정학적 리스크로 인해 글로벌 경제에 미치는 영향이 크다는 것을 시사합니다. 이는 군사적 갈등의 위험성을 줄이는 것이 중요하다는 점을 강조합니다.
+
+### 3. 결론
+전반적으로 오늘 시장은 긍정적인 분위기를 나타내며, 특히 중동의 긴장이 완화된 점이 주식 상승에 기여했습니다. 그러나 미국 내 경제 성장 둔화와 금리 정책에 대한 변화가 복합적으로 작용하면서 투자자들은 여전히 신중한 태도를 유지하고 있습니다. 중동에서의 정치적 불확실성이 계속 존재하므로, 계속적인 모니터링이 필요할 것입니다.

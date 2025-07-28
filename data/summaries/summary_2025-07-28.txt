@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 32개
+- 중립적 헤드라인: 25개
+- 부정적 헤드라인: 30개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국-유럽 무역 협정
+- **헤드라인**: *"EU and US agree trade deal, with 15% tariffs for European exports to America"*
+- **헤드라인**: *"Stock futures rise as U.S.-EU trade deal kicks off an especially hectic week for markets"*
+  
+  이러한 헤드라인은 미국과 유럽연합 간의 무역 협정 체결이 시장에 긍정적인 영향을 미치고 있음을 나타냅니다. 15%의 관세가 부과되지만, 투자자들은 외교적 긴장이 완화된 것을 환영하고 있으며, 이는 주가 상승으로 이어지고 있습니다.
+
+#### 테마 2: 시장 위험과 기대
+- **헤드라인**: *"What to watch for as investors face a week rife with risks"*
+- **헤드라인**: *"Five Signs of a Market Bubble Investors Are Tracking"*
+  
+  이들 헤드라인은 현재 시장에 존재하는 위험 요소와 그로 인해 투자자들이 주의해야 할 사항들을 강조합니다. 특히, 시장의 버블 신호가 감지되고 있어서 신중한 접근이 필요하며, 투자자들은 당면한 위험을 고려해야 합니다.
+
+#### 테마 3: 원자재 및 에너지 시장 안정
+- **헤드라인**: *"Oil Steadies as EU Agrees to US Trade Deal Ahead of Deadline"*
+- **헤드라인**: *"Oil Prices Caught Between a $70 Summer and Growing Surplus Fears"*
+
+  원자재 및 에너지 가격의 안정성에 대한 보도는 현재의 무역협정이 원유 시장에 긍정적인 영향을 미치고 있음을 보여줍니다. 하지만 여전히 시장은 공급 과잉에 대한 우려와 여름 동안의 가격대에 고민하고 있어 변동성이 지속될 수 있습니다.
+
+### 3. 결론
+오늘의 시장 감정은 미국-유럽간 무역 협정 체결로 인해 긍정적인 측면이 두드러지고 있습니다. 그러나 동시에 시장의 고점과 정체성 문제는 투자자들에게 불안을 안기고 있으며, 원자재 시장의 안정성 또한 중요한 논의 주제입니다. 전반적으로, 주의 깊은 접근이 필요한 고위험 상황에서도 기회를 모색하는 투자자들의 모습이 교차하는 하루입니다.

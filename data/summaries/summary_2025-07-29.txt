@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 38
+- 중립적인 헤드라인: 37
+- 부정적인 헤드라인: 45
+
+### 2. 주요 뉴스 요약
+
+#### 1. 미-유럽 무역 협상 및 시장 반응
+- **헤드라인**: *"S&P 500, Nasdaq at record highs as US-EU trade deal sparks optimism in pivotal week"*
+- **헤드라인**: *"Wall Street poised for higher open on US–EU deal optimism"*
+  
+  이번 주 미-유럽 무역 협상에 대한 긍정적인 반응이 시장에 큰 영향을 미치고 있으며, S&P 500과 Nasdaq 지수가 기록적인 상승을 보였습니다. 이는 투자자들이 무역 협상 결과에 대해 낙관적인 태도를 보이고 있음을 나타내며, 향후 경제 회복에 긍정적인 영향을 미칠 것으로 예상됩니다.
+
+#### 2. 고조되는 정치적 긴장과 외교 이슈
+- **헤드라인**: *"Putin Informs Bibi He's Ready To Mediate On Iran's Nuclear Program As Trump Makes More Threats"*
+- **헤드라인**: *"US-China talks restart as hopes grow for trade war truce extension"*
+
+  러시아의 푸틴 대통령이 이란 핵 프로그램에 대한 중재 의사를 밝히고, 동시에 미국과 중국 간의 무역 전쟁 조정 가능성이 제기되고 있습니다. 이러한 정치적 동향은 국제 무역 시장의 불확실성을 증대시키며, 글로벌 경제에 불리한 영향을 미칠 수 있습니다.
+
+#### 3. 기업과 경제 지표
+- **헤드라인**: *"Pemex Posts First Profit in Over a Year as Sheinbaum Eyes $10 Billion Debt Sale"*
+- **헤드라인**: *"Figma Increases IPO Target to $1.2 Billion"*
+
+  멕시코 국영 석유회사 페멕스가 1년 이상 만에 첫 흑자를 기록했으며, 이는 경제 회복의 신호로 해석될 수 있습니다. 또한, 소프트웨어 기업 피그마의 IPO 목표가 증가하면서, 기술 분야의 성장 가능성을 보여주고 있습니다. 이는 투자자들에게 긍정적인 신호를 줄 수 있습니다.
+
+### 3. 결론
+오늘의 시장 분위기는 전반적으로 긴장을 나타내고 있으며, 특히 정치적 요인들이 외환과 시장에 미치는 영향이 커지고 있습니다. 미-유럽 무역 협상의 긍정적인 결과에도 불구하고, 러시아와 이란, 중국과의 관계가 불확실성을 더하고 있습니다. 또한, 기업 실적 및 경제 지표는 다른 면에서 희망적인 신호를 보내고 있어, 투자자들에게는 조심스러운 optimism이 필요하다는 것을 나타냅니다.

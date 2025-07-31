@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 44
+- 중립적인 헤드라인 수: 33
+- 부정적인 헤드라인 수: 42
+
+### 주요 뉴스 요약
+
+#### 1. 미국 연준과 금리 정책
+**헤드라인**: *"Fed looks set to defy Trump with another rate hold"*  
+**헤드라인**: *"Divided Fed holds key interest rate steady, defying Trump's demands for aggressive cuts"*  
+연준은 금리를 동결하면서 트럼프 전 대통령의 압박을 무시하고, 꾸준한 통화 정책을 유지하겠다는 의지를 보였습니다. 이는 금리 인하에 대한 기대감을 약화시켜 시장에 부정적인 영향을 줄 수 있습니다. 연준의 신중한 접근은 물가 상승을 억제하려는 의지로 해석될 수 있습니다.
+
+#### 2. 중국 경제와 원자재 가격 하락
+**헤드라인**: *"Asian stocks slide on weak China data, plunging copper prices"*  
+**헤드라인**: *"US Copper Tumbles as Trump’s Tariff Excludes Refined Metal"*  
+중국 경제 데이터의 부진과 구리 가격의 급락은 아시아 주식시장에 부담을 주었습니다. 중국의 제조업이 예상보다 더 낮게 성장했으며, 이는 세계 원자재 시장에 악영향을 미치고 있습니다. 이러한 가격 하락은 원자재에 대한 투자자들의 신빙성을 약화시킬 수 있습니다.
+
+#### 3. 기술주 성과
+**헤드라인**: *"Microsoft stock jumps as Wall Street cheers earnings beat"*  
+**헤드라인**: *"Meta earnings on deck with AI spending spree in focus"*  
+기술주가 긍정적인 실적을 발표하면서 주식 시장을 지탱하는 역할을 하고 있습니다. 마이크로소프트와 메타의 실적은 인공지능 투자에 힘입어 예상보다 좋은 성과를 보여주어, 투자자들의 신뢰를 더욱 강화하고 있습니다. 이는 기술 섹터에 대한 투자가 계속될 것으로 기대하게 만들고 있습니다.
+
+### 결론
+오늘의 뉴스는 연준의 금리 동결, 중국 경제의 부진, 그리고 기술주의 긍정적인 성과 등 다양한 요인들이 혼재된 상황을 보여줍니다. 전반적으로 시장의 정서는 부정적인 경향이 약간 우세하나, 기술주의 강세가 이를 어느 정도 상쇄하고 있습니다. 따라서 투자자들은 금리 정책과 중국의 경제 지표를 면밀히 주시해야 할 것입니다.

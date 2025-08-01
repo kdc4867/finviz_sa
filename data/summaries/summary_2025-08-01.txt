@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 33개
+- 중립적인 헤드라인: 41개
+- 부정적인 헤드라인: 50개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 무역 및 관세
+- **헤드라인**: *"T-Day Arrives: Trump Raises Tariff On Dozens Of Countries, With Minimum Rate Of 10%."*
+- **헤드라인**: *"Trump Hits Dozens More Countries With Higher Tariffs That Start Aug. 7."*
+  
+무역 전선에서의 긴장감이 더욱 고조되고 있으며, 여러 국가에 대한 관세 인상이 발표되었습니다. 특히, 트럼프 대통령의 새로운 관세 정책은 경기 둔화에 대한 우려를 가중시키며, 이를 통해 미국 기업들에게 미치는 영향은 상당할 것으로 보입니다.
+
+#### 테마 2: 기술 주식 및 투자
+- **헤드라인**: *"Apple’s Earnings Reveal Unexpected iPhone Strength."*
+- **헤드라인**: *"Amazon Reports $18.2 Billion in Profit Amid Strong Retail Demand."*
+  
+빅테크 기업들의 실적 발표가 시장에서 큰 주목을 받고 있으며, 애플과 아마존의 좋은 실적이 그 예입니다. 특히 애플은 아이폰 판매의 예상 외 강세로 투자자들의 신뢰를 회복할 가능성이 높아 보이며, 아마존은 강력한 소매 매출로 주식 시장에서 긍정적인 반응을 이끌어낼 것으로 기대됩니다.
+
+#### 테마 3: 글로벌 경제 및 금융
+- **헤드라인**: *"Goldman Urges Caution as Global Credit Spreads Hit 2007 Lows."*
+- **헤드라인**: *"Real Disposable Personal Income Flat in July; Inflation Eats All Wage Gains."*
+
+세계 경제의 불확실성이 점점 더 커지고 있으며, 골드만 삭스는 이에 대한 경계를 당부하고 있습니다. 또한, 개인 실질 소득이 제자리걸음을 하고 있다는 사실은 인플레이션이 급증하면서 소비자들에게 심각한 압박을 주고 있음을 시사합니다.
+
+### 3. 결론
+오늘의 뉴스에서 관찰된 전반적인 시장 정서는 부정적인 면이 명확히 드러났습니다. 특히, 무역 전선에서의 관세 인상과 글로벌 경제의 불안 요소가 투자자들에게 걱정을 안겼습니다. 그러나 빅테크 기업들, 특히 애플과 아마존의 긍정적인 실적은 어느 정도 광범위한 투자 심리를 지탱해주는 역할을 하기도 했습니다. 이러한 혼합된 신호들은 투자자들이 시장 상황을 신중하게 분석하고 대응해야 함을 보여줍니다.

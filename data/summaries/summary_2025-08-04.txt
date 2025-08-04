@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 20
+- 중립적인 헤드라인: 21
+- 부정적인 헤드라인: 44
+
+### 주요 뉴스 요약
+
+#### 1. 무역 및 관세 관련 뉴스
+- **헤드라인**: *"Trump’s tariff policy faces a court reckoning. Taxpayers will feel the fallout."*
+- **헤드라인**: *"‘Tariffs are starting to bite': Once-resilient economy shows weak spots."*
+- 이러한 헤드라인들은 미국의 관세 정책이 법원에서 도전에 직면해 있으며, 그로 인한 세금 납부자들에게 영향을 미칠 수 있음을 시사합니다. 관세는 미국 경제의 취약성을 드러내고 있으며, 이는 시장의 불확실성을 자극하는 요소가 되고 있습니다.
+
+#### 2. 경제 불안과 주식 시장
+- **헤드라인**: *"Stocks get hit as clouds gather — but history suggests it’s too soon to panic."*
+- **헤드라인**: *"Bad News Is Bad News: Jobs Data Shatters Wall Street’s Calm."*
+- 주식 시장이 경제적 우려로 인해 타격을 받고 있다는 분석이 나오고 있습니다. 투자자들은 지난해의 안정성과 대비되는 현재의 불확실성 속에서 동요하고 있으며, 이로 인해 주식 가격의 변동성이 증가하고 있습니다.
+
+#### 3. 오일 및 에너지 시장
+- **헤드라인**: *"Oil slips after OPEC+ agrees to hike output in September."*
+- **헤드라인**: *"Oil Drops After OPEC+ Supply Hike Amplifies Concerns Over Glut."*
+- OPEC+의 생산 증대 결정 이면에는 유가 하락에 대한 우려가 있습니다. 공급 과잉에 대한 두려움은 에너지 시장에서 더 큰 가격 변동성을 초래할 수 있으며, 이는 전 세계 경제에 중대한 영향을 미칠 수 있습니다.
+
+### 결론
+현재 시장은 전반적으로 부정적인 정서를 반영하고 있으며, 여러 경제 지표와 글로벌 무역 문제에 대한 우려가 만연합니다. 특히 관세와 관련된 정책 변화와 경제 데이터는 투자자 신뢰도에 실질적인 타격을 주고 있습니다. 향후 몇 주 동안 이러한 이슈들이 어떻게 진전될지에 따라 주식 시장의 방향성이 달라질 가능성이 높습니다.

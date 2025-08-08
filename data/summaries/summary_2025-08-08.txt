@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 35
+- 중립적인 헤드라인: 46
+- 부정적인 헤드라인: 44
+
+### 2. 주요 뉴스 요약
+
+#### ① 경제 및 고용 시장
+**헤드라인**: *"Fed official calls July jobs report 'concerning' as economy hits potential turning point"*  
+**헤드라인**: *"More Americans falling behind on both mortgage and student-loan payments"*  
+이번 뉴스에서 고용 시장에 대한 염려가 고조되고 있음을 알 수 있습니다. 한 연준 고위 관리는 7월의 일자리 보고서에 대해 우려를 표명했으며, 많은 미국인들이 모기지와 학자금 대출 상환에 어려움을 겪고 있다는 사실이 강조되었습니다. 이는 경제가 변곡점에 있으며, 소비자들의 지출 감소로 이어질 가능성을 시사합니다.
+
+#### ② 트럼프 정부의 경제 정책 및 영향
+**헤드라인**: *"Trump signs order to open 401(k)s to private markets: What it means for your retirement"*  
+**헤드라인**: *"Trump’s tariff threat puts semiconductors on display"*  
+트럼프 전 대통령이 401(k)를 민간 시장에 개방하는 행정명령을 서명함으로써, 은퇴 자산에 대한 새로운 접근 방식이 논의되고 있습니다. 이러한 정책은 투자자들에게 새로운 기회를 제공할 수 있지만, 동시에 무역 관세와 같은 요인이 반도체 산업에 미치는 영향도 부각되고 있습니다.
+
+#### ③ 기술 및 혁신
+**헤드라인**: *"OpenAI launches GPT-5 as industry seeks a return on investment"*  
+**헤드라인**: *"Bitcoin, crypto stocks rally ahead of Trump order on 401(k)s"*  
+기술 혁신 측면에서 OpenAI가 GPT-5를 출시하며 산업에서 긍정적인 투자 성과를 기대하고 있습니다. 또한, 비트코인과 기타 암호화폐 주식이 상승세를 보이고 있어 리타일 투자자들에게 기대감을 주고 있습니다. 이러한 기술적 발전은 기존 금융 시스템에 도전할 잠재력을 가진 신규 투자처를 창출하고 있습니다.
+
+### 3. 결론
+현재 시장은 전반적으로 조심스러운 분위기로, 고용 시장의 불안정성과 소비자 신뢰의 저하가 주된 우려 사항으로 대두되고 있습니다. 트럼프 전 대통령의 신규 경제 정책은 투자자들에게 새로운 기회를 제공하겠지만, 동시다발적으로 발생하는 무역 전쟁과 같은 외부 요인들이 시장에 부정적인 영향을 미칠 수 있습니다. 앞으로 몇 주간의 경제 지표가 어떻게 나타날지에 따라 투자자들은 보다 신중한 접근이 필요할 것으로 보입니다.

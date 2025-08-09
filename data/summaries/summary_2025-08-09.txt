@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 34
+- 중립적 헤드라인: 55
+- 부정적 헤드라인: 36
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제 지표와 주식 시장
+**헤드라인**: *"Wall St Week Ahead Inflation data to test stocks as some investors brace for rally to pause"*  
+**헤드라인**: *"Gold futures climb to fresh record after report of US tariff move"*
+
+오늘 주식 시장은 인플레이션 데이터의 발표를 앞두고 조정 국면에 접어들 것이라는 우려가 커지고 있습니다. 특히 금 가격은 미국의 새로운 관세 조치가 발표된 이후로 사상 최고치를 기록하며 투자자들의 안전자산 선호가 강해진 상황을 반영하고 있습니다. 이는 향후 금리 및 통화 정책에 대한 기대감을 더욱 부풀릴 수 있습니다.
+
+#### 테마 2: 기술과 AI의 발전
+**헤드라인**: *"OpenAI's Sam Altman touts GPT-5 capabilities: Gives entrepreneurs 'superpowers'"*  
+**헤드라인**: *"Sam Altman unveils OpenAI's highly anticipated GPT-5: 'Significant step' toward AI intelligence"*
+
+OpenAI의 CEO인 샘 올트만은 GPT-5의 기능이 기업가들에게 '슈퍼파워'를 제공한다고 강조했습니다. 이러한 기술 혁신은 특히 스타트업과 IT 분야에서의 경쟁력을 높이는 데 큰 역할을 할 것으로 보이며, 향후 시장에 긍정적인 영향을 미칠 것으로 기대됩니다. AI 기술의 발전이 경제 전반에 미치는 영향에 대한 투자자들의 관심이 더욱 커질 것으로 예상됩니다.
+
+#### 테마 3: 정치적 리스크와 기업 환경
+**헤드라인**: *"Trump's Greatest Deal?"*  
+**헤드라인**: *"Trump Aiming to IPO Fannie Mae and Freddie Mac Later This Year"*
+
+트럼프 전 대통령이 Fannie Mae와 Freddie Mac의 IPO를 목표로 하고 있다는 소식은 미국 주택 시장에 관한 정치적 환경과 밀접한 연관이 있습니다. 이런 움직임은 정치적 리스크와 경제적 영향을 미칠 수 있으며, 특히 금융 및 부동산 섹터에 중요한 변곡점을 가져올 수 있습니다. 이에 따라 시장의 반응이 주목됩니다.
+
+### 3. 결론
+전반적으로 오늘 시장의 감정은 중립적인 분위기가 감돌고 있으며, 긍정적 및 부정적 요소가 혼재되어 있습니다. 인플레이션 데이터와 관련 정책이 투자자들을 긴장하게 만들고 있는 가운데, 기술 혁신과 정치적 변화가 시장에 미치는 영향도 무시할 수 없습니다. 특히 AI 혁신과 Trump의 정책들이 시장에 미치는 잠재적인 영향은 향후 주식 시장의 방향성에 중요한 역할을 할 것으로 보입니다.

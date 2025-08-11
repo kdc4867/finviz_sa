@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+
+- 긍정적 헤드라인: 16
+- 중립적 헤드라인: 16
+- 부정적 헤드라인: 27
+
+### 주요 뉴스 요약
+
+#### 1. 미중 무역 긴장과 반도체 산업
+**헤드라인**: *"U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China"*  
+**헤드라인**: *"Nvidia, AMD reportedly will give U.S. government 15% of their China chip revenues"*
+
+이번 헤드라인에서는 미국 정부가 중국에 대한 반도체 판매에서 Nvidia와 AMD의 매출의 15%를 가져간다는 내용이 강조되고 있습니다. 이는 미중 간의 무역 긴장이 심화되고 있는 가운데, 방침 변경이 기업들의 경영 전략에 큰 영향을 미칠 수 있음을 나타냅니다.
+
+#### 2. 미국 경제 지표에 대한 우려
+**헤드라인**: *"Market's rebound to be tested by inflation reports as stagflation threat emerges"*  
+**헤드라인**: *"Debate over Fed rate cuts heating up: What to watch this week"*
+
+경제 지표에 대한 논의가 활발히 이루어지고 있으며, 이번 주에 발표될 인플레이션 수치가 시장 반등에 중요한 시험대가 될 것으로 예상됩니다. 이러한 압력은 연준이 금리 인하를 고려해야 할 상황에 직면해 있다고 해석될 수 있습니다.
+
+#### 3. 글로벌 및 지역적 경제 동향
+**헤드라인**: *"Thai Asset Rally Set to Extend on Tariff Relief, Foreign Inflows"*  
+**헤드라인**: *"Lithium Stocks Jump After CATL Suspends Operations at China Mine"*
+
+태국 자산 시장의 상승세와 리튬 주식의 급등은 글로벌 무역 환경의 변화와 관련이 있습니다. 특히, CATL의 중국 광산 운영 중단은 리튬 공급망에 직접적인 영향을 미치고 있으며, 이는 전 세계 전기차 산업에도 파급효과를 미칠 가능성이 큽니다.
+
+### 결론
+
+전반적으로 오늘 시장 뉴스는 부정적 요소가 두드러지며, 특히 미중 무역갈등과 관련하여 반도체 산업의 불확실성이 확대되고 있음을 알 수 있습니다. 각종 경제 지표는 투자자들에게 긴장감을 주고 있으며, 향후 발표될 인플레이션 수치에 대한 주의가 필요한 상황입니다. 이러한 복합적인 요인은 투자 환경에 복잡성을 더하고 있어, 투자자들은 신중한 접근이 필요할 것입니다.

@@ -1,0 +1,27 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 49
+- 중립적 헤드라인: 36
+- 부정적 헤드라인: 39
+
+### 주요 뉴스 요약
+
+#### 1. 인플레이션 및 금리 정책
+**헤드라인**: *"S&P 500, Nasdaq at record highs as inflation rises moderately in July"*  
+**헤드라인**: *"Stocks eye records as Fed rate cut bets jump after CPI"*
+
+이 두 헤드라인은 최근 발표된 7월 소비자 물가 지수(CPI) 데이터가 시장에 미치는 영향을 보여줍니다. 물가 상승률이 예상보다 온건하게 나타나면서 주식 시장에서는 연방준비제도(Fed)가 금리를 인하할 것이라는 기대가 높아졌으며, S&P 500과 나스닥은 사상 최고치를 기록했습니다. 이는 투자자들에게 긍정적인 신호로 작용할 수 있습니다.
+
+#### 2. 기업 실적 및 경제 동향
+**헤드라인**: *"Cargill’s Revenue Falls to 4-Year Low Amid Declining Crop Prices"*  
+**헤드라인**: *"Exxon Aims to Build on Guyana Oil Success in Trinidad and Tobago"*
+
+Cargill의 수익이 4년 만에 최저치를 기록한 것은 농작물 가격의 하락과 관련이 있습니다. 반면, Exxon은 가이아나의 성과를 바탕으로 트리니다드 토바고에서 활동을 확대할 계획이라고 밝혔습니다. 이러한 상반된 기업 실적은 지역 경제의 복잡한 동향을 반영하며, 특정 산업에 대한 투자 전략을 세우는 데 중요한 요소가 될 것입니다.
+
+#### 3. 암호화폐 및 금융 스캔들
+**헤드라인**: *"Crypto Entrepreneur Do Kwon Pleads Guilty to Fraud Charges Stemming From Crypto Crash"*  
+**헤드라인**: *"Bitcoin nears all-time high following Trump's crypto 401(k) announcement"*
+
+Do Kwon이 암호화폐 사기로 유죄를 인정한 사건은 암호화폐 시장의 신뢰성에 큰 타격을 주고 있습니다. 그러나 동시에 비트코인은 트럼프 전 대통령이 암호화폐 401(k) 상품을 발표한 이후 사상 최고치에 근접하게 되면서 시장의 기회를 반영하고 있습니다. 이는 암호화폐의 변동성이 크지만, 여전히 많은 투자자들의 관심을 끌고 있다는 것을 나타냅니다.
+
+### 결론
+오늘 주식 시장은 긍정적인 분위기 속에 금리 인하 기대감으로 인해 상승세를 보였습니다. 그러나 Cargill의 실적 하락과 같이 일부 기업의 부진한 성과는 전체 경제 회복에 대한 우려를 낳고 있습니다. 암호화폐 시장은 트럼프의 정책 발표 이후 긍정적인 반응을 보이고 있지만, Do Kwon 사건과 같은 스캔들이 시장의 신뢰도에 악영향을 미칠 수 있음을 주의해야 합니다. 전반적으로 시장은 긍정적인 신호와 부정적인 요소가 혼재된 복잡한 상태입니다.

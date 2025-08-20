@@ -1,0 +1,29 @@
+**뉴스 헤드라인 분석**
+- 긍정적 헤드라인: 32개
+- 중립적 헤드라인: 37개
+- 부정적 헤드라인: 53개
+
+**주요 뉴스 요약**
+
+1. **기술주 하락**
+   - **헤드라인**: *"Stock Rally Pauses After Wall Street Tech Selloff: Markets Wrap"*
+   - **헤드라인**: *"Nasdaq tumbles as Jackson Hole jitters hit tech stocks"*
+   - 오늘의 첫 번째 주제인 기술주 관련 뉴스는 Wall Street에서 기술주 매도가 활발하게 이루어지면서 주식 장세가 조정기에 들어간 상황을 다루고 있습니다. 이로 인해 투자자들은 Jerome Powell의 연설과 소매업종 실적에 대해 면밀히 주시하고 있습니다.
+
+2. **소매 업종 실적 부진**
+   - **헤드라인**: *"Home Depot earnings miss"*
+   - **헤드라인**: *"S&P 500, Nasdaq slide as Home Depot leads out retail earnings"*
+   - 소매 업종의 실적 부진이 주목받고 있습니다. 특히, Home Depot의 실적 발표가 실망스러운 결과를 보여주면서 해당 기업 주식이 하락하였고, 이는 전체 소매업종에 부정적인 영향을 미치고 있을 것으로 분석됩니다.
+
+3. **국제 무역 및 정책 변화**
+   - **헤드라인**: *"China, India Agree To Coordinate On Trade Even As US Blasts 'Global Clearinghouse For Russian Oil'"*
+   - **헤드라인**: *"Turkish Billionaire Strikes $465 Million BHP Brazil Mine Deal"*
+   - 국제 무역 협력에 대한 뉴스도 주요한 주제로 떠올랐습니다. 중국과 인도가 무역 협력 방안을 모색하는 한편, 전세계 자원 개발에 있어 새로운 투자 계약들이 체결되고 있어 향후 경제적 관계에 긍정적인 영향을 미칠 수 있습니다.
+
+4. **금융 및 통화 정책**
+   - **헤드라인**: *"Will Powell Turn Dovish In Jackson Hole?"*
+   - **헤드라인**: *"Treasuries Rise as Traders Stick to Bets on September Rate Cut"*
+   - 연준의 통화 정책과 금리 인상에 대한 예측이 시사되고 있으며, Powell 의장의 향후 발표가 시장의 중요한 변곡점이 될 것으로 예상됩니다. 투자자들은 이에 대한 반응으로 금리에 대한 우려와 기대가 혼재된 분위기를 보이고 있습니다.
+
+**결론**
+전반적으로 오늘의 시장은 부정적인 감성이 지배적이며, 특히 기술주 하락 및 소매업체의 실적 부진이 두드러집니다. 다음 주에는 Powell 의장의 연설이 예정되어 있어, 금리 및 통화 정책에 대한 명확한 신호가 시장에 미칠 영향이 주목됩니다. 이러한 요소들은 향후 투자 전략을 세우는 데 중요한 참고자료가 될 것입니다.

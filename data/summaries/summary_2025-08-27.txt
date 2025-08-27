@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 39
+- 중립적인 헤드라인: 38
+- 부정적인 헤드라인: 45
+
+### 주요 뉴스 요약
+
+#### 1. 테마: 연준 독립성 문제
+**헤드라인**: *"Trump vs the Fed: Why this row could rattle the US economy"*  
+**헤드라인**: *"Trump’s Attempt to Fire the Fed’s Lisa Cook Risks Global Economic Stability"*  
+연준의 독립성이 다시금 도마에 오르고 있으며, 도널드 트럼프 전 대통령이 연준의 리사 쿡 위원 해임을 시도함에 따라 글로벌 경제의 불확실성이 커질 수 있다는 우려가 제기되고 있습니다. 이러한 상황은 금융시장에서 트럼프의 영향력에 대한 불안감을 반영하며, 투자자들은 연준의 행동 방향에 더 큰 주목을 하게 될 것입니다.
+
+#### 2. 테마: 기술 대기업의 행보
+**헤드라인**: *"Wall Street is more focused on Nvidia than on threats to Fed independence"*  
+**헤드라인**: *"Stock futures edge higher ahead of Nvidia earnings"*  
+Nvidia의 실적 발표를 앞두고 주식 선물은 소폭 상승하고 있으며, Wall Street는 오늘 Nvidia에 대한 기대감을 반영하고 있습니다. 기술 대기업의 성과는 전반적인 시장 분위기를 결정짓는 주요 요소가 되고 있으며, 이는 투자자들이 기술주에 집중하고 있다는 점을 보여줍니다.
+
+#### 3. 테마: 주택 시장 동향
+**헤드라인**: *"Case-Shiller Home Price Index Drops Fourth Straight Month"*  
+**헤드라인**: *"Median and Average New Home Price Declines Look Very Recessionary"*  
+주택 가격 지수가 4개월 연속 하락하고 있으며, 신규 주택 가격의 감소는 경기 침체 신호로 해석될 수 있습니다. 이러한 주택 시장의 약세는 경제의 다른 부문에도 영향을 미칠 수 있으며, 이는 투자자들에게 부동산 관련 전략을 재고하게 만들 수 있습니다.
+
+### 결론
+전반적인 시장 분위기는 부정적인 헤드라인이 더 많아 불안감이 감돌고 있습니다. 특히 연준의 독립성 문제와 기술 대기업에 대한 집중이 두드러지며, 주택 시장 소식 또한 하락세를 보이고 있습니다. 투자자들은 이러한 다양한 요소를 고려해 주의를 기울여야 하며, 특히 연준의 결정과 경제 지표의 변동성을 주의 깊게 살펴보아야 할 시점입니다.

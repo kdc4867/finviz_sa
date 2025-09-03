@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 35
+- 중립적인 헤드라인 수: 37
+- 부정적인 헤드라인 수: 50
+
+### 주요 뉴스 요약
+
+#### 1. 시장 및 경제 불확실성
+**헤드라인**: *"Wall St hits over one-week low as tariff uncertainty sours sentiment"*  
+**헤드라인**: *"Stocks end lower to kick off September on a Down Note Amid Rise in Bond Yields"*  
+부정적인 헤드라인들이 시장 분위기를 악화시키고 있다. 특히, 관세와 관련된 불확실성이 투자자들에게 불안감을 조성하며 주식 시장에서 하락세를 촉발하고 있다. 이러한 상황은 경영 활동과 투자 결정을 더 어렵게 만들며 시장 성장에 제약을 가할 수 있다.
+
+#### 2. 기술 및 요관세
+**헤드라인**: *"Google jumps after US judge says Chrome sell-off not required"*  
+**헤드라인**: *"Alphabet’s stock rising after Google antitrust ruling avoids worst-case scenario"*  
+구글의 반독점 판결 이후 기술주의 주가가 오르고 있는 모습을 보인다. 정부의 안 좋은 규제에서 벗어남으로써 기술 기업들, 특히 구글이 주가 회복의 기회를 가질 수 있게 되었다. 이는 다른 기술 주식에도 긍정적인 파급 효과를 미칠 가능성이 있다.
+
+#### 3. 원자재 및 에너지 시장
+**헤드라인**: *"Gold Surges Above $3,600 to New Record High Despite a Rising Dollar"*  
+**헤드라인**: *"Diesel Rally Seen Extending Into Fall if Fed Cuts Interest Rates"*  
+금 가격이 사상 최고치를 경신하며 투자자들의 주목을 받고 있다. 이러한 금의 상승은 안전 자산 선호 심리가 반영된 결과로, 경기 하강 우려가 커짐에 따라 원자재 시장에서의 변동성이 증가할 것이라는 증거로 볼 수 있다.
+
+#### 4. 제조업 침체
+**헤드라인**: *"US manufacturing activity shrinks for 6th month"*  
+**헤드라인**: *"ISM® Manufacturing index at 48.7% in August"*  
+미국 제조업의 둔화가 지속되고 있다. 이는 ISM 제조업 지수가 6개월 연속 위축을 나타내며 글로벌 경제 성장에 부정적 영향을 미칠 수 있다. 이러한 경향은 소비와 고용에도 악 영향을 미치게 되어 경제 전반에 장기적인 부담을 줄 수 있다.
+
+### 결론
+전반적으로 오늘의 시장은 부정적인 뉴스가 두드러지며 불확실한 경제 환경 속에 있다. 특히, 관세와 관련된 리스크와 제조업 위축은 투자자 심리를 위축시키고 있다. 반면, 기술주들은 상대적으로 긍정적인 소식으로 인해 완화된 여건을 경험하고 있다. 금 가격 상승과 같은 안전 자산 선호 경향은 불확실성이 지속됨을 반영하고 있으며, 이와 같은 상황이 지속될 경우 시장에 깊은 영향을 미칠 것으로 보인다.

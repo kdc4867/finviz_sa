@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적: 24
+- 중립적: 23
+- 부정적: 19
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 주식 시장
+- **헤드라인**: *"Dow, S&P 500, Nasdaq futures see slight pullback from week of record highs for major gauges"*
+- **헤드라인**: *"Wall Street strategists say stocks could keep rising from records"*
+
+주식 시장에서는 다우, S&P 500, 나스닥 선물의 약세가 나타나고 있으나, 월스트리트 전략가들은 주식이 여전히 상승할 가능성이 있다고 예측하고 있습니다. 이러한 혼조세는 투자자들이 기록적인 고점을 넘어서는 주식의 지속적인 상승세에 대한 기대감을 가지고 있다는 점을 시사합니다.
+
+#### 테마 2: 원자재 및 에너지
+- **헤드라인**: *"Oil Steadies With Focus on Russian Crude Flows"*
+- **헤드라인**: *"Gold Holds Just Below Record as Traders Wait for Rate-Path Clues"*
+
+원자재 시장에서는 유가가 안정세를 보이며 러시아 원유의 흐름에 주목하고 있습니다. 또한, 금 가격은 기록적인 수준 아래에서 거래되고 있으며, 이는 금리가 어떻게 변화할지에 대한 투자자들의 관심을 반영하고 있습니다. 이러한 원자재의 동향은 인플레이션과 글로벌 경제의 회복 여부에 큰 영향을 미칠 것으로 보입니다.
+
+#### 테마 3: 외환 및 통화
+- **헤드라인**: *"Trump Deal Threatens Won’s Advance as Dollar Demand to Surge"*
+- **헤드라인**: *"Now that the Fed has cut rates, investors can focus on what really matters"*
+
+달러화에 대한 수요 증가가 원화 상승에 위협을 가하고 있습니다. 연준의 금리 인하 후, 투자자들은 이제 더 중요한 요인들에 집중할 수 있게 되는데, 이는 향후 외환시장에 큰 영향을 미칠 전망입니다. 환율 변동은 특히 수출 중심의 한국 경제에 중요한 변수로 작용할 것입니다.
+
+### 3. 결론
+전반적으로 시장 sentiment는 소폭 긍정적이며, 여러 주요 지표에서 강세를 보이고 있지만 향후 불확실성도 존재합니다. 주식 시장은 여전히 상승 여력을 보이고 있지만, 원자재 및 외환 시장에서의 변수들이 투자자들에게 주의가 필요함을 유도합니다. 특히 금리 인하에 따른 통화 정책 변화와 함께 글로벌 경제 상황에 대한 신중한 관찰이 요구됩니다.

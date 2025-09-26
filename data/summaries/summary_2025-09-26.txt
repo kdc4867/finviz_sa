@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 32
+- 중립적 헤드라인: 29
+- 부정적 헤드라인: 54
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 미국의 경제 및 통화 정책
+**헤드라인**: *"Could the Fed skip a rate cut next month?"*  
+**헤드라인**: *"Fed divide deepens as officials go public with rate views."*  
+오늘의 주목할 만한 뉴스는 미국 연방준비제도(Fed)의 통화 정책에 관한 논의가 심화되고 있다는 점이다. 통화 정책의 변화가 불확실성을 초래하고 있으며, 이는 투자자에게 보다 신중한 결정을 요구할 것으로 예상된다.
+
+#### 주제 2: 무역 및 관세 정책
+**헤드라인**: *"Trump announces new tariffs on pharmaceuticals, kitchen cabinets, heavy trucks."*  
+**헤드라인**: *"Trump slaps new tariffs on imported drugs, trucks and household furnishings."*  
+트럼프 전 대통령이 새로운 관세를 발효하겠다고 발표하면서 미국의 무역 정책이 다시 한번 주목을 받고 있다. 이는 소비자 가격에 영향을 미치고, 특정 산업의 경쟁력을 저하시키는 결과로 이어질 수 있어 시장의 불확실성을 증가시키고 있다.
+
+#### 주제 3: 기업과 투자자들의 반응
+**헤드라인**: *"Goldman warns of stock volatility, finds catalysts to play."*  
+**헤드라인**: *"Stocks struggle as Trump slaps new tariffs."*  
+골드만삭스는 주식 시장의 변동성이 커질 것이라고 경고하며, 투자자들이 주의 깊게 시장을 살펴야 할 시점이라 지적하고 있다. 이러한 경고는 최근의 무역 정책 변화로 인해 시장에 미치는 영향을 반영하고 있다.
+
+#### 주제 4: 농업 및 원자재 시장
+**헤드라인**: *"Grain futures gain as US export sales rise more than anticipated."*  
+**헤드라인**: *"US Government to scrutinize farm input suppliers on cost surge."*  
+미국의 농산물 수출이 예상보다 증가하면서 원자재 시장이 긍정적인 신호를 보이고 있다. 그러나 농업Input 가격 상승에 대한 정부의 조사가 농업 시장의 전망에 복잡한 영향을 미칠 수 있다.
+
+### 3. 결론
+오늘의 시장은 부정적인 헤드라인이 다수를 차지하며, 투자자들의 우려가 확대되고 있는 모습을 보인다. 미국의 통화 정책에 대한 불확실성과 새로운 관세 정책의 도입은 시장에 큰 영향을 미치고 있다. 따라서 투자자들은 이러한 경제 동향을 면밀히 지켜보아야 하며, 변동성이 큰 시장 환경에서 전략적으로 접근해야 할 시점이다.

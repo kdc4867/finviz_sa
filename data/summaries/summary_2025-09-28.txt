@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 17
+- 중립적 헤드라인 수: 21
+- 부정적 헤드라인 수: 24
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제 배경과 소비 심리
+- **헤드라인**: *"Recession seems far off — that’s the good news. Yet the economy is also far from trouble-free."*
+- **헤드라인**: *"How's the economy? It depends on how much you make."*
+- 오늘의 경제 관련 헤드라인에서 재정적 불안정이 여전히 우려되지만, 경기침체의 위험이 다소 멀어졌다는 점이 강조되고 있습니다. 이와 같은 상황은 소비자 심리와 관련이 깊어, 특정 소득층에서의 소비 패턴에 따라 경제 상황이 크게 달라질 수 있음을 나타냅니다.
+
+#### 테마 2: 인공지능(AI)과 노동 시장
+- **헤드라인**: *"'Spectacular' AI growth is creating a serious labor market problem for Fed, Jefferies' David Zervos warns."*
+- **헤드라인**: *"AI Is Going to Change Literally Every Job’ Warns Walmart CEO."*
+- 인공지능의 급속한 발전이 노동 시장에 미치는 영향을 두 가지 헤드라인이 잘 보여주고 있습니다. 이는 고용 안정성에 부정적인 영향을 미칠 수 있으며, 이로 인해 노동자들이 직무 구조에 적응해야 하는 압박이 커질 것으로 예상됩니다. 이러한 변화는 나중에 정책 결정에도 중요한 요소로 작용할 것입니다.
+
+#### 테마 3: 금융 시장 및 투자 동향
+- **헤드라인**: *"US equity funds draw weekly inflows as AI boost sparks renewed demand."*
+- **헤드라인**: *"Smaller tech stocks are getting pricey, but these sectors could be next big win."*
+- 최근 미국 주식 시장은 인공지능 관련 주식의 수요가 증가하면서 자금 유입이 활발해지고 있다는 점이 주목됩니다. 그러나 작은 기술주가 가격이 상승하는 모습을 볼 때, 이는 장기적인 투자 전략을 다시 생각해볼 기회를 제공할 수 있습니다. 투자자들은 이러한 추세를 면밀히 관찰해야 할 것입니다.
+
+### 결론
+전반적으로 오늘의 시장 감정은 다소 부정적이며, 경제와 관련된 여러 요소가 상호작용하며 한계를 드러내고 있습니다. AI의 발전과 부작용은 노동 시장에 압박을 가하고 있으며, 이를 반영하여 소비자 심리가 소득 집단에 따라 매우 다른 양상을 보일 것으로 예상됩니다. 따라서 투자자들은 현재의 경제적 불확실성을 잘 이해하고 각종 지표를 통해 시장의 흐름을 면밀히 분석하는 것이 필요합니다.

@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 32
+- 중립적인 헤드라인: 36
+- 부정적인 헤드라인: 47
+
+### 2. 주요 뉴스 요약
+
+#### 1) 정치 및 경제적 불확실성
+**헤드라인**: *"Wall St eyes Washington standoff with stocks near records"*  
+**헤드라인**: *"Shutdown delays jobs report, leaving key questions unanswered"*
+
+이번 헤드라인들은 미국 의회에서의 대치 상황과 그 때문에 발생한 경제 데이터의 지연을 반영하고 있습니다. 이러한 정치적 불확실성이 투자자들에게 긴장을 유발하고 있으며, 이는 주식 시장의 변동성 증가로 이어질 가능성이 있습니다.
+
+#### 2) 주식 시장 및 투자 동향
+**헤드라인**: *"Dow up nearly 500 points as 4 most-watched indexes shoot for 6-session streaks"*  
+**헤드라인**: *"Stocks’ Latest Record Run Still Leaves Some Investors Nervous"*
+
+주식 시장은 연속적으로 기록적인 긍정세를 보이고 있으나, 일부 투자자들은 이러한 상승세에 대한 우려를 표명하고 있습니다. 이는 주식 시장의 과열 신호로 해석될 수 있으며, 투자자들이 향후 상승세가 계속될 수 있을지 여부에 대해 신중하게 접근해야 함을 나타냅니다.
+
+#### 3) 원자재 및 에너지 시장
+**헤드라인**: *"OPEC+ Nations Strive for Consensus on Size of Next Supply Boost"*  
+**헤드라인**: *"Oil at Sea Soars to Most Since 2023 in Sign of Rising Supply"*
+
+원유와 같은 자원 시장에서의 공급 증가에 대한 논의가 활발히 이루어지고 있습니다. OPEC+는 다음 생산량 증대에 대한 합의를 위해 협상 중이며, 이는 글로벌 원자재 시장에서의 가격 변화에 큰 영향을 줄 수 있습니다.
+
+### 3. 결론
+오늘의 시장 정서는 부정적인 뉴스가 우세하며, 특히 정치적 불확실성이 지속되고 있어 투자자들에게 우려를 안기고 있습니다. 주요 지표와 주식 시장 기록이 상승세를 보이는 가운데, 이런 변동성은 예상되는 정부의 경제 데이터 발표와 관련된 원인으로 이해될 수 있습니다. 주요 투자자들은 이러한 복잡한 시장 환경에서 신중한 판단을 요구받고 있습니다.

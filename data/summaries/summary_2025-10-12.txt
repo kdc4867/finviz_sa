@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 5개
+- 중립적 헤드라인: 19개
+- 부정적 헤드라인: 26개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제적 불확실성과 타격
+- **헤드라인**: *"Tariffs hit harder in an economic data vacuum"*
+- **헤드라인**: *"New tariff threats crush stocks during a big week for Nvidia and key portfolio moves"*
+
+이 헤드라인들은 미국 내에서의 새로운 관세 위협과 경제 데이터의 부족이 주식 시장에 미치는 부정적 영향을 강조하고 있습니다. 특히, Nvidia와 같은 중요한 기업의 주가가 위협받고 있으며, 이는 전반적인 시장 불안감을 더욱 증대시키고 있습니다.
+
+#### 테마 2: 미국과 중국 간의 갈등
+- **헤드라인**: *"Trump’s Dealmaking Diplomacy Grows Fragile as China Fires Back"*
+- **헤드라인**: *"China Accuses US of Bullying After Bessent’s Argentina Comments"*
+
+이러한 헤드라인들은 미국과 중국 간의 무역 갈등이 심화되고 있으며, 양국의 정치적 긴장이 경제에도 영향을 미치고 있음을 보여줍니다. 트럼프 전 대통령의 외교 전략이 약화되고 있다는 점도 투자자들에게 경계신호로 작용할 수 있습니다.
+
+#### 테마 3: 미국 주식 시장과 투자자 심리
+- **헤드라인**: *"Wall St Week Ahead: Investors seek economic clues from bank earnings amid data fog"*
+- **헤드라인**: *"A Great Year for US Stocks? Not Compared to Rest of the World"*
+
+이 뉴스들은 미국 주식 시장이 세계 다른 시장에 비해 상대적으로 저조한 성과를 보이고 있다는 지적을 하고 있습니다. 특히 은행 실적에서 경제적 단서를 찾아야 한다는 것은 투자자들이 앞으로의 불황 가능성에 대해 우려하고 있음을 잘 보여줍니다.
+
+### 3. 결론
+전반적인 시장 심리는 부정적인 쪽으로 기울어져 있으며, 경제 불확실성과 미국-중국 간의 무역 갈등이 주요 우려 사항으로 자리잡고 있습니다. 많은 투자자들이 경제 지표의 부재 속에서 새로운 관세 위협에 직면하고 있어, 이는 주식 시장에 더욱 큰 압박으로 작용할 가능성이 큽니다. 이러한 상황에서 투자자들은 보다 신중한 접근이 필요할 것으로 보이며, 각국의 정치적 변화가 시장에 미치는 영향을 계속 주시해야 할 것입니다.

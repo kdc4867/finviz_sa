@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 44
+- 중립적인 헤드라인: 34
+- 부정적인 헤드라인: 40
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국-중국 무역 협상 기대
+- **헤드라인**: *“Stocks Climb on Hopes US-China Talks Will Go Well: Markets Wrap”*
+- **헤드라인**: *“Stocks fly toward records as US-China deal hopes run high”*
+- 이러한 헤드라인은 미국과 중국 간의 무역 협상에 대한 기대감이 주식 시장에 긍정적인 영향을 미치고 있음을 나타냅니다. 특히, 투자자들은 무역 긴장 완화와 거래 재개 가능성을 반영하여 주가 상승을 기대하고 있습니다.
+
+#### 테마 2: 생명공학 및 헬스케어 섹터 성장
+- **헤드라인**: *“Biotech MapLight Jumps 23% in First US IPO Using Shutdown Fix”*
+- **헤드라인**: *“This biotech’s stock soared as investors look for the next buyout target”*
+- 생명공학 분야에 대한 투자자들의 관심이 높아지고 있으며, 이는 새로운 IPO 및 인수 대상 기업의 수요 증가로 연결되고 있습니다. 이러한 성장세는 헬스케어 및 생명공학 부문에서의 혁신적 발전이 주도하고 있음을 시사합니다.
+
+#### 테마 3: 경제 및 고용 현황
+- **헤드라인**: *“Amazon to cut nearly 30K corporate jobs in largest layoff in company history: report”*
+- **헤드라인**: *“Airline strands ex-BBC editor, citing Parkinson's”*
+- 최근 대기업들의 대규모 해고는 경제 회복이 아직 완전하지 않음을 나타내며, 고용 시장에 미치는 악영향이 우려됩니다. 이러한 상황은 투자자들에게 부정적인 신호로 작용할 수 있으며, 전체적인 경제 안정성에 대한 의문을 제기합니다.
+
+### 3. 결론
+전반적인 시장 정서는 긍정적인 측면과 부정적인 측면이 혼재되어 있으며, 미국-중국 무역에 대한 기대감이 일부 투자자들에게 긍정적인 영향을 미치고 있습니다. 그러나 대규모 해고 및 정부의 예산 문제 등 경제적인 불확실성은 여전히 존재합니다. 따라서, 투자자들은 향후 경제 지표와 정책 변화에 주의 깊게 임해야 할 것입니다.

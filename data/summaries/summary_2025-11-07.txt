@@ -1,0 +1,33 @@
+## 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 32
+- 중립적 헤드라인 수: 26
+- 부정적 헤드라인 수: 60
+
+## 2. 주요 뉴스 요약
+
+### 1) 노동 시장과 기업 감축
+**헤드라인**: *"Layoffs in October hit highest level for month in 22 years as companies cite cost-cutting"*  
+**헤드라인**: *"Private reports suggest US labor market weakened in October"*
+
+이번 뉴스에서는 미국 노동 시장의 둔화와 함께 많은 기업들이 비용 절감을 이유로 감원을 단행하고 있다는 점이 부각되고 있습니다. 이와 같은 고용 시장의 불안정성과 실업률 증가가 경제 전반에 부정적 영향을 미칠 것으로 예상됩니다.
+
+### 2) 인플레이션과 생활비
+**헤드라인**: *"Texas Roadhouse Drops as It Sees Even More Commodity Costs"*  
+**헤드라인**: *"Walmart’s Thanksgiving meal sees sharp annual price drop"*
+
+플레이스홀더 긴축과 원자재 비용 증가가 여러 산업에 영향을 미치고 있으며, 주요 기업들이 가격 인상으로 이어지고 있는 상황입니다. 반면, 월마트와 같은 대형 소매업체는 적극적인 가격 인하를 통해 소비자의 부담을 줄이고 자신들의 판매를 촉진하고자 하고 있습니다.
+
+### 3) AI와 테크 주식의 우려
+**헤드라인**: *"Stocks sink as AI and job jitters return"*  
+**헤드라인**: *"Nasdaq Falls as Worries Mount on Jobs and AI Valuations"*
+
+AI 기술에 대한 과도한 투자와 그로 인한 주식 평가의 하락 리스크가 시장에 부정적인 영향을 미치고 있습니다. 기술주에 대한 불신이 커지고 있는 가운데, AI 분야의 기업들이 직면할 수 있는 위기감이 투자자들을 더욱 긴장하게 하고 있습니다.
+
+### 4) 연준의 정책과 금리
+**헤드라인**: *"US Mortgage Rates Rise to 6.22% After Four Weeks of Declines"*  
+**헤드라인**: *"Cost Cutting Hits Jobs. October Layoffs Surge to Highest Level in 20 Years"*
+
+연방준비제도의 금리 인상 우려가 미주택 시장에 영향을 미치고 있으며, 이는 차입 비용의 증가로 이어져 주택 구매 수요를 눌러야 할 것입니다. 이러한 통화 정책 변화가 향후 경제 성장에 미치는 영향을 주의 깊게 살펴봐야 할 시점입니다.
+
+## 3. 결론
+전반적으로 오늘 뉴스는 부정적인 감정이 지배적이며, 특히 노동 시장의 불확실성과 AI 관련 주식에 대한 우려가 두드러지고 있습니다. 기업의 감원과 생활비 상승이 소비자 신뢰와 경제 전반에 미치는 악영향은 앞으로도 계속될 것으로 보입니다. 이러한 요인들이 복합적으로 작용해 시장의 변동성을 증가시키고 있는 만큼, 투자자들은 더욱 신중한 접근이 요구됩니다.

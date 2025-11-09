@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 10
+- 중립적 헤드라인: 27
+- 부정적 헤드라인: 28
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제 불안과 투자자 우려
+- **헤드라인**: *"Fear Is Coming Back to the Junk Bond Market"*
+- **헤드라인**: *"4 things worrying investors as U.S. stocks see worst start to month since April"*
+- 이러한 헤드라인들은 저급 채권 시장으로의 불안감이 다시 커지고 있으며, 투자자들이 최근 미국 주식시장에서 4월 이후 최악의 시작을 맞이했다는 우려를 나타냅니다. 이는 시장 투자 심리를 악화시키고 있으며, 특히 고위험 자산에 대한 신뢰를 감소시킬 수 있습니다.
+
+#### 테마 2: 노조와 기업 간 갈등
+- **헤드라인**: *"Unions Slam Trump for Giving China a Pass on Shipbuilding"*
+- **헤드라인**: *"Small businesses say this may be the last year they can keep prices from rising"*
+- 이 두 헤드라인은 노조와 중소기업 간의 긴장 관계를 보여줍니다. 트럼프 전 대통령의 대중국 정책을 비판하는 내용은 정치적 논란을 불러일으키고 있으며, 중소기업의 가격 상승 압박은 기업 운영에 대한 큰 도전이 되고 있습니다. 이는 국가 경제의 구조적 문제를 더욱 부각시키고 있습니다.
+
+#### 테마 3: 대선 및 정치적 사건들
+- **헤드라인**: *"Guinea Top Court Approves Junta Leader Bid for Presidential Vote"*
+- **헤드라인**: *"What Will Trump Buy Next? Hunt Is On for White House Stock Picks"*
+- 정치적 사건과 관련된 헤드라인들은 다양한 국가에서의 대선 준비와 트럼프 전 대통령의 정치적 활동을 조명하고 있습니다. 특히, 기니에서의 군사 정권의 대선 출마는 국제적 정치 불안정성을 증가시키고, 트럼프의 주식 선택 관심사는 미국 내 경제 전반에 미치는 영향력과 밀접하게 연결되어 있습니다.
+
+#### 테마 4: 기술과 산업의 변화
+- **헤드라인**: *"Big Tech needs a staggering $1.5 trillion to fund the AI boom."*
+- **헤드라인**: *"Inside Big Tech's hunt for the $1.5 trillion it needs to fund the AI boom."*
+- 이러한 헤드라인은 대규모 기술 기업들이 AI 산업의 확장을 위해 막대한 자본을 필요로 한다는 점을 강조합니다. 이는 테크 산업의 투자 더 많은 자원을 요구하고 있으며, 이러한 경향은 앞으로의 경제 상황에 긍정적이거나 부정적인 영향을 미칠 수 있습니다.
+
+### 3. 결론
+오늘의 뉴스 전반적으로 부정적인 감정이 우세하는 가운데, 경제 불안과 투자자 우려가 주된 이슈로 떠오르고 있습니다. 노조와 기업 간의 갈등도 더욱 심화되고 있으며, 정치적 사건들 역시 시장에 불확실성을 더하고 있습니다. 기술에 대한 대규모 투자는 긍정적인 신호이지만 자본 확보의 어려움이 향후 성장에 부담을 줄 수 있습니다. 전반적으로, 투자자들은 현재의 경제적 불안정과 정치적 긴장 속에서 신중한 접근이 필요할 것으로 보입니다.

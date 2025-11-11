@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적: 47
+- 중립적: 37
+- 부정적: 31
+
+### 주요 뉴스 요약
+
+#### 1. 정부 셧다운 종료 예상
+**헤드라인**: *"Stocks climb on surging hopes for end to shutdown"*  
+**헤드라인**: *"Senate moves toward shutdown end as Trump warns air traffic controllers"*  
+정부 셧다운이 곧 종료될 것이라는 기대감이 커지면서 주식 시장이 상승세를 보이고 있습니다. 상원에서의 투표 진행 상황은 투자자들에게 긍정적인 신호로 작용하고 있으며, 이는 경제 전반에 안정감을 주는 효과가 예상됩니다.
+
+#### 2. 경제 및 금융 내러티브
+**헤드라인**: *"AQR’s Cliff Asness Sees Expensive Stock Market But No Bubble"*  
+**헤드라인**: *"Gold Prices Seen Topping $5,000 by End of 2026, JPM Private Says"*  
+현재 주식 시장이 비싸지만 거품 상태는 아니라고 AQR의 클리프 아센스가 지적했습니다. 또한, 금 가격이 2026년 말까지 5,000달러를 넘길 것이라는 전망은 투자자들에게 안전 자산에 대한 관심을 더욱 높이고 있습니다. 이는 향후 금 투자에 대한 수요가 증가할 가능성을 시사합니다.
+
+#### 3. 트럼프의 모기지 제안 
+**헤드라인**: *"Trump proposes 50-year mortgage, but some say homeowner savings would be minimal"*  
+**헤드라인**: *"Trump says tariff revenue to fund $2K checks for Americans, lower nation’s $38T debt"*  
+트럼프 전 대통령이 50년 모기지를 제안했지만, 전문가들은 해당 방안이 홈오너에게 실질적인 절약 효과를 주지 못할 것이라고 경고하고 있습니다. 이는 여전히 높은 주거 비용 문제를 해결하는 데 한계가 있을 수 있음을 나타냅니다.
+
+#### 4. 기업 및 리더십 변화
+**헤드라인**: *"Berkshire’s Buffett to Keep Class A Stock Until Investors Get Comfort With Successor"*  
+**헤드라인**: *"Barrick’s New Leadership Sees Its Future in North American Gold"*  
+워렌 버핏이 후계자에 대한 신뢰가 쌓일 때까지 클래스 A 주식을 보유하겠다고 발표했습니다. 이는 버핏의 지속적인 투자 및 관리 전략에 대한 시장 신뢰를 반영하며, 바릭 골드사의 새로운 리더십이 북미 금 시장에서의 미래를 바라보고 있다는 점 또한 투자자들에게 중요한 메시지를 보냅니다.
+
+### 결론
+전반적으로 오늘의 시장 감정은 긍정적이며, 정부 셧다운 종료에 대한 기대감이 주식 시장 상승의 주요 요인으로 작용하고 있습니다. 트럼프의 새로운 모기지 정책 제안은 주거 비용 문제 해결에 주요한 논의거리를 제공하고 있으며, 금 시장 및 기업 리더십 변화가 투자자들 사이에서 중요한 관심사로 보입니다. 향후 경제 정책과 기업 전략의 변화가 시장에 미칠 영향에 주목해야 할 시점입니다.

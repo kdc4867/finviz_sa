@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 30
+- 중립적인 헤드라인 수: 35
+- 부정적인 헤드라인 수: 52
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국 경제 및 연준 정책
+**헤드라인**: *"Stocks sink as Fed clouds gather before data storm: Markets Wrap"*  
+**헤드라인**: *"Markets no longer view the December rate cut as a sure bet, with Fed officials casting doubts"*
+
+이번 뉴스에서는 미국의 경제 지표와 연방준비제도(Fed)의 금리 인하 가능성에 대한 우려가 커지고 있음을 보여줍니다. 주식 시장이 하락하는 가운데, 투자자들은 연준의 금리 결정에 대한 불확실성이 영향을 미치고 있으며, 이러한 불안정성이 시장 전반에 부정적인 영향을 주고 있습니다.
+
+#### 테마 2: 기술 주식의 큰 하락
+**헤드라인**: *"Investors Dump Tech Shares as Shutdown Relief Evaporates"*  
+**헤드라인**: *"Dow falls 800 points as major U.S. stock indexes tally worst day in over a month"*
+
+기술 주식들이 큰 하락세를 보인 것은 정부 셧다운 종료 이후에도 시장에 대한 불신이 여전하다는 것을 나타냅니다. 이러한 흐름은 테크 중심의 주식들이 시장의 주요 상승 동력이었음을 감안할 때, 향후 경제 전망에 대한 우려를 심화시키고 있습니다.
+
+#### 테마 3: 국제 경제의 어려움
+**헤드라인**: *"China Property Woes Put $1 Billion of Loans at Risk in Just Days"*  
+**헤드라인**: *"Underwater Mortgages Rise To 3-Year High Amid Cooling US Housing Market"* 
+
+중국의 부동산 문제와 미국 내 언더워터 모기지 비율의 증가가 주요한 뉴스로 부각되고 있습니다. 이러한 문제들은 글로벌 경제에 부정적인 영향을 미치며, 특히 투자자들은 주택 시장의 침체와 부동산 대출의 위험 문제를 주의 깊게 살펴봐야 합니다.
+
+### 3. 결론
+전반적으로 오늘의 시장 감정은 부정적이며, 특히 기술 주식의 하락과 연준의 금리 정책에 대한 불확실성이 투자 심리에 큰 영향을 미치고 있습니다. 동시에 중국과 미국 시장의 고전은 글로벌 경제의 회복에 있어 장애물이 되어가고 있는 상황입니다. 향후 경제 지표와 연준의 결정이 시장에 미치는 영향에 대한 면밀한 관찰이 요구됩니다.

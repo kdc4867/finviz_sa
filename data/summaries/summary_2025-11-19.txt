@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 37
+- 중립적 헤드라인: 36
+- 부정적 헤드라인: 48
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국 주식시장 하락
+- **헤드라인**: *"S&P 500's slip below key technical level may foreshadow deeper setback, LPL says"*
+- **헤드라인**: *"Dow, S&P 500 book 4th straight daily loss as tech-fueled market rout continues"*
+
+주식시장은 기술주 중심의 하락세가 지속되며 S&P 500과 다우지수가 각각 4일 연속으로 하락했습니다. 전문가들은 S&P 500이 중요한 기술적 지지를 잃음으로써 더 깊은 조정이 발생할 수 있다고 경고하고 있습니다. 이는 투자자들에게 추가적인 불안 요소로 작용할 가능성이 큽니다.
+
+#### 테마 2: AI 관련 주식의 시장 영향
+- **헤드라인**: *"Nvidia earnings loom, Investors are no longer willing to give AI names a ‘free pass’, says strategist"*
+- **헤드라인**: *"Stocks Fall Before Nvidia’s High-Stakes AI Results: Markets Wrap"*
+
+AI 관련 주식, 특히 Nvidia의 실적에 대한 우려가 커지고 있습니다. 전략가들은 투자자들이 더 이상 AI 기업들에게 '무료 통행증'을 주지 않는 상황임을 강조하며, 이는 AI 주식의 평가에 중대한 영향을 미칠 수 있음을 암시합니다. Nvidia의 실적은 시장 전반에 중요하게 작용할 것으로 보입니다.
+
+#### 테마 3: 미국 경제와 소비자 신뢰
+- **헤드라인**: *"Home Depot Cuts Forecast as Consumers Pull Back on Spending"*
+- **헤드라인**: *"American workers turn to Uber and DoorDash to fill the income gap"*
+
+미국의 소비자 신뢰가 하락하면서, 소매업체인 홈디포는 매출 전망을 하향 조정했습니다. 소비자들이 지출을 줄이고 있으며, 이에 따라 많은 노동자들이 부가적인 수입을 위해 새로운 일거리인 우버나 도어대시 등의 일자리에 의존하고 있는 추세입니다. 이러한 경향은 경제 성장에 부정적인 영향을 미칠 수 있습니다.
+
+### 결론
+오늘의 뉴스는 미국 주식시장의 지속적인 하락세와 함께 AI 관련 주식에 대한 경계감이 높아지고 있음을 보여줍니다. 소비자 신뢰가 얕아지고 지출이 감소하는 가운데, 투자자들은 불확실한 경제 환경을 주의 깊게 감시할 필요가 있습니다. 전반적으로 시장 정서는 부정적이며, 향후 경제 지표와 기업 실적 발표에 따른 변동성이 클 것으로 예상됩니다.

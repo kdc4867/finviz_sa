@@ -1,0 +1,33 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 46개
+- 중립적인 헤드라인: 37개
+- 부정적인 헤드라인: 36개
+
+### 2. 주요 뉴스 요약
+
+#### **주요 테마: 금리 인하 기대감**
+- **헤드라인**: *“Asian stocks edge higher as US rate cut hopes rise”*
+- **헤드라인**: *“US Stocks Climb as Tech Rebounds to Start Thanksgiving Week”*
+
+금리 인하에 대한 기대감이 아시아와 미국 주식 시장에 긍정적인 영향을 미치고 있습니다. 이러한 기대감은 기술주 반등과 함께 주가 상승으로 이어지고 있으며, 투자자들은 연준의 금리 결정이 경제에 미칠 영향을 주목하고 있습니다.
+
+#### **주요 테마: 기술주 호조**
+- **헤드라인**: *“Nasdaq has best day since May as Alphabet drives AI rebound”*
+- **헤드라인**: *“Alphabet, Chip Stocks Lead Tech-Fueled Market Rebound”*
+
+기술주가 최근의 반등을 이끌고 있으며, 특히 알파벳과 반도체 주식이 두드러진 성과를 보이고 있습니다. 이는 AI 관련 기업들이 시장의 주요한 성장 동력으로 작용하고 있음을 보여주며, 앞으로의 투자 심리에 긍정적인 영향을 미칠 것으로 기대됩니다.
+
+#### **주요 테마: 미국 경제 지표**
+- **헤드라인**: *“US Banks Show Across-the-Board Gains in FDIC’s Quarterly Update”*
+- **헤드라인**: *“Recession Risk Is Low, But Softer Labor Market Raises Red Flags”*
+
+FDIC의 분기 보고서에 따르면 미국 은행들이 전반적으로 긍정적인 성과를 보였으며, 이는 경제가 긍정적인 방향으로 나아가고 있다는 신호로 해석될 수 있습니다. 하지만 노동 시장의 약세가 우려 요소로 작용하고 있어 향후 경제 회복 속도에 대한 지켜봐야 할 필요성이 있습니다.
+
+#### **주요 테마: 글로벌 정치 및 경제 동향**
+- **헤드라인**: *“Xi presses Trump on Taiwan amid spat with Japan”*
+- **헤드라인**: *“In an Unusual Move, Xi Calls Trump to Discuss Ukraine and Taiwan”*
+
+중국과 미국 간의 외교적 긴장이 고조되고 있으며, 이는 글로벌 경제 환경에 중요한 영향을 미칠 수 있습니다. 이러한 국제 정세는 시장 심리에 불확실성을 더하고 있으며, 투자자들은 글로벌 정치 동향을 면밀히 주시해야 할 필요가 있습니다.
+
+### 3. 결론
+오늘 시장의 전반적인 감정은 긍정적인 양상이 우세하지만, 부정적인 세력도 존재하고 있습니다. 기술주 반등과 금리 인하 기대감은 투자자들에게 희망적 신호를 주고 있으나, 노동 시장의 약세와 글로벌 정치적 갈등이 잠재적인 위협 요인으로 작용하고 있습니다. 따라서 투자자들은 시장의 변동성을 고려하여 신중한 접근이 필요합니다.

@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 27
+- 중립적 헤드라인: 31
+- 부정적 헤드라인: 55
+
+### 주요 뉴스 요약
+
+#### 1. CME 거래 중단과 시장 혼란
+**헤드라인**: *"CME Partially Restores Operations With Restart of Forex Platform"*  
+**헤드라인**: *"Millions to receive credit scores under new models, but expert warns of approval trap"*  
+CME(시카고 상품 거래소)의 거래 중단은 전 세계적인 금융 시장에 광범위한 영향을 미쳤습니다. 거래 재개 소식에도 불구하고 미국 주식 선물 시장은 여전히 영향을 받고 있는 것으로 나타났고, 이는 투자자들 사이에서 불안감을 조성하고 있습니다.
+
+#### 2. 미국 주식시장 동향
+**헤드라인**: *"US equity funds see first weekly outflow in six weeks"*  
+**헤드라인**: *"Investors snap nine-week buying streak in global equity funds"*  
+미국 주식 시장은 최근 몇 주간의 상승세가 꺾인 모습을 보이고 있으며, 주식 펀드에서의 첫 주간 자금 유출이 발생했습니다. 이는 경제의 불확실성과 함께 특히 소비자 신뢰 지수의 하락과 관련되어 있으며, 투자자들의 신중한 접근이 필요함을 시사합니다.
+
+#### 3. 물가상승과 소비자 지출
+**헤드라인**: *"Fox Poll: 47% of Americans are spending less this holiday season amid affordability crisis"*  
+**헤드라인**: *"Steep discounts help drive record Thanksgiving Day online spending"*  
+물가 상승으로 인한 소비자 지출 감소 우려가 커지고 있습니다. 하지만 연말 쇼핑 시즌동안 온라인 지출이 기록적인 증가를 보인 것은 일부 긍정적인 신호로 해석될 수 있으며, 할인 혜택이 소비자들에게 실질적인 영향을 미치고 있다는 것을 보여줍니다.
+
+### 결론
+전반적으로 이번 시장 뉴스는 부정적인 감정이 지배적이며, 많은 헤드라인이 시장의 불안과 거래 중단으로 인한 혼란을 반영하고 있습니다. 미국 주식 시장은 불안정한 경제 지표와 함께 자금 유출 현상이 나타나고 있으며, 투자자들은 더욱 신중히 접근하고 있는 것으로 보입니다. 이러한 상황에서 소비자들이 재정적인 압박을 느끼고 있는 가운데, 할인이 소비자 구매에 긍정적인 영향을 미치고 있음을 확인할 수 있습니다.

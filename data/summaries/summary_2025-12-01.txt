@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 20
+- 중립적 헤드라인: 25
+- 부정적 헤드라인: 26
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 주식 시장과 암호 화폐의 하락
+**헤드라인**: *"Stocks Slip, Bitcoin Drops Ahead of Busy Data Week: Markets Wrap"*  
+**헤드라인**: *"U.S. stock futures slide as Wall Street enters final trading month of 2025"*  
+이번 주식 시장의 하락과 비트코인의 하락세는 데이터 발표를 앞두고 투자자들의 불안감을 반영하고 있습니다. 특히, 월말에 진입함에 따라 연말 랠리에 대한 의구심이 커지고 있는 상황입니다. 
+
+#### 주제 2: 경제 데이터와 차이나
+**헤드라인**: *"China’s Private Factory Gauge Unexpectedly Falls as Growth Cools"*  
+**헤드라인**: *"India equity benchmarks to open higher as GDP data tops forecast"*  
+중국의 민간 제조업 지표가 예상외로 하락한 것은 성장 둔화에 대한 우려를 더욱 부각시키고 있습니다. 반면, 인도의 GDP 데이터가 예상치를 초과함에 따라 주식 시장은 상승할 것으로 보입니다. 이는 두 국가 간 경제 상황의 대조를 보여줍니다.
+
+#### 주제 3: OPEC+의 석유 생산 정책
+**헤드라인**: *"OPEC+ holds oil output steady, agrees capacity mechanism"*  
+**헤드라인**: *"Oil rises after OPEC+ meeting maintains current output"*  
+OPEC+가 현재의 석유 생산 수준을 유지하기로 결정한 것과 관련하여, 이는 시장에서 안정성을 찾으려는 노력을 보여줍니다. 석유 가격 상승은 에너지 주식에 긍정적인 영향을 미칠 수 있으며, 이는 전 세계적으로 에너지 관련 기업들이 주목받을 수 있음을 의미합니다.
+
+### 3. 결론
+오늘날의 대체적으로 부정적인 시장 감정은 특히 투자자들이 연말 랠리의 실현 가능성에 의문을 제기하는 데서 비롯되고 있습니다. 비트코인과 주식이 하락하는 가운데, 일부 경제 지표는 긍정적인 소식을 전하고 있지만, 중국 경제의 둔화와 같은 부정적인 신호도 여전히 시장에 영향을 미치고 있습니다. OPEC+의 결정은 에너지 투자자에게 안정성을 제공할 가능성도 있지만, 전반적인 경제 전망에 대한 불확실성이 여전히 남아 있습니다.

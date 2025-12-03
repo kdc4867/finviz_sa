@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 43
+- 중립적 헤드라인: 46
+- 부정적 헤드라인: 33
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 금융 시장과 투자 동향
+**헤드라인**: *"Money-Market Assets Top $8 Trillion for First Time"*  
+**헤드라인**: *"Saudi Fund to Own Almost All of Electronic Arts After Buyout"*  
+금융 시장에서 머니 마켓 자산이 처음으로 8조 달러를 초과했다는 소식은 투자자들에게 긍정적인 신호로 작용할 수 있으며, 유동성이 증가하고 있음을 나타냅니다. 또한, 사우디 펀드의 전자 예술 매수 소식은 투자자의 관심이 집중되고 있는 부문으로, 글로벌 투자 확장의 시사점을 제공합니다.
+
+#### 테마 2: 자동차 및 소비 지출
+**헤드라인**: *"Sticker shock pushes shoppers out of new-car market as affordability crisis deepens"*  
+**헤드라인**: *"Trump calls affordability 'a Democrat scam' as inflation concerns persist nationwide"*  
+자동차 시장에서 가격 상승이 소비자에게 큰 부담이 되고 있으며, 이는 구매 의욕 저하로 이어지고 있습니다. 트럼프 전 대통령이 가격 문제에 대한 소신을 밝힌 것은 소비자들의 경제적 불안이 정치적 논의로 이어지고 있음을 보여줍니다.
+
+#### 테마 3: 암호화폐 시장의 변동성
+**헤드라인**: *"Bitcoin suffers worst day since March as crypto sell-off deepens"*  
+**헤드라인**: *"Stocks rise, bonds and bitcoin regain some footing"*  
+암호화폐 시장, 특히 비트코인이 최근 큰 폭으로 하락한 것은 투자자들에게 심각한 경고 신호가 될 수 있습니다. 그러나 주식 시장이 회복세를 보이면서 다소 긍정적인 시장 분위기도 감지되고 있어, 앞으로의 시장 회복 여부에 관심이 쏠리고 있습니다.
+
+### 3. 결론
+오늘의 시장 분위기는 긍정적인 신호와 부정적인 요소가 혼재하는 양상입니다. 특히 금융 시장의 유동성 증가와 주식 회복세는 긍정적인 요소로 작용하고 있습니다. 하지만 자동차 가격 상승과 암호화폐 시장의 변동성이 우려 소식으로 남아 있으며, 전체 경제에 대한 불확실성이 지속되고 있습니다. 이러한 현상들은 투자자가 보다 신중한 접근을 필요로 하는 가운데, 소비자 신뢰도와 시장 안정성을 면밀히 지켜봐야 할 때임을 시사합니다.

@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+
+- 긍정적 헤드라인: 11개
+- 중립적 헤드라인: 15개
+- 부정적 헤드라인: 24개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국 정치와 경제 정책
+- **헤드라인**: *"Trump signs executive order creating food supply chain task forces to address 'anti-competitive behavior'"*
+- **헤드라인**: *"Have Trump’s Tariffs Gone as High as They Can Go? Business Hope So"*
+
+트럼프 행정부의 새로운 정책들은 특히 식량 공급망과 관련된 반경쟁 행위를 다루기 위한 조치를 포함하고 있습니다. 이러한 행보는 반기업적 행태에 대한 규제 강화로 해석되며, 트럼프의 관세 정책이 기업에 미치는 영향을 명확히 하기 위한 노력으로 볼 수 있습니다. 이는 향후 공급망 안정성과 기업 운영에 중대한 영향을 미칠 수 있습니다.
+
+#### 테마 2: 미디어 및 엔터테인먼트 산업
+- **헤드라인**: *"Why Netflix Shareholders Aren’t Thrilled to Acquire Warner Bros."*
+- **헤드라인**: *"Anxiety Turns to Anger in Hollywood as Netflix Hooks Warner Bros."*
+
+넷플릭스의 워너 브라더스 인수는 많은 주주들 사이에서 우려를 불러일으키고 있으며, 제작자들과 관계자들 사이의 불만이 커지고 있습니다. 이러한 불만은 콘텐츠 제작의 방식과 산업 내에서의 권력 변화로 이어질 수 있으며, 이는 향후 엔터테인먼트 시장의 경쟁 방식에도 영향을 줄 것으로 예상됩니다.
+
+#### 테마 3: 글로벌 경제와 원자재 시장
+- **헤드라인**: *"Qatar Says AI Demand, Underinvestment May Drive LNG Shortage"*
+- **헤드라인**: *"US Loses Financing Edge as Asia Borrows in Euros"*
+
+카타르의 언급처럼 AI 수요와 투자 부족은 세계 LNG 부족 사태를 초래할 가능성이 강조되고 있습니다. 한편, 아시아의 유로화 차입 증가로 인해 미국의 금융 경쟁력이 약화되는 것은 글로벌 시장의 자본 흐름 변화와 관련이 깊습니다. 이는 에너지와 자본 시장의 복잡한 상호작용을 통해 넓은 경제적 여파를 가져올 수 있습니다.
+
+### 3. 결론
+
+오늘의 시장 감정은 부정적 헤드라인의 증가로 인해 전반적으로 우울한 상태입니다. 정치적 불확실성과 글로벌 경제의 변화는 투자자들에게 우려를 낳고 있으며, 특히 미디어 산업의 혼란이 두드러지고 있습니다. 따라서, 투자자들은 향후 정책 변화와 글로벌 시장 동향을 면밀히 주시하고, 위험을 분산해 나가는 전략을 고려해야 할 시점입니다.

@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 15개
+- 중립적 헤드라인: 32개
+- 부정적 헤드라인: 20개
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 연방준비제도(Fed)의 금리 결정
+**헤드라인**: *"US stock futures steady with Wall Street awaiting expected Fed rate cut"*  
+**헤드라인**: *"The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas"*  
+이번 주 연준의 금리 결정에 대한 기대감이 시장에 큰 영향을 미치고 있습니다. 투자자들은 금리 인하가 시장의 상승세를 촉발할 수 있을지 주목하고 있으며, 이와 관련된 헤드라인들이 주식 선물의 움직임에 직접적인 영향을 미치고 있습니다.
+
+#### 테마 2: 경제 및 주식 시장의 동향
+**헤드라인**: *"Five Reasons Investors Are Feeling Good About Stocks Again"*  
+**헤드라인**: *"Stock Funds Up 12.6% as Year Nears an End"*  
+최근 시장의 상승세와 투자자들의 긍정적인 감정이 부각되고 있습니다. 주식 펀드의 수익률이 12.6% 증가하며, 이는 연말을 앞두고 더욱 활발한 투자 심리를 이끌어내고 있다는 점에서 주목할 만합니다.
+
+#### 테마 3: 국제 사건 및 기업 동향
+**헤드라인**: *"Trump Says Netflix-Warner Bros. Deal ‘Could Be a Problem’"*  
+**헤드라인**: *"Sembcorp Is in Discussions to Buy Australia’s Alinta Energy"*  
+글로벌 경제와 관련된 주요 기업들의 동향이 이목을 끌고 있습니다. 트럼프가 넷플릭스와 워너 브라더스의 딜에 대한 우려를 표명한 반면, Sembcorp는 호주의 Alinta Energy 인수와 관련한 논의에 들어갔다는 소식이 있습니다. 이는 국제 비즈니스 환경 및 기업 간 경쟁의 복잡성을 반영하고 있습니다.
+
+### 3. 결론
+전반적으로 오늘 시장 감정은 중립에서 긍정적으로 향하고 있으며, 연준의 금리 결정이 큰 영향을 미칠 것으로 예상됩니다. 투자자들은 긍정적인 경제 신호와 강한 주식 시장 성장을 보이고 있지만, 글로벌 경제의 불확실성 및 정치적 사건들도 여전히 많은 주의가 필요합니다. 이러한 요인들이 복합적으로 작용하며 향후 시장의 방향성을 결정짓게 될 것입니다.

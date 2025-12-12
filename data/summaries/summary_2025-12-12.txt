@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- **긍정적인 헤드라인 수**: 47  
+- **중립적인 헤드라인 수**: 34  
+- **부정적인 헤드라인 수**: 41  
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 주식 시장 동향
+- **헤드라인**: *"Dow, S&P 500 end at records as investors feel good about the economy — beyond the AI boom"*  
+- **헤드라인**: *"Dow and S&P 500 score record closing highs, while AI jitters drag Nasdaq lower"*  
+- **분석**: 다우와 S&P 500 지수가 기록적인 종가를 기록했으며, 이는 전반적인 경제에 대한 투자자들의 긍정적인 시각을 반영합니다. 그러나 나스닥은 AI에 대한 불안감으로 인해 하락세를 보이며, 기술주가 전체적인 시장 흐름에 영향을 미치는 양상이 나타나고 있습니다.
+
+#### 테마 2: 부동산과 대출 금리
+- **헤드라인**: *"US Mortgage Rates Tick Higher, Sending 30-Year Loans to 6.22%"*  
+- **헤드라인**: *"Weekly Initial Unemployment Claims Increase to 236,000"*  
+- **분석**: 미국의 모기지 금리가 6.22%로 상승하면서 주택 구매자들에게 추가적인 부담을 주고 있습니다. 이는 가계의 소비와 저축에 영향을 미칠 가능성이 있으며, 고용 불안정성이 심화되는 가운데 신규 실업수당 청구 건수가 증가하고 있다는 점도 우려스러운 요소입니다.
+
+#### 테마 3: 태양광 발전과 세금 혜택
+- **헤드라인**: *"US Solar Installations Soar As Developers Rush To Secure Tax Credits"*  
+- **헤드라인**: *"Treasury Department announces expanded HSA tax benefits under Trump law"*  
+- **분석**: 미국 내 태양광 설치가 급증하고 있으며, 이는 개발자들이 세금 혜택을 확보하기 위해 서두르고 있다는 사실을 입증합니다. 이러한 투자 확대는 지속 가능한 에너지로의 전환을 가속화하는 데 중요한 역할을 할 것으로 예상됩니다.
+
+#### 테마 4: 글로벌 경제와 외교
+- **헤드라인**: *"Abraham Accords allies may help US shift drug sourcing from China, report says"*  
+- **헤드라인**: *"US Imposes Sanctions on Maduro’s ‘Narco-Nephews’ and Six Tankers"*  
+- **분석**: 미국이 아브라함 협정 국가들과의 협력을 통해 중국으로부터의 약물 조달 방식을 변화시키려는 시도를 하고 있습니다. 또한, 미국의 대 마두로 제재가 강화되면서 국제 무역과 관계가 재편될 가능성이 있습니다.
+
+### 3. 결론
+오늘의 시장 감정은 대체로 긍정적이지만, 특정 기술주에 대한 불안감이 보입니다. 주식 시장은 다우와 S&P 500의 기록적인 상승으로 인해 높은 신뢰를 얻고 있으나, 모기지 금리 인상 및 실업 청구 증가 등의 부정적인 신호가 여전히 존재합니다. 또한, 지속 가능한 에너지와 글로벌 경제 측면에서의 변화가 눈에 띄게 드러나고 있습니다. 투자자들은 이러한 다양한 요소들을 함께 고려하여 향후 시장 방침을 결정할 필요가 있습니다.

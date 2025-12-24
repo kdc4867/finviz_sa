@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 45
+- 중립적인 헤드라인: 45
+- 부정적인 헤드라인: 28
+
+### 2. 주요 뉴스 요약
+
+#### 경제 성장 및 GDP
+**주요 헤드라인**: *"U.S. Economic Growth Surged in Third Quarter of 2025"*  
+**주요 헤드라인**: *"GDP growth surprises as consumer spending holds up"*  
+이번 뉴스에서 미국 경제가 2025년 3분기에 예상보다 빠른 성장을 기록했다는 내용이 담겼습니다. 소비자 지출이 견조함에 따라 예상치를 웃도는 GDP 성장이 이루어져, 이는 향후 경기 회복에 긍정적인 신호로 작용할 가능성이 높습니다.
+
+#### 원자재 및 금속 시장
+**주요 헤드라인**: *"Copper Set For Best Year Since 2009 After December Surge"*  
+**주요 헤드라인**: *"Silver Mania And The Predictable Bust"*  
+구리와 은이 연말 성장을 강하게 나타내고 있으며, 구리는 2009년 이후 가장 좋은 해를 맞이하고 있습니다. 그러나 은의 경우 시장 과열 기미가 드러나며 조정이 예상되고 있어, 원자재 투자자들은 주의가 필요합니다.
+
+#### 인공지능 및 기술 주식
+**주요 헤드라인**: *"AI Funding to Drive Record Year for Top-Rated Company Bond Sales"*  
+**주요 헤드라인**: *"Pentagon Partners With xAI Service For Military's Growing Artificial Intelligence Toolset"*  
+인공지능(AI) 기술에 대한 투자 수요가 급증하고 있으며, 상장 채권 판매에 기록적인 영향을 미치고 있습니다. 군사 분야에서도 AI의 활용도가 높아지고 있어, 기술주에 긍정적인 영향을 미칠 것으로 보입니다.
+
+#### 주식 시장 동향
+**주요 헤드라인**: *"Stocks wobble after strong GDP data trims rate-cut bets"*  
+**주요 헤드라인**: *"S&P 500 Hits Record Close After GDP Beats Forecasts"*  
+주식 시장은 예상보다 긍정적인 GDP 성장 소식에도 불구하고 변동성을 보이고 있습니다. 이는 금리 인하 기대감이 줄어들면서 투자자들이 신중해지는 모습을 반영하며, S&P 500 지수는 기록적인 마감 세를 이어가고 있습니다.
+
+### 3. 결론
+오늘의 뉴스는 미국 경제의 강력한 성장세, 원자재 시장의 혼조 및 기술 투자 상승을 주제로 하고 있습니다. 전반적으로는 낙관적인 시장 심리가 존재하지만, 과열된 원자재 시장의 조정 가능성과 금리 정책에 대한 불확실성이 함께 작용하고 있습니다. 투자자들은 이러한 변동성을 고려하여 보다 신중한 접근이 필요할 것으로 보입니다.

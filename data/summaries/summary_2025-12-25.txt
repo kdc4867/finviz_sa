@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- **긍정적 헤드라인**: 37
+- **중립적 헤드라인**: 25
+- **부정적 헤드라인**: 31
+
+### 주요 뉴스 요약
+
+#### 1. 금융시장 상승
+**헤드라인**: *"S&P 500, Dow hit all-time closing highs"*  
+**헤드라인**: *"Stocks Hit Highs as ‘Santa Rally’ Countdown Begins: Markets Wrap"*  
+이번 주 시장에서는 S&P 500과 다우지수가 모두 사상 최고치를 기록했습니다. '산타 랠리'의 분위기가 투자를 촉진하며, 긍정적인 투자 심리를 고조시키고 있다는 점에서 향후 전망이 밝다고 할 수 있습니다.
+
+#### 2. 금과 은의 가격 상승
+**헤드라인**: *"Gold tops $4500 while silver, platinum surge to new peaks"*  
+**헤드라인**: *"Gold climbs above $4,500 in historic rally for precious metals"*  
+금 가격이 4,500달러를 초과하며 역사적인 상승 랠리를 기록했습니다. 이러한 귀금속의 가격 상승은 인플레이션 우려 및 안전 자산 수요 증가를 반영하고 있으며, 이는 투자자들에게 중요한 고려 사항이 됩니다.
+
+#### 3. 고용 시장 동향
+**헤드라인**: *"US weekly jobless claims unexpectedly fall"*  
+**헤드라인**: *"Low inflation and rising wages set stage for strong growth ahead"*  
+지난주 실업수당 청구 건수가 예상과 달리 감소했습니다. 낮은 인플레이션과 임금 상승은 강력한 경제 성장을 위한 환경을 조성하며, 이는 앞으로의 소비 지출 증가를 유도할 가능성이 높습니다.
+
+#### 4. 기술 분야의 변화
+**헤드라인**: *"Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up"*  
+**헤드라인**: *"Intel stock falls on report Nvidia halts production test"*  
+Nvidia가 인공지능 칩 스타트업 Groq와의 제휴를 체결하였습니다. 반면 Intel의 주가는 Nvidia의 생산 중단 소식으로 인해 하락세를 보였는데, 이는 기술 산업 내 경쟁이 심화되고 있음을 나타냅니다. 이러한 변화는 투자자들에게 다양한 기회를 창출할 수 있습니다.
+
+### 결론
+전체적으로 today's market sentiment은 긍정적이며, 주요 지수가 사상 최고치를 갈아치운 가운데 강한 상승세를 보이고 있습니다. 금과 은 가격의 상승은 인플레이션에 대한 우려를 반영하고 있으며, 고용 시장의 회복세는 소비자 신뢰를 높이는 데 기여할 것입니다. 기술 분야에서의 경쟁 심화는 투자자들로 하여금 다양하고 신중한 결정이 필요함을 일깨워 줍니다.

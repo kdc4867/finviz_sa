@@ -1,0 +1,36 @@
+### 1. 뉴스 헤드라인 분석
+
+오늘 뉴스 헤드라인의 세부 분석 결과는 다음과 같습니다:
+- 긍정적인 헤드라인: **32**
+- 중립적인 헤드라인: **21**
+- 부정적인 헤드라인: **25**
+
+### 2. 주요 뉴스 요약
+
+#### Theme 1: 주식 시장 전망
+- **헤드라인**: *"Strategist predicts ‘resilient’ stock market in 2026"*
+- **헤드라인**: *"Economist gives bullish outlook for 2026: 'All the dials are lining up right"'*
+  
+  오늘의 뉴스에서는 2026년 주식 시장에 대한 긍정적인 전망이 두드러졌습니다. 전략가와 경제학자 모두 시장 회복력이 클 것이라고 예측하고 있으며, 이는 투자자들에게 희망적인 신호입니다. 이로 인해 시장에 대한 신뢰가 증대할 수 있으며, 추가적인 투자 유입이 기대됩니다.
+
+#### Theme 2: 금속 및 귀금속 시장 동향
+- **헤드라인**: *"Gold and Silver Smash Records Again as Rally Gathers Momentum"*
+- **헤드라인**: *"Silver tops $75 as gold and platinum surge to records"*
+  
+  금 및 은 같은 귀금속의 가격 상승이 두드러지며 새로운 기록을 갱신하고 있습니다. 이러한 상승세는 인플레이션과 금리에 대한 우려로 인해 안전 자산에 대한 수요가 증가한 결과로 보입니다. 투자자들은 귀금속 시장에 보다 많은 주목을 할 것으로 예상됩니다.
+
+#### Theme 3: 주요 기업 및 투자 동향
+- **헤드라인**: *"Target’s battered stock gets a lift after reported investment from Toms Capital"*
+- **헤드라인**: *"Nvidia's newest deal is all about maintaining 'dominance'"*
+  
+  시중의 주요 기업들은 투자자들로부터 관심을 받고 있으며, 특히 티켓과 기술 분야에서 긍정적인 조짐이 나타나고 있습니다. Target의 주가는 새로운 투자 소식에 힘입어 반등했으며, Nvidia는 지속적인 시장 점유율 유지를 위해 전략적으로 거래를 진행하고 있습니다. 이는 기업들의 성장 가능성을 나타내는 긍정적인 신호로, 투자자들에게 기회를 제공할 수 있습니다.
+
+#### Theme 4: 사회적 및 규제 이슈
+- **헤드라인**: *"A Wealth Tax Floated in California Has Billionaires Thinking of Leaving"*
+- **헤드라인**: *"Small businesses sound the alarm as inflation, high rates crush Main Street"*
+  
+  과세 및 경제적 압박과 관련된 뉴스는 기업과 고소득층에게 부정적인 영향을 미치고 있습니다. 캘리포니아의 부유세 논의는 투자자들에게 이동적 위험을 내포하고 있으며, 중소기업들 역시 인플레이션과 금리에 시달리고 있습니다. 이러한 요소들은 국가적 경제 환경을 더욱 복잡하게 만들어 투자 결정을 어렵게 할 수 있습니다.
+
+### 3. 결론
+
+오늘의 뉴스는 비교적 긍정적인 시장 전망과 함께 다양한 기업 움직임을 보이고 있지만, 동시에 사회적 및 규제적 도전과제가 뚜렷하게 드러났습니다. 주식 시장에 대한 긍정적인 전망은 투자자들에게 희망을 주지만, 금속 시장의 상승 역시 이전의 불안함을 반영하고 있습니다. 앞으로 투자자들은 이러한 다양한 요인들을 고려하여 신중하게 결정해 나가야 할 것입니다.

@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 29개  
+- 중립적 헤드라인: 34개  
+- 부정적 헤드라인: 40개  
+
+### 2. 주요 뉴스 요약
+
+#### 1) 기술주 하락
+**헤드라인**: *"Asian stocks pulled lower by tech, gold and silver cool off"*  
+**헤드라인**: *"US stocks end down as tech shares drop ahead of New Year"*  
+기술주 하락은 전체 증시에 부정적인 영향을 미치고 있으며, 금과 은의 조정도 함께 진행되고 있습니다. 이러한 상황은 투자자들 사이에 불안감을 조성하며, 연말 랠리의 지속 가능성에 대한 의문을 제기하고 있습니다.
+
+#### 2) 미국의 국가 부채
+**헤드라인**: *"National Debt Tracker: American taxpayers (you) are now on the hook for $38,380,536,147,996.03 as of 12/29/25"*  
+**헤드라인**: *"Housing affordability emerges as key economic test for Trump administration"*  
+미국의 국가 부채가 38조 달러를 넘어섰다는 사실은 경제 전반에 우려를 불러일으킵니다. 이는 세금과 정책 결정에 깊은 영향을 미칠 것이며, 주택 시장의 지속 가능성과 미국 경제 성장의 장애 요소로 작용할 수 있습니다.
+
+#### 3) 주식 시장 전망
+**헤드라인**: *"Every Wall Street analyst now predicts a stock rally in 2026"*  
+**헤드라인**: *"Stock futures are little changed after S&P 500 posts back-to-back losses"*  
+다수의 월스트리트 애널리스트들이 2026년 주식 상승을 예상하고 있지만, 현재 주식 선물이 큰 변동이 없는 가운데, 최근 연속 하락은 투자자들의 신뢰를 저해할 수 있습니다. 이는 보다 신중한 접근을 요구하는 시점으로 판단됩니다.
+
+### 3. 결론
+전반적으로 오늘의 시장 감정은 부정적인 요소가 걸쳐 있으며, 특히 기술주와 금, 은 시장의 조정이 두드러진 상황입니다. 국가 부채의 급격한 증가와 주식 시장 전망의 불확실성은 투자자들에게 우려를 안겨주고 있습니다. 반면, 2026년의 주식 시장 상승 기대감은 다소 희망적인 요소로 작용할 여지가 있지만, 현실적인 반응은 아직 부정적입니다. 따라서, 시장의 복잡한 동향을 주의 깊게 살펴야 할 필요가 있습니다.

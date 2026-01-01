@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 37
+- 중립적인 헤드라인 수: 32
+- 부정적인 헤드라인 수: 27
+
+### 2. 주요 뉴스 요약
+
+#### Theme 1: 주식 시장 동향
+**헤드라인**: *"Stocks end final day of 2025 lower — but log big gains for 3rd year in a row"*  
+**헤드라인**: *"U.S. Stocks Fall for a Fourth Straight Session, Limping to End of Another Banner Year"*  
+이 두 헤드라인은 미국 주식 시장이 2025년 마지막 날 하락으로 마감했지만, 3년 연속으로 큰 상승폭을 기록했음을 나타냅니다. 이는 올해의 변동성이 있었지만, 전체적인 시장의 상승세가 지속되었음을 시사하며 투자자들에게 여전히 긍정적인 전망을 제공합니다.
+
+#### Theme 2: 경제 정책과 세계 경제
+**헤드라인**: *"US draws bulk of state-owned investment in 2025 as assets hit record $60 trln"*  
+**헤드라인**: *"All the dials are lining up for strong economic growth, economist says"*  
+이 헤드라인들은 미국이 2025년 동안 국가 소유 투자에서 상당한 자본을 유치했으며, 경제 전문가들이 강력한 경제 성장의 징후를 진단하고 있음을 보여줍니다. 이는 미국 경제가 더욱 안정적이고 성장할 수 있는 기반을 다지고 있음을 암시합니다.
+
+#### Theme 3: 인플레이션과 금리
+**헤드라인**: *"Freddie Mac House Price Index Up 1.0% Year-over-Year in November"*  
+**헤드라인**: *"Weekly Initial Unemployment Claims Decrease to 199,000"*  
+이 두 가지 헤드라인은 미국의 주택 가격이 상승하고 있으며, 실업 수당 정상 신규 청구 건수가 감소하여 고용 시장의 안정성을 나타낸다는 점에서 중요합니다. 이는 인플레이션과 금리가 중요한 변수로 작용할 수 있음을 의미하며, 소비자와 투자자에게 중요합니다.
+
+### 3. 결론
+전체적으로 시장의 센티멘트는 긍정적이며, 2025년을 회고할 때 상승세가 주를 이루었다는 점에서 연말 효과를 볼 수 있습니다. 주식 시장이 하락세로 마감했지만, 과거 3년간 안정적인 성과를 거두었던 부분은 시장의 기반을 다지는데 중요한 역할을 했습니다. 미국의 경제 정책과 외부 투자 유치는 향후 전망을 밝게 하고 있으며, 투자자들은 지속적인 성장을 기대할 수 있는 상황입니다. 이와 함께 인플레이션과 금리 관련 지표는 면밀한 주시가 필요합니다.

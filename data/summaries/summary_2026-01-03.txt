@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 41
+- 중립적인 헤드라인: 35
+- 부정적인 헤드라인: 24
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 기술 및 반도체 주식의 성과
+**헤드라인**: *"CEO says he's still bullish on US chip stocks despite Chinese competition"*  
+**헤드라인**: *"semiconductor stocks rally, U.S. stocks close mostly higher as Dow, S&P 500 kick off 2026 with gains"*  
+이번 뉴스는 반도체 산업에 대한 긍정적인 전망을 강조하고 있습니다. 특히, 미국의 반도체 주식이 중국 경쟁에 대한 우려에도 불구하고 여전히 주목받고 있다는 점이 투자자들에게 긍정적인 신호로 작용할 수 있습니다. 이는 기술 부문이 시장에서 중요한 역할을 계속할 것임을 암시합니다.
+
+#### 테마 2: 소매업의 재기 가능성
+**헤드라인**: *"Could retail actually rebound in 2026? These are the chains — and trends — to watch."*  
+**헤드라인**: *"There's 'a lot of potential' with AI for productivity, Ray Wang says"*  
+소매업의 회복 가능성에 대한 견해가 제시되고 있습니다. 전반적으로 소비자 및 트렌드 변화에 대한 관심이 커지고 있으며, AI 기술이 생산성에 기여할 것이라는 기대감도 함께 드러나고 있습니다. 이는 소매업체들이 기술을 활용하여 경쟁력을 더욱 강화할 수 있는 기회를 제공할 것입니다.
+
+#### 테마 3: 경제적 경착륙 우려
+**헤드라인**: *"No shortage of economic worries for the U.S. this new year"*  
+**헤드라인**: *"Will he stay or will he go? Powell is not saying whether he'll stay on Fed board when chair term ends"*  
+미국 경제의 불확실성과 우려가 지속되고 있습니다. 연준 의장이 임기 이후 계속 재직할 것인지에 대한 불확실성은 시장에서 긴장감을 불러일으킬 수 있으며, 이는 투자자의 신뢰도에 영향을 미칠 수 있습니다. 이 같은 경착륙 우려는 앞으로의 경제 정책 방향을 가늠하는 키가 될 것입니다.
+
+### 3. 결론
+전반적으로 오늘의 시장 감정은 긍정적인 요소가 많으나, 여전히 부정적 우려가 남아 있습니다. 반도체 주식과 소매업의 회복 가능성 등 긍정적인 뉴스가 많았지만, 경제적 경착륙에 대한 우려는 투자자들에게 부담으로 작용할 수 있습니다. 따라서, 향후 시장은 기술주와 소비재 주식의 성과에 따라 크게 영향을 받을 것으로 보이며, 연준의 정책 방향에도 주목해야 할 시점입니다.

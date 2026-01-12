@@ -1,0 +1,35 @@
+## 뉴스 헤드라인 분석
+
+- 긍정적인 헤드라인: 20개
+- 중립적인 헤드라인: 29개
+- 부정적인 헤드라인: 36개
+
+## 주요 뉴스 요약
+
+### 1. 트럼프와 연준 간의 갈등 심화
+**헤드라인**: *"Powell says criminal investigation by Trump’s DOJ threatens Fed’s independence"*  
+**헤드라인**: *"Stock futures slide as Trump's DOJ opens criminal investigation into Fed Chair Powell"*
+
+트럼프 전 대통령과 연준의 갈등이 심화되고 있으며, 트럼프의 법무부가 파월 의장에 대한 범죄 수사를 시작했다는 뉴스가 전해졌습니다. 이러한 정치적 불확실성은 금융 시장에 큰 영향을 미치고 있으며, 시장 참가자들은 연준의 독립성에 대한 우려를 표명하고 있습니다. 이로 인해 투자자들의 심리 또한 더욱 위축되고 있습니다.
+
+### 2. 인도 주식 시장의 회복 지연
+**헤드라인**: *"Indian Stocks’ Recovery Clouded by Slowing Earnings Growth"*  
+**헤드라인**: *"Indian stocks likely to recover from worst week in three months"*
+
+인도의 주식 시장이 이익 성장 둔화로 인해 회복에 어려움을 겪고 있다는 소식입니다. 최근 시장이 최악의 주를 보낸 후, 투자자들은 회복세가 지속될 수 있을지 주목하고 있습니다. 이는 인도 경제 성장 전망에 대한 불확실성을 증가시키며, 외국인 투자자들의 관심도가 줄어드는 결과를 초래할 수 있습니다.
+
+### 3. 자산 관리 산업의 매각 가능성
+**헤드라인**: *"Prudential Financial Is Said to Mull India Asset Manager Sale"*  
+**헤드라인**: *"Malaysia and Indonesia block Musk's Grok over sexually explicit deepfakes"*
+
+프루덴셜 파이낸셜이 인도 자산 관리 부문의 매각을 검토하고 있다는 소식이 전해졌습니다. 이는 글로벌 자산 관리 시장의 변화를 반영하는 것으로, 투자자들에게는 향후 가능한 투자 기회에 대한 중요한 сигнал이 될 수 있습니다. 이러한 매각 검토는 또한 기업 전략 변화의 일환으로 분석될 수 있습니다.
+
+### 4. 금 가격 상승
+**헤드라인**: *"Gold, silver notch record highs on safe-haven demand"*  
+**헤드라인**: *"Gold Flirts With Record High on Soft US Jobs Data"*
+
+안전자산으로서의 금과 은 가격이 사상 최고치를 기록하고 있습니다. 이는 불확실한 시장 환경과 미국 노동 시장의 부진이 투자자들을 안전 자산으로 몰아가는 결과입니다. 이러한 동향은 특히 경제의 불확실성이 계속될 경우 더욱 강화될 것으로 예상됩니다.
+
+## 결론
+
+오늘의 뉴스에서 부정적인 헤드라인이 다수를 차지하면서 전체 시장의 감정은 부정적으로 나타났습니다. 트럼프 전 대통령과 연준 간의 갈등 심화는 투자자들에게 불안감을 주고 있으며, 이는 주식 시장에 부정적인 영향을 미칠 가능성이 큽니다. 반면, 금과 같은 안전 자산의 상승은 지속적인 시장 불안정을 반영하는 것으로 해석될 수 있습니다. 앞으로의 경제 데이터와 정부의 대응책이 중요할 것으로 보입니다.

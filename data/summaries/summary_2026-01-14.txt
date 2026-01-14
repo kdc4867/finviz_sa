@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인 수: 38
+- 중립적인 헤드라인 수: 37
+- 부정적인 헤드라인 수: 39
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 금융 시장 및 기술 기업 성과
+**헤드라인**: *"Dow Falls After JPMorgan Kicks Off Earnings Season on a Down Note"*  
+**헤드라인**: *"Stock Market Today: Dow Falls, Weighed Down by JPMorgan"*
+
+이번 보고서에서는 주식 시장의 부진이 두드러집니다. 지난 주 Earning 시즌의 시작과 함께 JP Morgan의 저조한 실적이 다우 지수를 하락시켰습니다. 이는 금융주에 대한 시장의 우려를 반영하며, 투자자들은 앞으로의 수익 전망에 대해 조심스러운 시각을 갖게 되고 있습니다.
+
+#### 주제 2: 국제 정치 및 원자재 시장의 변동
+**헤드라인**: *"Oil Steadies After Four-Day Rally With Focus on Iran Meeting"*  
+**헤드라인**: *"Robot Traders Hike Bullish Oil Bets as Trump’s Iran Comments Jolt Prices"*
+
+국제 유가는 중동 지역의 정치적 긴장 속에서 파동을 겪고 있습니다. 특히, 트럼프의 이란 관련 발언이 유가에 긍정적인 영향을 미쳤음을 시사합니다. 이는 앞으로의 공급 체인에 미치는 영향을 고려할 때, 원자재 시장의 변동성이 클 것이라는 전망을 만들어냅니다.
+
+#### 주제 3: 정책 변화와 기업 전략
+**헤드라인**: *"Government drops plans for mandatory digital ID to work in UK"*  
+**헤드라인**: *"Trump issues warning if SCOTUS blocks tariffs"*
+
+영국의 디지털 ID 의무화 계획이 취소된 것과 트럼프의 관세 관련 경고는 정책 변화가 기업 전략에 미치는 영향을 보여줍니다. 특히 기업들이 정부 정책에 따라 업무 방식을 조정해야 할 가능성이 커지며, 이는 시장 전반에 불안정을 유발할 수 있습니다.
+
+### 3. 결론
+오늘의 뉴스는 전반적으로 부정적인 시장 감정을 반영하고 있습니다. 특히 금융주에서의 부진과 글로벌 정치적 불확실성이 주요 원인입니다. 투자자들은 경제의 향후 방향성과 기업들의 실적에 주의해야 하며, 특히 원자재 시장의 불안정성은 직접적인 투자 결정에 큰 영향을 미칠 수 있습니다. 향후 시장의 회복 여부는 주요 경제 지표와 기업의 실적 발표에 달려있습니다.

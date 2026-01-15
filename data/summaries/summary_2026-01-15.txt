@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적: 23
+- 중립적: 40
+- 부정적: 54
+
+### 주요 뉴스 요약
+
+#### 1. 중동 및 에너지 시장 동향
+**헤드라인**: *"Oil drops as Trump calms Iran fears"*  
+**헤드라인**: *"Crude Falls After Trump’s Latest Comments on Iran Protests"*  
+분석: 오늘 발표된 두 개의 헤드라인은 트럼프 전 대통령의 발언이 이란의 긴장 완화에 긍정적인 영향을 미쳤음을 보여줍니다. 이로 인해 유가가 하락했으며, 시장은 트럼프의 외교 전략이 에너지 가격에 미치는 영향을 주목하고 있습니다.
+
+#### 2. 기술 주식 및 시장 동향
+**헤드라인**: *"Tech stocks slide in Asia"*  
+**헤드라인**: *"Tech Tumbles as Wall Street Rotation Gains Speed: Markets Wrap"*  
+분석: 아시아 및 미국에서 기술 주식이 급격히 하락하며 투자자들은 이러한 하락의 배경과 원인을 분석하고 있습니다. 특히 시장의 로테이션 속도가 빨라지고 있는 가운데, 투자자들은 방어적인 자산으로의 전환을 고려할 수 있습니다.
+
+#### 3. 기업 및 IPO 활동
+**헤드라인**: *"2026 May Be the Year of the Mega I.P.O."*  
+**헤드라인**: *"Brazil Fintech Agibank Said to Plan Raising $1 Billion in US IPO"*  
+분석: 대규모 IPO 예상과 관련된 두 개의 기사에서, 브라질 핀테크 기업 Agibank가 미국에서 10억 달러 규모의 공개 모집을 계획하고 있는 것이 주목받고 있습니다. 이는 글로벌 투자자들이 특히 핀테크 및 IT 섹터에 높은 관심을 보이고 있음을 시사합니다.
+
+#### 4. 금융 및 경제 정책
+**헤드라인**: *"Wall Street says, Airlines to save big money on fuel as new weight-loss pills gain popularity"*  
+**헤드라인**: *"Sen. Warren says Trump called her to work on credit card interest rate caps"*  
+분석: 트럼프 전 대통령의 신용카드 이자율 상한제와 관련된 발언과 항공사들의 연료비 절감 기회는 현 경제 상황에서 소비자와 기업에 미치는 영향을 반영하고 있습니다. 이러한 정책들이 시장의 소비 패턴을 어떻게 변화시킬지에 대한 논의가 필요합니다.
+
+### 결론
+이번 뉴스에서 전반적으로 부정적인 헤드라인이 우세하며, 특히 기술주와 관련된 하락이 두드러집니다. 중동의 에너지 관련 뉴스는 유가에 긍정적인 영향을 미쳤지만, 전반적인 시장 심리는 여전히 불안한 상태입니다. 또한 대규모 IPO와 기업 전략에 관한 긍정적인 전망이 일부 존재하나, 금융 정책에 대한 불확실성이 시장의 변동성을 더욱 증가시키고 있음을 보여줍니다. 따라서 투자자들은 경제와 정치의 변화에 대한 지속적인 모니터링이 필요합니다.

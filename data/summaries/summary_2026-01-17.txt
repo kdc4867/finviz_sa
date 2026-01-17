@@ -1,0 +1,26 @@
+### 뉴스 헤드라인 분석
+
+- 긍정적 헤드라인: **32**
+- 중립적 헤드라인: **41**
+- 부정적 헤드라인: **38**
+
+### 주요 뉴스 요약
+
+#### 1. 트럼프의 정책 및 경제 이슈
+- **헤드라인**: *"Georgia congressman endorses Trump’s plan to slash healthcare costs,"*  
+- **헤드라인**: *"Trump to unveil home buying plan involving retirement funds,"*  
+  트럼프는 건강보험 비용 절감 및 주택 구매를 위한 새로운 정책을 제안하고 있으며, 이는 그의 경제적 비전이 실질적으로 추진되고 있음을 보여줍니다. 이러한 정책들은 유권자들 사이에서 긍정적인 반응을 얻을 수 있지만, 동시에 그 실행 가능성과 장기적 재정 건전성에 대한 우려도 커지고 있습니다.
+
+#### 2. 금융시장 및 주식 동향
+- **헤드라인**: *"Dow, S&P 500 turn lower; Nasdaq climbs as tech rebound gathers pace – updates,"*  
+- **헤드라인**: *"Stocks wobble as Trump wavers on Hassett as Fed pick,"*  
+  오늘 주식 시장은 혼조세를 보였고, 특히 기술주가 반등세를 보이며 나스닥은 상승했습니다. 그러나 다우와 S&P 500는 하락세를 보이며 시장의 불확실성이 여전히 존재하고 있음을 나타냅니다. 특히 Fed 의장 지명자와 관련된 트럼프의 발언이 시장에 큰 영향을 미치는 것으로 보입니다.
+
+#### 3. 국제 경제 및 무역
+- **헤드라인**: *"China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi,"*  
+- **헤드라인**: *"Venezuela Signs First Gas Export Deal, Citing LPG Contract,"*  
+  국제 무역에서 주요 국가 간의 관세 해제와 석유 및 가스 수출 계약이 체결되었습니다. 이러한 변화는 글로벌 경제에 긍정적인 신호를 줄 수 있지만, 각국의 정치적 상황에 따라 달라질 수 있는 만큼 지속적인 주의가 필요합니다.
+
+### 결론
+
+오늘의 뉴스에서는 트럼프의 정책, 금융시장 동향, 그리고 국제 경제 이슈가 중심적으로 다루어졌습니다. 전반적으로 긍정적인 헤드라인이 있지만, 시장의 불안정성과 정책의 실행 가능성에 대한 우려가 여전히 존재하고 있습니다. 투자자들은 이러한 다양한 요소를 신중히 고려하여 시장에 대한 접근 방식을 결정해야 할 시점에 있습니다.

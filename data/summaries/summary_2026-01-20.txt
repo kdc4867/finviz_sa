@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 29
+- 중립적인 헤드라인: 29
+- 부정적인 헤드라인: 48
+
+### 2. 주요 뉴스 요약
+
+#### 1) 트럼프의 무역 정책과 글로벌 반응
+**헤드라인**: *"Trump hits eight NATO allies with tariffs over Greenland"*  
+**헤드라인**: *"EU has a $8T 'Sell America' bazooka to hit back at Trump"*
+
+트럼프 대통령의 그린란드에 대한 태도와 그에 따른 관세 정책은 여전히 주요 뉴스로 떠오르고 있습니다. 그가 NATO 동맹국에 대한 관세를 부과하겠다고 발표하자 유럽 측의 반발이 예상되고 있으며, 이는 미국과 유럽 간의 무역 긴장을 더욱 격화시키고 있습니다.
+
+#### 2) 금융 시장의 불확실성과 기업 반응
+**헤드라인**: *"Stocks slide, dollar struggles as Trump's Greenland gambit rattles markets"*  
+**헤드라인**: *"Dow set to fall more than 300 points on Trump’s new tariff threat over Greenland"*
+
+트럼프의 새로운 관세 위협 때문에 주식 시장과 달러화 모두 불안정을 겪고 있습니다. 이는 투자자들이 향후 불확실성에 대한 우려로 인해 도피 자산으로의 이동을 가속화하고 있다는 것을 나타내며, 전체 시장에 부정적인 영향을 미치는 것으로 보입니다.
+
+#### 3) 금리 및 자산 배분에 관한 전략
+**헤드라인**: *"Hedge Fund Picton Says Markets Will Punish a Fed That Bows to Trump"*  
+**헤드라인**: *"Americans' paychecks grow stronger as Main Street shows new economic strength"*
+
+피크톤 헤지펀드의 보고서는 연준이 트럼프의 압력에 굴복하는 경우 시장이 이를 처벌할 것이라고 경고합니다. 반면, 미국의 경제력은 여전히 강세를 보이고 있으며, 일반 소비자들의 소득이 증가하는 추세입니다. 이는 연준의 정책 결정에 영향을 미칠 수 있습니다.
+
+### 3. 결론
+전반적으로 오늘의 뉴스는 부정적인 sentiment가 두드러지며, 특히 무역 정책과 관련된 트럼프의 발언이 주식 시장에 큰 영향을 미치고 있습니다. 관세 위협이 북한 동맹국들에 미치는 영향과 그에 대한 유럽의 반발은 시장의 불확실성을 더욱 부추기고 있습니다. 투자자들은 이러한 경제 상황에서 자산 배분 전략을 재조정해야 할 필요성을 느끼고 있습니다.

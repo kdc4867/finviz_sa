@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 33개
+- 중립적인 헤드라인: 29개
+- 부정적인 헤드라인: 53개
+
+### 2. 주요 뉴스 요약
+
+#### **주요 경제 불안정성**
+**헤드라인**: *"Kraft Heinz stock falls as Berkshire may sell off nearly its entire stake"*  
+**헤드라인**: *"S&P 500, Nasdaq slump to one-month lows as Greenland dispute triggers global selloff"*  
+전반적으로, Kraft Heinz의 주가는 Berkshire Hathaway가 보유하고 있는 거의 전체 지분을 매각할 가능성으로 인해 하락했습니다. S&P 500과 Nasdaq 지수는 그린란드 분쟁으로 인해 글로벌 매도세가 촉발되면서 한 달 만에 최저점을 기록했습니다. 이러한 경제 불안정성은 투자자들과 시장에 심각한 영향을 미칠 수 있으며, 특히 기업의 주가에 대한 신뢰를 떨어뜨릴 수 있습니다.
+
+#### **금융 시장의 불안정성 증가**
+**헤드라인**: *"Widespread selloff hits stocks as Trump's threats over Greenland unnerve investors"*  
+**헤드라인**: *"Market Calm Gives Way as Greenland Tension Opens Up ‘Tail Risk’"*  
+트럼프 대통령의 그린란드 관련 위협이 투자자들을 불안하게 하면서 주식 시장에 광범위한 매도가 발생했습니다. 이로 인해 시장의 ‘꼬리 위험’이 증가하고 있으며, 만일 이 우려가 지속된다면 시장은 또 다른 큰 하락세로 이어질 위험이 있습니다. 특히, 이 상황은 역사적으로 정치적 불확실성이 시장에 미치는 부정적인 결과를 잘 보여줍니다.
+
+#### **자원 가치의 상승**
+**헤드라인**: *"Gold and silver hit fresh records as Trump’s moves are 'scaring investors'"*  
+**헤드라인**: *"Oil declines as Trump’s push to take Greenland rattles markets"*  
+금과 은이 사상 최고가를 기록하는 가운데, 트럼프의 정치적 움직임으로 인해 투자자들은 불안감을 느끼고 있습니다. 이러한 안전자산의 수요 증가는 정치적 불안정성과 경제 위기 우려로부터 기인하며, 유가 역시 시장의 불안정성을 반영하여 하락세를 보이고 있습니다. 이는 원자재 시장이 경제적 및 정치적 요인에 민감하다는 것을 의미합니다.
+
+### 3. 결론
+오늘의 시장 정서는 전반적으로 부정적이며, 불안정한 경제적 및 정치적 환경이 투자자들의 심리를 괴롭히고 있습니다. 특히, 트럼프 대통령의 그린란드 관련 정책은 시장에 큰 영향을 미치고 있으며, 투자자들은 추가 매도에 대비하고 있습니다. 안전자산으로의 이동이 증가하는 가운데, 시장의 긴장감은 더욱 커질 것으로 보이며, 이 상황이 어떻게 전개될지 지켜보는 것이 중요합니다.

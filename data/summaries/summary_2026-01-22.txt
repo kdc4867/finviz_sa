@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 44
+- 중립적인 헤드라인: 33
+- 부정적인 헤드라인: 35
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 트럼프의 그린란드 정책 변화
+- **헤드라인**: *"Trump calls off tariffs on Europe over Greenland"*
+- **헤드라인**: *"Stocks surge as Trump walks back Europe tariff threat"*
+  
+트럼프 대통령이 그린란드와 관련된 새로운 프레임워크 거래에 합의하면서 유럽에 대한 관세 위협을 철회했습니다. 이로 인해 주식시장이 급등했으며, 이는 투자자들에게 긍정적인 신호로 작용하고 있습니다. 트럼프의 외교 정책 변화가 경제에 긍정적인 영향을 미칠 것으로 예상됩니다.
+
+#### 주제 2: 미국과 유럽의 무역 관계
+- **헤드라인**: *"EU to freeze US trade deal over Trump's Greenland threats"*
+- **헤드라인**: *"European Parliament halts work on US trade deal in response to Trump Greenland push"*
+  
+유럽연합(EU)은 트럼프의 그린란드 관련 발언에 따라 미국과의 무역 협상을 중단하기로 결정했습니다. 이는 두 경제 대국 간의 긴장 관계를 반영하며, 장기적으로 양국 간의 무역 및 경제 성장에 부정적인 영향을 미칠 수 있습니다.
+
+#### 주제 3: 시장 반응 및 경제 전망
+- **헤드라인**: *"Markets rally after Trump rules out military action in Greenland dispute"*
+- **헤드라인**: *"Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors"*
+  
+트럼프가 그린란드 분쟁에서 군사 행위를 배제하자 시장이 반등했습니다. 그러나 급격한 주식 변동은 투자자들에게 유의미한 경고 신호로 작용할 수 있으며, 향후 시장의 안정성을 걱정하는 목소리도 커질 것으로 보입니다.
+
+### 3. 결론
+오늘 시장의 전반적인 감정은 긍정적이었습니다. 트럼프의 정책 변화가 미국 주식 시장에 긍정적인 영향을 미치고 있으며, 이는 투자자들에게 개선된 경제 환경을 예상하게 합니다. 그러나 유럽과의 무역 격차와 관련된 리스크도 증가하고 있어 주의가 필요합니다. 이러한 변동성 속에서 투자자들은 향후 경제 전망과 외교적 움직임을 면밀히 관찰해야 할 것입니다.

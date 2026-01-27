@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 34
+- 중립적인 헤드라인: 24
+- 부정적인 헤드라인: 53
+
+### 주요 뉴스 요약
+
+#### 1. 경제 및 통화 정책
+**헤드라인**: *"Dollar slides to 4-month low on efforts to boost yen."*  
+**헤드라인**: *"Dollar under fire again as investors reassess Trump policies, geopolitical risk."*  
+이 헤드라인들은 달러의 급락이 일본 엔화의 강세를 이끌어내고 있으며, 이는 미국 주식에 부정적인 영향을 미칠 수 있음을 시사합니다. 트럼프 정책에 대한 투자자들의 재평가가 이루어지고 있는 가운데, 고조되는 지정학적 리스크가 외환 시장에 큰 파장을 미치고 있습니다.
+
+#### 2. 금과 은 가격 상승
+**헤드라인**: *"Gold tops $5,000 for first time in 'breathtaking,' 'scary' rally."*  
+**헤드라인**: *"Gold and Silver Surge to Records, Buoyed by Concerns Over Tariffs, U.S. Shutdown."*  
+금 가격이 5,000달러를 초과함에 따라 교역자들은 안전자산으로의 수요 증가를 경험하고 있습니다. 연방정부 셧다운과 세금 정책에 대한 우려가 높아져 금과 은에 대한 수요가 어마어마하게 증가하고 있음을 보여줍니다.
+
+#### 3. 정치적 및 기업 영향
+**헤드라인**: *"Trump Says He Will Raise Tariffs on South Korea to 25%."*  
+**헤드라인**: *"U.S. to barely raise next year's Medicare insurer payments, shares fall."*  
+트럼프 전 대통령이 한국에 대한 관세를 25%로 인상하겠다고 밝힌 것은 글로벌 무역 상황에 큰 영향을 미칠 전망입니다. 이러한 정치적 결정은 기업 주식에 부정적인 영향을 미치고 있으며, 경제 전반에 대한 불확실성을 증대시키고 있습니다.
+
+### 결론
+오늘의 시장 감정은 부정적 경향이 두드러지며, 전체 헤드라인 중 부정적인 뉴스가 가장 많았습니다. 경제 정책과 외환 시장의 변동성이 주요 이슈로 부각되어 있으며, 금과 같은 안전자산에 대한 투자가 증가하는 양상을 보이고 있습니다. 기본적으로 지정학적 리스크와 정치적 변동성이 미국 주식 시장에 큰 부담으로 작용할 것으로 예상됩니다.

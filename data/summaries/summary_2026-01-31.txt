@@ -1,0 +1,24 @@
+**1. 뉴스 헤드라인 분석**
+- 긍정적인 헤드라인 수: 23
+- 중립적인 헤드라인 수: 39
+- 부정적인 헤드라인 수: 48
+
+**2. 주요 뉴스 요약**
+
+**테마 1: 금리 정책 및 경제와의 연관**
+   - **헤드라인**: *"Trump's Fed pick Kevin Warsh faces unexpected roadblock over ongoing Powell probe"*
+   - **헤드라인**: *"Trump's New Fed Chair Kevin Warsh: The Impact And Rate Path For 2026"*
+   - 오늘 주요 뉴스에서 트럼프의 연준(Fed) 의장 지명자인 케빈 워시(Kevin Warsh)가 정책에 미칠 영향을 두고 불확실성이 커지고 있습니다. 워시의 임명은 이자율 정책에 변화가 있을 것이라는 기대를 하지 않게 만들고 있으며, 이는 시장의 반응에서 부정적인 요인으로 작용하고 있습니다.
+
+**테마 2: 기업 실적 발표 가속화**
+   - **헤드라인**: *"Heavy earnings week, jobs data to test US stocks after Microsoft swoon"*
+   - **헤드라인**: *"SoFi sees billion-dollar quarter as it becomes first US bank to bring crypto to retail traders"*
+   - 이 주에 예정된 기업 실적 발표와 고용 데이터는 미국 주식 시장에 큰 영향을 미칠 것으로 보입니다. 특히, SoFi와 같은 기업이 고액의 실적을 보고함에 따라 암호화폐와 같은 새로운 영역을 통해 성장하는 기회를 보여주고 있습니다.
+
+**테마 3: 원자재 시장의 변동과 정치적 요인**
+   - **헤드라인**: *"Gold and silver prices drop sharply, sparking questions about market stability"*
+   - **헤드라인**: *"Dollar Surges as Plunging Metals Hit Commodity Currencies"*
+   - 금과 은의 가격이 급락함에 따라 시장의 안정성에 대한 우려가 커지고 있습니다. 이는 또한 정치적 요인, 특히 트럼프의 무역 정책과 관련된 요소들로 인해 더욱 부각되고 있습니다. 이러한 원자재 시장의 불안정은 화폐 가치에도 부정적인 영향을 미치고 있습니다.
+
+**3. 결론**
+전반적으로, 오늘의 시장 정서는 다소 부정적인 분위기에 지배되고 있습니다. 금리 정책에 대한 불확실성과 기업 실적이 주식 시장에 미치는 영향을 우려하는 투자자들이 많아, 주가는 변동성을 보이고 있습니다. 또한, 금속 가격의 하락과 정치적인 요소가 겹쳐져 투자 심리에 부정적인 영향을 미치고 있습니다. 따라서 투자자들은 앞으로의 경제 지표와 기업 실적에 대해 긴밀히 주시할 필요가 있습니다.

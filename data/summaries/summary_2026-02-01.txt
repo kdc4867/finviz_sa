@@ -1,0 +1,24 @@
+1. 뉴스 헤드라인 분석
+   - 긍정적인 헤드라인: 11
+   - 중립적인 헤드라인: 20
+   - 부정적인 헤드라인: 22
+
+2. 주요 뉴스 요약
+
+   **주제 1: 글로벌 주식 및 경제 동향**
+   - **헤드라인**: *"Indian shares likely to open higher ahead of union budget"*
+   - **헤드라인**: *"India Budget Seen Balancing Jobs Push With Fiscal Discipline"*
+   - 오늘 인도 주식 시장이 연방 예산 발표를 앞두고 강세를 보일 것으로 예상되며, 새로운 예산은 일자리 창출과 재정적 절제를 균형 있게 추진할 것으로 보입니다. 이는 인도 경제 회복에 긍정적인 신호로 작용할 수 있습니다.
+
+   **주제 2: 암호화폐 시장의 불안정성**
+   - **헤드라인**: *"Bitcoin Plunges Below $80,000 as the Crypto Slide Accelerates"*
+   - **헤드라인**: *"Bitcoin falls below $80,000, continuing decline as liquidity worries mount"*
+   - 비트코인이 80,000달러 아래로 하락하며 암호화폐 시장의 불안정성이 더욱 부각되고 있습니다. 유동성 우려가 커지고 있는 가운데 투자자들은 신중한 접근이 필요하다는 경고를 받고 있습니다.
+
+   **주제 3: 미국 경제 정책과 금융 시장**
+   - **헤드라인**: *"Private Credit Worries Bedevil Shares of Biggest Buyout Shops"*
+   - **헤드라인**: *"A Hawkish Kevin Warsh at the Fed Could Haunt Bessent"*
+   - 미국 연준의 통화정책 변화에 대한 우려가 대형 리고 회사를 포함하여 주식 시장에 부정적인 영향을 미치고 있습니다. 케빈 워시의 매파적 성향은 시장에 변동성을 일으킬 수 있으며, 투자자들은 예의주시하고 있습니다.
+
+3. 결론
+   - 오늘 시장의 전반적인 감정은 부정적이며, 특히 암호화폐와 미국 경제 정책에 대한 우려가 두드러집니다. 인도 경제의 긍정적인 신호에도 불구하고, 전 세계적으로 유동성 문제와 통화정책에 대한 불안감은 투자자들에게 신중함을 요구하고 있습니다. 따라서, 향후 시장 이동에 대한 예측은 더욱 복잡할 것으로 보입니다.

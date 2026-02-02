@@ -1,0 +1,25 @@
+## 뉴스 헤드라인 분석
+
+- 긍정적인 헤드라인: 26
+- 중립적인 헤드라인: 30
+- 부정적인 헤드라인: 43
+
+## 주요 뉴스 요약
+
+### 1. 기술 주식 및 AI 투자
+**헤드라인**: *"Nvidia’s OpenAI investment may not be as big as hoped, adding to tech jitters."*  
+**헤드라인**: *"Microsoft’s $381 Billion Rout Exposes Dark Side of the AI Binge."*  
+Nvidia의 OpenAI 투자에 대한 기대가 낮아지면서 기술 주식에 대한 불안감이 커지고 있습니다. Microsoft의 큰 손실은 AI에 대한 과도한 투자가 위험할 수 있음을 알리며, 이는 투자자들 사이에서 신뢰를 떨어뜨릴 수 있습니다.
+
+### 2. 인도 경제 동향
+**헤드라인**: *"India’s Budget Disappoints With Surprise Tax Hike, Investors Say."*  
+**헤드라인**: *"India Raises Tax on Stock Derivatives Trading in Blow to Traders."*  
+인도의 예산안은 이례적인 세금 인상으로 인해 투자자들의 실망감을 불러일으켰습니다. 이러한 세금 인상은 주식 파생상품 거래자들에게 부정적인 영향을 미칠 수 있으며, 인도 시장 전반에 재정적인 불확실성을 가중시킬 것으로 보입니다.
+
+### 3. 국제 원자재 및 금리 동향
+**헤드라인**: *"Oil falls by nearly 3% on Iran talks, OPEC+ production pause."*  
+**헤드라인**: *"Gold near two-week low ahead of increases in CME precious metals margins."*  
+원유 가격이 이란과의 회담을 앞두고 하락했으며, OPEC+의 생산 중지가 지속되는 가운데 금 가격 역시 하락세를 보이고 있습니다. 이러한 원자재 가격의 변동은 전 세계 경제에 미치는 영향이 크며, 투자의 안전자산으로 여겨지는 금에 대한 수요에 압박을 가할 수 있습니다.
+
+## 결론
+오늘 시장의 전반적인 감정은 부정적입니다. 기술 분야에서의 불안과 인도의 재정 정책에 대한 실망이 주요 원인으로 작용하고 있으며, 원자재 가격의 하락이 글로벌 경제에 더욱 큰 영향을 미칠 가능성이 있습니다. 이러한 상황 속에서 투자자들은 리스크 관리에 주의를 기울여야 하며, 특히 금리 상승과 관련된 경향을 지속적으로 모니터링해야 할 것입니다.

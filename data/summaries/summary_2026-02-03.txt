@@ -1,0 +1,24 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 56
+- 중립적인 헤드라인: 29
+- 부정적인 헤드라인: 28
+
+### 2. 주요 뉴스 요약
+
+#### AI 및 기술주 호황
+**헤드라인**: *"Teradyne’s stock soars after this ‘absolute blowout’ forecast fueled by AI"*  
+**헤드라인**: *"Palantir’s stock surges as AI demand drives another record quarter"*  
+AI 기술에 대한 수요가 증가하면서 테라다인과 팔란티어 주식이 급등했습니다. 이는 AI 산업에 대한 낙관적 전망이 투자자 심리에 긍정적인 영향을 미치고 있음을 보여주며, 앞으로의 기대 상승세가 이어질 가능성을 시사합니다.
+
+#### 금융 시장 및 변동성
+**헤드라인**: *"Stocks Climb on Solid Factory Report as Bonds Fall: Markets Wrap"*  
+**헤드라인**: *"Dow ends over 500 points higher, S&P 500 aims for record close — live"*  
+미국의 제조업 지표가 개선되고 주식 시장이 상승세를 보이면서, 다우 지수가 500포인트 이상 상승했습니다. 이는 경제가 회복세를 보이고 있다는 신뢰를 투자자들에게 제공하고 있으며, 앞으로도 주식 시장이 상승 흐름을 지속할 수 있음을 나타냅니다.
+
+#### 금과 은의 변동성과 투자 전략
+**헤드라인**: *"Gold and silver prices turn volatile – what to know before selling jewelry"*  
+**헤드라인**: *"Silver plunges into a bear market for the first time since 2022. Here’s how long it may last."*  
+금과 은 가격의 변동성이 심화되고 있으며, 이로 인해 투자자들이 매각 시점을 신중히 고려해야 하는 상황입니다. 특히, 은은 2022년 이후 첫 번째 약세장에 진입하여, 이는 금속 투자에 대한 전략을 재조정할 필요성을 제기합니다.
+
+### 3. 결론
+오늘의 뉴스는 전반적으로 긍정적인 시장 분위기를 띠고 있으며, AI 및 기술주들이 주도하는 상승세가 두드러졌습니다. 금융 시장은 제조업 지표 개선에 힘입어 급등하고, 이는 경제 회복에 대한 신념을 강화하고 있습니다. 그러나 금속 시장에서의 변동성과 약세장 진입 등의 부정적 요소들은 투자자에게 신중한 접근이 요구되는 상황임을 시사합니다. 전체적으로 U.S. 시장의 주식은 호조세를 보이고 있지만, 특정 자산군에서의 불확실성은 지속적으로 관찰할 필요가 있습니다.

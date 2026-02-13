@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 31
+- 중립적 헤드라인 수: 22
+- 부정적 헤드라인 수: 62
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 기술주 하락과 AI 불안
+**헤드라인**: *"Dow, S&P 500, Nasdaq all end sharply lower as AI fears bleed beyond tech stocks"*  
+**헤드라인**: *"AI turns from lifting all boats to sinking ships"*
+
+최근 기술주가 하락세를 이어가고 있으며, 투자자들의 AI에 대한 불안감이 전 산업에 걸쳐 퍼지고 있습니다. 이러한 하락은 단순히 기술주에 국한되지 않고, 전체 시장에 악영향을 미치고 있어 투자의 안정성에 대한 우려가 커지고 있습니다.
+
+#### 테마 2: 경제 및 부동산 동향
+**헤드라인**: *"Existing-Home Sales Plunge the Most Since November 2022. The Weather?"*  
+**헤드라인**: *"Real Estate Stocks Sink on Worry About AI Risk to Office Demand"*
+
+부동산 시장에서 기존 주택 판매가 크게 감소하며 시장에 부정적인 영향을 미치고 있습니다. 또한 AI 기술의 발전이 사무실 수요에 미치는 위험 때문에 관련 주식들도 하락세를 보이고 있습니다. 이는 부동산 투자자들에게 고통을 안길 수 있는 신호입니다.
+
+#### 테마 3: 유가 및 에너지 시장
+**헤드라인**: *"Venezuela to Grant More Oil Drilling Blocks to Chevron, Repsol"*  
+**헤드라인**: *"Oil Set for Weekly Loss as Iran Concerns Ebb, Wider Markets Drop"*
+
+베네수엘라가 Chevron과 Repsol에게 추가적인 유전 탐사 구역을 제공하기로 결정하면서 에너지 시장에 대한 기대가 커졌습니다. 그러나 이와 동시에 이란 관련 우려가 줄어들면서 유가는 주간 손실을 암시하고 있습니다. 이는 에너지 투자에 대한 시각이 복잡해지고 있음을 보여줍니다.
+
+### 3. 결론
+오늘 하루 시장은 전반적으로 부정적인 감정이 지배하고 있으며, 기술주에 대한 우려가 시장 전반에 영향을 미치고 있습니다. 경제 지표와 부동산 시장의 악화는 추가적인 압박 요소로 작용하고 있습니다. 투자자들은 기술 혁신의 발전이 가져오는 불확실성을 관리해야 할 필요성이 커지고 있으며, 이는 앞으로의 투자 결정에 중요한 영향을 미칠 것입니다.

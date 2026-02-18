@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적 헤드라인 수: 32
+- 중립적 헤드라인 수: 35
+- 부정적 헤드라인 수: 49
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 경제 및 시장 동향
+- **헤드라인**: *"Wall Street recovers in volatile trading as AI anxiety lingers"*
+- **헤드라인**: *"Stocks Whipsaw as AI Worries Linger on Wall Street: Markets Wrap"*
+- 오늘 뉴스에서 월스트리트는 불안정한 거래 속에 회복세를 보였습니다. AI에 대한 우려가 지속되는 가운데, 시장 변동성이 커지고 있어 투자자들은 조심스러운 태도를 유지하고 있습니다.
+
+#### 테마 2: 기업 및 산업 이슈
+- **헤드라인**: *"Bayer Agrees to Pay $7.25 Billion to Settle Roundup Lawsuits"*
+- **헤드라인**: *"Asbestos Lawsuits Prompt Vanderbilt Minerals to File Bankruptcy"*
+- Bayer는 라운드업 소송을 해결하기 위해 72억 5천만 달러를 지급하기로 합의했습니다. 또한, 석면 소송으로 인해 밴더빌트 미네랄스는 파산 신청을 하였습니다. 이러한 사건들은 기업의 법적 리스크와 그로 인한 재정적 압박을 강조하고 있습니다.
+
+#### 테마 3: 정치 및 규제 환경
+- **헤드라인**: *"Virginia passes bill to rejoin controversial power plant agreement"*
+- **헤드라인**: *"Goldman Sachs to Drop D.E.I. Criteria for Board Members"*
+- 최근 버지니아주는 논란이 많은 발전소 합의에 재가입하기로 결정했습니다. 또 한편으로 골드만삭스는 이사회 구성원들의 다양성, 형평성 및 포용성 기준을 버리기로 하면서, 기업의 규제 환경 변화와 정치적 논란이 시장에 미치는 영향을 보여줍니다.
+
+#### 테마 4: 소비자 및 생활 변화
+- **헤드라인**: *"Red Lobster considering more restaurant closures, CEO says"*
+- **헤드라인**: *"Katrina Campins on 2026 market rebalancing to favor buyers"*
+- 레드 롭스터는 더 많은 식당 폐쇄를 고려 중이며, 부동산 전문가인 카트리나 캠핀스는 2026년 시장이 구매자에게 유리하게 재조정될 것이라고 예측합니다. 이는 소비자 행동 변화가 산업 전반에 미치는 파장을 시사합니다.
+
+### 3. 결론
+이번 뉴스에서 전반적인 시장 정서는 다소 부정적이며, 투자자들은 AI 우려와 기업의 법적 문제로 인해 신중한 태도를 취하고 있습니다. 긍정적인 헤드라인보다 부정적인 헤드라인이 많아 시장에 대한 신뢰가 감소하고 있음을 보여줍니다. 앞으로의 경제 상황에 따라 기업의 경영 전략과 소비자 행동이 지속적으로 변화할 것으로 예상됩니다.

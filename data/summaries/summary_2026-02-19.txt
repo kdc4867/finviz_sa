@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 36개
+- 중립적인 헤드라인: 36개
+- 부정적인 헤드라인: 42개
+
+### 2. 주요 뉴스 요약
+
+#### 기술주와 AI 관련 기대감 상승
+**헤드라인**: *"Tech Rally Extends as AI Fears Ease, Samsung Gains: Markets Wrap"*  
+**헤드라인**: *"U.S. stocks close higher, led by Nasdaq, as investors jump back into tech sector"*
+
+이 기술 주제는 AI에 대한 우려가 완화됨에 따라 기술주가 상승세를 보인 것과 관련이 있습니다. 특히 삼성전자의 주가 상승이 두드러진 가운데, 투자자들이 Nasdaq에 다시 뛰어들며 기술 섹터에 대한 긍정적인 전망을 가지고 있음을 시사합니다. 이는 AI 관련 기업들이 시장에서 중요한 역할을 계속할 것이라는 점을 반영하고 있습니다.
+
+#### 연준의 금리 정책 분열
+**헤드라인**: *"Fed officials split on where interest rates should go, minutes say"*  
+**헤드라인**: *"Fed minutes show deep divide on rate path"*
+
+연방준비제도(Fed) 내부에서 금리 방향에 대한 의견이 찾을 수 없어 파장이 일고 있습니다. 일부 위원들은 금리를 인상할 가능성을 언급한 반면, 다른 이들은 즉각적인 인하를 급하지 않다고 강변했습니다. 이는 투자자들에게 금리 변화에 대한 불확실성을 증가시키며 증시에 영향을 미칠 수 있습니다.
+
+#### 글로벌 시장 변화와 안전 자산 선호
+**헤드라인**: *"U.S. stocks are falling behind. It could be the beginning of an epic shift toward global markets."*  
+**헤드라인**: *"Commodity prices, like oil and gold, have risen amid geopolitical concerns."*
+
+미국 주식이 세계 시장에 비해 뒤처지고 있다는 점은 글로벌 투자자들이 다른 지역으로 자금을 옮길 가능성을 제기합니다. 특히, 석유와 금과 같은 안전 자산의 가격 상승이 이러한 변화의 징후일 수 있으며, 이는 시장의 불안정성을 포함한 전 세계적인 경제 상황을 반영하고 있습니다.
+
+### 3. 결론
+오늘의 시장 감정은 부정적인 뉴스가 다소 우세한 가운데 혼조세를 보이고 있습니다. 기술주가 두 번째 날 상승했으나, 연준의 금리 정책에 대한 불확실성과 미국 주식의 상대적 부진은 투자자들에게 우려를 주고 있습니다. 또한, 글로벌 시장으로의 큰 변화가 시작될 수 있음을 시사하며, 안전 자산에 대한 선호도가 증가하는 경향이 엿보입니다. 따라서 투자자들은 시장의 방향성과 금리 변동에 더욱 주의해야 할 시점에 있습니다.

@@ -1,0 +1,29 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 34
+- 중립적인 헤드라인: 38
+- 부정적인 헤드라인: 45
+
+### 2. 주요 뉴스 요약
+
+#### 주제 1: 트럼프 관세 폐지
+**헤드라인**: *"US Supreme Court Strikes Down Trump Tariffs: Wall Street Reacts"*  
+**헤드라인**: *"Supreme Court strikes down Trump's tariffs"*  
+트럼프 전 대통령의 관세가 미국 대법원에 의해 폐지됨에 따라 월스트리트는 긍정적으로 반응하고 있습니다. 이번 판결은 관세가 비즈니스 환경에 미치는 영향을 상당히 변화시킬 것으로 예상되며, 투자자들은 정책 변화에 따른 이익을 누릴 수 있을 것입니다. 
+
+#### 주제 2: 주식 시장 반응
+**헤드라인**: *"Stocks jump after US Supreme Court rejects Trump's tariffs"*  
+**헤드라인**: *"Stocks rise after Supreme Court's tariff decision"*  
+대법원의 결정 이후 주식 시장이 급등했습니다. 이는 트럼프의 관세가 시장 안정성에 부정적인 영향을 미친다는 인식이 일반적이었음을 반영하며, 이러한 변화는 기업의 수익 전망을 개선할 것으로 보입니다. 
+
+#### 주제 3: 관세 환급 및 기업 반응
+**헤드라인**: *"Will U.S. companies now have their tariff costs refunded? What we know so far."*  
+**헤드라인**: *"Businesses Celebrate Tariff Relief, And Brace for New Uncertainty"*  
+트럼프의 관세가 폐지됨에 따라 기업들이 관세 환급을 기대하고 있지만, 이는 복잡한 과정이 될 수 있습니다. 기업들은 이러한 불확실성 속에서 새로운 전략을 모색해야 할 것입니다.
+
+#### 주제 4: 경제 전망
+**헤드라인**: *"U.S. economy caught a chill from winter weather and Trump tariffs, says S&P"*  
+**헤드라인**: *"GDP Slows Dramatically in 2025 Q4 to 1.4 Percent"*  
+S&P의 보고서는 관세와 기후 조건이 미국 경제에 미친 부정적인 영향을 강조하고 있습니다. 이러한 경제 조정은 향후 정책 변화에 영향을 줄 수 있으며, 투자자들은 보다 전략적인 접근이 필요할 것입니다.
+
+### 3. 결론
+오늘의 시장 감정은 혼합된 신호를 보여주고 있으며, 특히 관세 폐지 소식이 주식 시장에 긍정적인 영향을 미친 것으로 나타났습니다. 그러나 관세 환급과 같은 향후 변동성에 대한 우려도 여전히 존재합니다. 투자자들은 트럼프 전 대통령의 새로운 관세 부과 계획에 대한 논의와 시장의 반응을 고려하며 신중한 접근이 필요할 것으로 보입니다. 전체적으로는 긍정적인 재정 여건 속에서도 불확실한 요소들이 남아 있어 시장 동향을 주의 깊게 관찰해야 합니다.

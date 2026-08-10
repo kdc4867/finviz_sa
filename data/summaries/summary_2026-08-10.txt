@@ -1,0 +1,33 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 22개
+- 중립적인 헤드라인: 27개
+- 부정적인 헤드라인: 28개
+
+### 주요 뉴스 요약
+
+#### 1. 글로벌 주식 시장 동향
+**헤드라인**: *"Global Stock Rally Extends, Oil Advances on Iran: Markets Wrap"*  
+**헤드라인**: *"Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026"*
+
+이번 뉴스에서 글로벌 주식 시장은 호조세를 이어가고 있으며, 2026년의 어려운 한 달에도 불구하고 주식 펀드는 10.6% 상승한 것으로 나타났습니다. 이는 투자자들이 긍정적인 실적 발표에 힘입어 주식에 대한 신뢰를 유지하고 있음을 의미합니다.
+
+#### 2. 원유 시장과 이란
+**헤드라인**: *"Wait for Hormuz deal stretches on as Iran says terms must be met"*  
+**헤드라인**: *"Oil rises as uncertainty continues over reopening of Strait"*
+
+이란의 호르무즈 해협을 둘러싼 협상이 길어지고 있으며, 이는 원유 가격에 영향을 미치고 있습니다. 원유 가격이 상승하는 가운데, 투자자들은 이란과의 협상 결과가 시장에 미치는 잠재적 파급 효과에 주목하고 있습니다.
+
+#### 3. 부동산 시장
+**헤드라인**: *"Westpac CEO Flags Moderating Housing Market"*  
+**헤드라인**: *"Why Your Condo Association Might Be Raising Your Dues Soon"*
+
+호주는 현재 주택 시장 둔화 신호를 보이고 있으며, 이는 투자자들에게 새로운 변화를 암시합니다. 또한, 관리비 인상이 예상되는 콘도 협회와 같은 부동산 관리 측면에서도 주의가 필요합니다.
+
+#### 4. 기업 실적 및 경제 지표
+**헤드라인**: *"S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge."*  
+**헤드라인**: *"Barrick Chairman's Planned Overhaul Meets Investor Backlash"*
+
+S&P 500의 매출 성장률이 5년 만에 최고치를 기록하고 있는 가운데, 몇몇 기업에서는 경영 방침에 대한 투자자들의 반발이 촉발되고 있습니다. 이는 기업 경영 방식이 투자자 우려와 직결된다는 점을 보여줍니다.
+
+### 결론
+오늘의 뉴스는 글로벌 주식 시장의 긍정적인 흐름에도 불구하고 이란과의 협상 불확실성이 원유 시장에 부정적인 영향을 미칠 수 있음을 보여줍니다. 부동산 시장의 둔화와 몇몇 기업의 실적에 대한 경계감 또한 나타나고 있습니다. 전반적으로, 시장의 미래에 대한 불확실성이 존재하지만, 일부 기업의 실적 개선은 투자의 기회를 제공할 수 있습니다.

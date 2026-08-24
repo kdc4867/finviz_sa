@@ -1,0 +1,24 @@
+### 뉴스 헤드라인 분석
+- 긍정적: 22
+- 중립적: 19
+- 부정적: 34
+
+### 주요 뉴스 요약
+
+#### 1. 아시아 증시 및 삼성전자의 주가 하락
+- **헤드라인**: *"Asian Stocks Drop on Samsung, Alibaba; Oil Falls: Markets Wrap"*
+- **헤드라인**: *"Samsung Electronics shares fall after shareholder return announcement"*
+- 오늘 아시아 증시에서 삼성전자와 알리바바의 주가 하락이 두드러지며 전체 주식 시장이 부진한 양상을 보였습니다. 삼성전자의 주주 반환 발표 이후 주가가 떨어진 것은 투자자들의 우려를 반영하며, 이는 한국 시장에 부정적인 영향을 미치고 있습니다. 
+
+#### 2. 미-캐나다 무역 갈등
+- **헤드라인**: *"Stock futures slip as U.S. and Canada appear headed for trade war"*
+- **헤드라인**: *"Trump fires back at Canada after Carney suspends trade talks, accuses US of last-minute 'power play'"*
+- 미국과 캐나다 간의 무역 갈등은 주식 선물 시장에 부정적인 영향을 미쳤습니다. 트럼프 전 대통령의 발언은 긴장을 더욱 고조시키며, 향후 무역 전쟁의 가능성을 시사하고 있습니다. 이러한 상황은 투자자들에게 불확실성을 제공하고 있습니다.
+
+#### 3. 현대 기술과 헬스케어 산업의 기회
+- **헤드라인**: *"Strategist sees opportunity for health care and biotech stocks"*
+- **헤드라인**: *"Nvidia's upcoming earnings poised to be another big test for the stock market"*
+- 헬스케어와 생명공학 주식에 대한 전략가의 긍정적인 전망은 기술주 전반에 대한 기대감을 반영합니다. 특히, 엔비디아의 실적 발표가 시장의 중요한 시험대가 될 것이라는 분석이 나와 증시의 방향성에 큰 영향을 미칠 것으로 보입니다.
+
+### 결론
+오늘 시장 sentiment은 전반적으로 부정적인 흐름을 나타내고 있습니다. 아시아 증시의 하락과 미-캐나다 간의 무역 갈등이 주요 원인으로 작용하며, 이는 투자자들의 불안감을 증대시켰습니다. 그러나 헬스케어와 기술 주식에 대한 기회도 존재하며, 이는 시장에서 긍정적인 결과를 가져올 수 있는 요인으로 작용할 수 있습니다. 투자자들은 이와 같은 복합적인 상황을 주의 깊게 살펴봐야 할 것입니다.

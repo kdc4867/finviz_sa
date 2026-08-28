@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- **긍정적인 헤드라인 수**: 19
+- **중립적인 헤드라인 수**: 29
+- **부정적인 헤드라인 수**: 28
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 연준(Fed)과 경제 정책
+**헤드라인**: *"2 Fed officials warn on inflation ahead of Warsh's Jackson Hole speech"*  
+**헤드라인**: *"Jackson Hole History Shows Fed Chief Rarely Shocks Stock Market"*
+
+연준의 통화 정책에 대한 긴장이 높아지고 있습니다. 두 명의 연준 관료가 물가 상승에 대한 우려를 표명한 가운데, 워시(Warsh)의 잭슨홀(주) 연설이 임박했습니다. 이와 함께 과거 잭슨홀에서 연준 의장의 발언이 시장에 미치는 영향이 크지 않음을 언급, 투자자들은 이에 대한 반응을 경계할 것입니다.
+
+#### 테마 2: 기술주 불안
+**헤드라인**: *"S&P 500, Nasdaq futures slip after tech rally; Warsh's speech awaited"*  
+**헤드라인**: *"Broadcom results pose next hurdles for stock market rally"*
+
+기술주에 대한 우려가 커지고 있으며, S&P 500과 나스닥 선물이 하락세를 보였습니다. 특히, 브로드컴의 실적이 시장 랠리의 다음 장벽이 될 수 있다는 분석은 투자자들에게 변동성이 클 수 있다는 신호로 비춰지고 있습니다. 이는 전체 기술주에 대한 신뢰도가 저하될 우려가 있음을 나타냅니다.
+
+#### 테마 3: 국제 정치와 경제
+**헤드라인**: *"Moscow Warns It Could Target British Military Facilities In Unprecedented Statement"*  
+**헤드라인**: *"Pakistan Slams Interview With Khan’s Sons During Cricket Match"*
+
+글로벌 경향 또한 주목할 만합니다. 모스크바의 경고는 영국과의 관계에서 새로운 긴장을 예고하며, 이는 투자자들에게 불안정성을 증가시킬 수 있습니다. 파키스탄 내에서도 정치적 갈등이 심화되고 있어, 이러한 상황은 중동 및 아시아 시장에서의 투자 심리에 직접적인 영향을 미칠 수 있습니다.
+
+### 3. 결론
+오늘의 시장은 전반적으로 부정적인 감정을 보이며, 주요 이슈들이 복합적으로 작용하고 있습니다. 특히 연준의 통화 정책, 기술주의 불안, 그리고 국제 정치적 긴장이 시장에 미치는 영향이 두드러지고 있습니다. 투자자들은 현재의 불안정한 상황을 고려하며 신중한 접근이 필요할 것으로 보입니다. 따라서, 가까운 시일 내에 발표될 연준의 발언에 주목할 필요가 있습니다.

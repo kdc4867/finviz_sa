@@ -1,0 +1,28 @@
+### 뉴스 헤드라인 분석
+- 긍정적인 헤드라인: 2개
+- 중립적인 헤드라인: 3개
+- 부정적인 헤드라인: 3개
+
+### 주요 뉴스 요약
+
+#### 1. 기술 및 엔터테인먼트 업계
+**헤드라인**: *"India's Happiest Minds slides as investors fret over lengthy ITC deal closure"*  
+**헤드라인**: *"Unity Software: The Ad Network Hiding Inside A Game Engine"*  
+Happiest Minds와 관련된 문제는 ITC 거래의 지연으로 인한 투자자들의 불안감을 반영하고 있습니다. 이는 기술 회사의 성장 전망에 부정적인 영향을 미치며, Unity Software의 경우에는 광고 네트워크 통합이 앞으로의 수익성을 증대시킬 잠재력을 가지고 있지만 그에 대한 시장의 반응은 미지수입니다.
+
+#### 2. 글로벌 경제 및 시장 동향
+**헤드라인**: *"Bond selloff deepens as rising energy prices stoke inflation fears"*  
+**헤드라인**: *"Fed Rate-Hike Bets Sink Global Bonds"*  
+세계적으로 에너지 가격 상승이 인플레이션 우려를 자극하며 채권 매도가 심화되고 있습니다. 이로 인해 연준의 금리 인상 가능성이 높아지면서 글로벌 채권 시장이 타격을 받고 있으며, 이는 투자자들이 자산 배분에 신중을 기해야 함을 시사합니다.
+
+#### 3. 원자재 시장
+**헤드라인**: *"Oil Gains: Markets Wrap"*  
+**헤드라인**: *"Defence spending and the stability of a country"*  
+원유 시장에서는 긍정적인 흐름이 이어지고 있으며, 전 세계적으로 방산 지출이 국가의 안정성과 연결되고 있습니다. 이는 특정 국가들의 방산 수요 증가에 따라 원자재 가격에 긍정적인 영향을 줄 가능성이 있으며, 이는 산업 전반에 걸친 투자 유인력을 증대시킬 수 있습니다.
+
+#### 4. 인도 경제 동향
+**헤드라인**: *"India's Tribhovandas Bhimji Zaveri soars to record high on growth optimism after GRT Jewellers deal"*  
+인도의 주식시장에서는 Tribhovandas Bhimji Zaveri가 GRT Jewellers 거래 이후 성장 기대감으로 사상 최고치를 기록했습니다. 이는 인도 경제의 회복세와 소비자 신뢰도를 반영하는 긍정적인 신호입니다.
+
+### 결론
+현재 시장의 감정은 복잡하게 얽힌 상황을 반영하고 있습니다. 긍정적인 뉴스가 제한된 가운데, 기술 및 글로벌 경제 관련 부정적인 뉴스가 시장 전반에 걸쳐 불안정을 초래하고 있습니다. 원자재 시장에서의 우세는 다소 긍정적인 요인으로 작용하지만, 통화 정책 및 인플레이션 압력은 지속적인 관찰이 필요합니다. 전반적으로 투자자들은 조심스러운 접근이 요구되는 상황입니다.

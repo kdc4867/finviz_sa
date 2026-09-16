@@ -1,0 +1,29 @@
+### 뉴스 헤드라인 분석
+- 긍정적 헤드라인: 5
+- 중립적 헤드라인: 2
+- 부정적 헤드라인: 3
+
+### 주요 뉴스 요약
+
+#### 1. 금리 및 중앙은행 정책
+**헤드라인**: *"Stock futures edge higher ahead of pivotal Fed rate decision"*  
+**헤드라인**: *"Stocks and Bonds Edge Up Before Fed; Oil Declines: Markets Wrap"*  
+금리 결정이 임박함에 따라 주식과 채권 시장이 소폭 상승세를 보이고 있습니다. 이는 투자자들이 중앙은행의 금리 정책에 대한 기대감을 가지며 시장에 긍정적인 영향을 미친 것으로 분석됩니다. 그러나 유가가 하락한 점은 유의할 필요가 있습니다.
+
+#### 2. 지정학적 리스크와 투자
+**헤드라인**: *"Investors Look Past Romania Risk to Pocket Junk-Like Yields"*  
+**헤드라인**: *"Warsh on collision course with Trump administration"*  
+루마니아의 지정학적 리스크에도 불구하고, 투자자들은 고위험 고수익의 기회를 추구하고 있습니다. 반면, 금융 전문가인 워시가 트럼프 행정부와의 충돌 가능성을 언급한 것은 정치적 불확실성이 지속되고 있음을 나타내며 시장에 부정적인 영향을 미칠 수 있습니다.
+
+#### 3. 특정 산업 동향
+**헤드라인**: *"India's payment firms jump as UPI fee boosts revenue outlook"*  
+**헤드라인**: *"UniCredit Banker Sees Bigger Rally in Soaring Polish Equities"*  
+인도의 결제 산업은 UPI 수수료 증가로 인해 긍정적인 전망을 보이고 있으며, 폴란드의 주식 시장도 강세를 이어갈 것이라는 예측이 나오고 있습니다. 이는 특정 산업 내 성장 가능성이 높음을 시사하며, 투자자들에게 새로운 기회를 제공할 수 있습니다.
+
+#### 4. 기술 산업 동향
+**헤드라인**: *"OpenAI Considers New Financing at a $1.5 Trillion Valuation"*  
+**헤드라인**: *"China's AI leaders keep quiet despite U.S. 'publicity' on tech risks"*  
+오픈AI가 1.5조 달러의 가치 평가를 바탕으로 새로운 자금 조달을 고려하고 있다는 것은 기술 산업의 급속한 성장과 투자자들의 관심을 반영합니다. 그러나 미국의 기술 리스크 공시에 대한 중국 AI 리더들의 무관심은 국제적인 기술 경쟁의 복잡함을 보여줍니다.
+
+### 결론
+전반적으로 오늘 시장의 정서는 긍정적인 모습이지만, 지정학적 리스크와 내부 정치적 불확실성이 여전히 투자자들에게 우려를 주고 있습니다. 그런 가운데, 특정 산업에서는 긍정적인 성장 전망이 드러나고 있으며, 특히 기술 및 결제 산업에 대한 투자가 유망한 것으로 보입니다. 중앙은행의 금리 결정이 시장에 미칠 향후 영향에도 주목해야 할 시점입니다.

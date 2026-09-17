@@ -1,0 +1,27 @@
+### 1. 뉴스 헤드라인 분석
+- 긍정적: 4
+- 중립적: 2
+- 부정적: 3
+
+### 2. 주요 뉴스 요약
+
+#### 테마 1: 미국 연준(Fed)의 통화 정책
+- **헤드라인**: *"Shares edge up after Fed hike, dollar firm on short-term yields"*
+- **헤드라인**: *"Fed builds credibility, but hawkish turn leaves investors edgy"*
+
+연준의 금리 인상 후 주가가 소폭 상승하고 달러가 단기 수익률에 힘입어 견조한 모습을 보이고 있습니다. 그러나 강경한 통화 정책의 전환이 투자자들에게 불안감을 주고 있어 향후 시장의 변동성을 예고합니다. 이는 투자자들이 금리에 대한 불확실성을 감수해야 함을 시사합니다.
+
+#### 테마 2: 글로벌 및 정치적 이슈
+- **헤드라인**: *"Trump calls Canada's potential EU associate membership 'laughable,' warns Europe of 'very heavy tariffs'"*
+- **헤드라인**: *"Morning Bid: Fed lifts the hawkish bar for BoE"*
+
+트럼프 전 대통령의 발언은 캐나다의 EU 준회원국 지위 가능성을 부정적으로 바라보며 유럽에 대한 무역 압박을 예고하고 있습니다. 이러한 발언은 정치적 불확실성을 증가시키고 있으며, 투자자들은 무역 관계의 변화가 시장에 미치는 영향을 주의깊게 살펴봐야 할 필요가 있습니다.
+
+#### 테마 3: 인도의 IPO 및 기업 동향
+- **헤드라인**: *"India's Asset Reconstruction Company edges up after flat debut"*
+- **헤드라인**: *"India's Rentomojo jumps 25% in trading debut, valued at $553 million"*
+
+인도의 자산 재구성 회사가 상장 첫날 평범한 성과를 기록한 반면, 렌토모조는 거래 첫날 25% 상승하며 $5억 5천3백만의 가치를 기록했습니다. 이는 인도 시장에서 혁신적인 스타트업에 대한 신뢰도가 높아지고 있고, IPO 시장이 활발히 진행되고 있다는 긍정적인 신호로 해석될 수 있습니다.
+
+### 3. 결론
+전반적인 시장 감정은 혼재된 모습으로, 미국 연준의 강경한 통화 정책 방침이 부각되고 있지만, 인도 IPO 시장에서의 긍정적인 소식도 함께 전해지고 있습니다. 한편, 트럼프 전 대통령의 발언은 글로벌 무역 및 정치적 긴장을 재조명하고 있습니다. 투자자들은 이러한 다양한 요소들을 고려하여 전략을 수정할 필요가 있으며, 특히 통화 정책의 변화에 대한 모니터링이 중요해 보입니다.
